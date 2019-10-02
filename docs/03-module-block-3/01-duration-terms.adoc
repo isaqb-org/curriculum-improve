@@ -1,0 +1,46 @@
+// tag::FEEDBACK[]
+:filename: 03-module-block-3/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: XXX Min. | Übungszeit: XXX Min.
+|===
+
+=== Begriffe und Konzepte
+* Begriff 1
+* Begriff 2
+* Begriff 3
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 90 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+* Effort, cost, estimate, observation/measurement, assumptions
+* economic dimensions
+** Investment, yield, cost, value
+** Return-on-Invest (ROI)
+** Break-Even,
+** RTC and BTC costs
+* Interval estimation, Law of large numbers.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

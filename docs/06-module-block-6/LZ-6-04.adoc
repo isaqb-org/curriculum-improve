@@ -1,0 +1,44 @@
+// tag::FEEDBACK[]
+:filename: 06-module-block-6/LZ-6-04.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-6-4]]
+==== LZ 6-4: Dies ist das erste Lernziel in Kapitel 6, lorem ipsum sit dolor
+
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-4]]
+==== LG 6-4: Know and understand improvement measures of a real-life project (R2)
+
+* Participants should know and be able to understand possible or
+implemented improvement measures in a given example.
+
+// end::EN[]
+
+// tag::REMARK[]
+
+[NOTE]
+====
+KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
+====
+// end::REMARK[]

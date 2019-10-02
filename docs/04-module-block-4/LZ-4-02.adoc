@@ -1,0 +1,38 @@
+// tag::FEEDBACK[]
+:filename: 04-module-block-4/LZ-4-02.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-4-2]]
+==== LZ 4-2: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-2]]
+==== LG 4-2: Know and argue typical methods for improvement (R2)
+
+Know typical methods for improvement, e. g.,:
+
+* Long-term continuous improvement,
+* Improving releases,
+* Application strangling,
+* Encapsulation of (localised) problems or risks in black-boxes,
+* Extraction of business aspects, separation of technical aspects,
+* Incremental replacement of problematic parts of system,
+* Rewrite,
+* Outsourcing,
+* Business process reengineering.
+
+Being able to communicate and argue approaches to long-term improvement
+to different stakeholders.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

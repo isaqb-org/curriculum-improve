@@ -1,0 +1,27 @@
+// tag::FEEDBACK[]
+:filename: 05-module-block-5/LZ-5-05.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-5-5]]
+==== LZ 5-5: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-5]]
+==== LG 5-5: Know relevant architectural-/design- or implementation patterns to reduce system-internal coupling (R1)
+
+* Know and be able to apply typical patterns to reduce coupling (e. g., modularisation/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
+* Understand the impact of typical patterns (possibly by using
+appropriate tools).
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

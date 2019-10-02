@@ -1,0 +1,61 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/04-prerequisites-for-this-training.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+=== Voraussetzungen
+
+Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+
+- Voraussetzung 1
+- Voraussetzung 2, etc.
+
+**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
+
+- Kenntnisgruppe 1:
+  * Kenntnis 1
+  * Erfahrung 2
+  * Kenntnis 3
+  * Erfahrung 4
+  * Wissen 5
+// end::DE[]
+
+// tag::EN[]
+=== Prerequisites
+
+Participants *should* have the following knowledge and/or experience:
+
+* Hands-on experience in design and development of small to medium size
+software systems.
+* Some hands-on experience in maintenance and evolution of a software
+system.
+* Some hands-on experience with the handling of source code of medium to
+large scale systems, in particular analysis, assessment, quality check,
+refactoring, and applying of metrics.
+
+Furthermore, the following will be useful for understanding certain
+concepts:
+
+* Knowledge and hands-on experience with refactoring (see e. g.,
+[Fowler+99])
+* Knowledge or some hands-on experience with review and evaluation of
+software:
+** Basic knowledge about software metrics, such as metrics to measure
+coupling, cohesion, dependency and complexity.
+** Basic knowledge of software run time analysis such as profiling,
+tracing, log analysis and data analysis.
+** Basic knowledge and some experience with the estimation of
+development efforts.
+* Some hands-on experience with requirements engineering as well as
+contact with various stakeholders in development projects.
+* Some hands-on experience with analysis of development processes.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
+====
+// end::REMARK[]
