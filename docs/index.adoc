@@ -14,12 +14,12 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 | Version | Comments | HTML | PDF
 
 | English
-|
+| no
 | link:curriculum-improve_en.html[HTML]
 | link:curriculum-improve_en.pdf[PDF]
 
 | English
-| ✔️
+| yes
 | link:curriculum-improve_remarks_en.html[HTML]
 | link:curriculum-improve_remarks_en.pdf[PDF]
 
