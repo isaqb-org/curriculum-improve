@@ -1,0 +1,21 @@
+// header file for curriculum section 3: Lerneinheit 3
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Lerneinheit 3
+// end::DE[]
+
+// tag::EN[]
+== Lesson 3: Estimate and Assess Problems and Solution Approaches
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+
+=== {learning-goals}
+
+include::LZ-3-01.adoc[{include_configuration}]
+include::LZ-3-02.adoc[{include_configuration}]
+include::LZ-3-03.adoc[{include_configuration}]

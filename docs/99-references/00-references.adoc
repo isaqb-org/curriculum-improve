@@ -1,0 +1,57 @@
+// header file for curriculum section "References"
+// (c) iSAQB e.V. (https://isaqb.org)
+// ===============================================
+
+
+[bibliography]
+== {references}
+
+// tag::FEEDBACK[]
+:filename: 99-references/00-references.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+// end::DE[]
+
+// tag::EN[]
+This section contains references that are cited in the curriculum.
+// end::EN[]
+
+
+A +
+
+[[[aim42+2017]]]
+Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. http://aim42.org/[http://aim42.org] as well as http://aim42.github.io/[http://aim42.github.io]
+
+
+B +
+[[[Bass+2012]]] Bass, L., Clements, P. und Kazman, R.: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012
+
+[[[Bommer+2008]]] Softwarewartung: Grundlagen, Management und Wartungstechniken. dpunkt.verlag, 2008.
+
+
+C +
+[[[Clements+2001]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures Methods and Case Studies. Addison-Wesley, 2001.
+
+
+F +
+
+[[[Feathers+2007]]] Working Effectively with Legacy Code. Prentice Hall, 2007.
+
+[[[Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+
+
+L +
+
+[[[Lippert+2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
+
+[[[Lilienthal 2016]]] Carola Lilienthal: Langlebige Softwarearchitekturen, Technische Schulden analysieren, begrenzen und abbauen. Dpunkt.verlag, 2016.
+
+
+M +
+
+[[[McConnell+2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
+
+[[[Murer+2010]]] Stephan Murer, Bruno Bonati: Managed Evolution: A Strategy for Very Large Information Systems. Springer, 2010.

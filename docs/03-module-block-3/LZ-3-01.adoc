@@ -1,0 +1,47 @@
+// tag::FEEDBACK[]
+:filename: 03-module-block-3/LZ-3-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Know and explain economic dimensions (R1)
+
+* Explain costs and value as linked concepts.
+* Name and classify different kinds of economic dimensions, such as:
+* Direct costs, education costs, capital expenditures (direct and indirect cost of investment), operating expenditures, opportunity cost, and cost of delay
+* Investment and operating expenses (OPEX), Run-the-Company (RTC) and Develop-the-Company (DTC)
+* ROI, break-even, depreciation and amortisation
+* One-time and reoccurring costs, known and estimated costs.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
