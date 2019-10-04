@@ -1,5 +1,4 @@
 = image:./docs/isaqb-logo.jpg[iSAQB,150] Curriculum for the CPSA-advanced module IMPROVE
-
 :toc:
 :toc-placement!:
 
@@ -21,17 +20,18 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 This is <<copyrighted,copyrighted work>>.
 
-== Content
 This repository contains the curriculum for the iSAQB Advanced Level "IMPROVE" written in AsciiDoc.
 
+== Content of this "readme"
 toc::[]
 
-== How to contribute or participate
-Create an issue, a merge- or pull-request
+== Where to find the results
 
-== How to use this template
+FIXME: Currently no documents are generated, as the travis-CI build is unfinished.
 
-1. Clone or download - but include the submodule:
+== How to generate the documents
+
+1. Clone or download the repository - and **include the submodule**:
 +
 --
 [source,shell]
@@ -45,7 +45,11 @@ git clone git@github.com/isaqb-org/curriculum-improve.git --recursive
 ** the output formats called `backends` (pdf and/or html5);
 ** the document version.
 
-== How to write iSAQB Advanced Level Curricula with AsciiDoc
+== How to contribute or participate
+Create an issue, a merge- or pull-request
+
+
+=== How to write iSAQB Advanced Level Curricula with AsciiDoc
 
 Please take a look at https://github.com/isaqb-org/advanced-template#how-to-write-isaqb-advanced-level-curricula-with-asciidoc
 
@@ -55,6 +59,36 @@ Please take a look at https://github.com/isaqb-org/advanced-template#how-to-writ
 This repository is currently maintained by Gernot Starke, Markus Harrer and Benjamin Wolf.
 It was forked from https://github.com/isaqb-org/advanced-template, so the contributors of that project basically contributed to this one, too.
 
+
+== Contributors
+
+Parts of the content origined from the https://aim42.org[aim42 open source method] for architecture improvement. Thanx to all https://github.com/aim42/aim42/graphs/contributors[contributors] of aim42!
+
+
+== Releases and Versions
+
+* The iSAQB Advanced working group is responsible for official releases.
+* Gernot Starke is currently leading maintainer of IMPROVE.
+
+=== Current release
+* The latest official version is v 1.6.
+* Release 1.7.0 is under way (with only minor content changes, but generated from Asciidoc)
+
+=== General release process
+* Releases are tagged in git
+
+Steps for a document release (e.g. version a.b.0 ):
+* internal preview a.b.c-DRAFT, our working version
+* a.b.0-RC-1 for review within the Advanced-working-group
+* a.b.0-RC-2 for review for all IMPROVE training providers
+* a.b.0 final release
+
+* minor updates (a.g. a.b.1, a.b.2 etc) are reviewed ONLY by the maintainers and parts of the working group.
+
+== iSAQB Contact Information
+
+* iSAQB office: -> https://isaqb.org[iSAQB website]
+* iSAQB working group, responsible for curriculum content: advanced - at - isaqb - dot - org
 
 [[copyrighted]]
 == Licensing and Copyright
