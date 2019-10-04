@@ -1,4 +1,4 @@
-= Curriculum for the CPSA-advanced module IMPROVE
+= image:./docs/isaqb-logo.jpg[iSAQB,150] Curriculum for the CPSA-advanced module IMPROVE
 
 :toc:
 :toc-placement!:
