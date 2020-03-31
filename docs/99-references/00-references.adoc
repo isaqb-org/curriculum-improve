@@ -6,10 +6,6 @@
 [bibliography]
 == {references}
 
-// tag::FEEDBACK[]
-:filename: 99-references/00-references.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
