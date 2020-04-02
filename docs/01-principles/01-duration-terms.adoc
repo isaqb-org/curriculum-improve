@@ -22,8 +22,7 @@
 |===
 
 === Terms and concepts
-* Software architecture: structure, building blocks/components,
-interfaces, cross-cutting concepts
+* Software architecture: structure, building blocks/components, interfaces, cross-cutting concepts
 * Change, evolution, maintenance, improvement of software
 * Categories of problems and risks in software (technical debts)
 * Core terms related to improvement and change of software
