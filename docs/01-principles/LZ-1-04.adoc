@@ -1,7 +1,8 @@
 
 // tag::DE[]
 [[LZ-1-4]]
-==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen kennen und erläutern
+==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen
+
 Beispielsweise:
 * Ad-hoc Verbesserung, einmalige Verbesserung
 * Schrittweise Verbesserung (mittel- bis langfristig angelegt)
@@ -13,7 +14,8 @@ Beispielsweise:
 
 // tag::EN[]
 [[LG-1-4]]
-==== LG 1-4: Know and explain possible approaches for changes
+==== LG 1-4: Possible approaches for changes
+
 For example:
 
 * Ad-hoc improvement, one-off improvement
