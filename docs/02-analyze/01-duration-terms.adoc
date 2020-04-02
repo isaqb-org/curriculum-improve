@@ -1,21 +1,22 @@
-// tag::FEEDBACK[]
-:filename: 02-module-block-2/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
+[width=50%]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 210 Min. | Übungszeit: XXX Min.
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+
+* Ist-Analyse, Stärken/Schwächen-Analyse
+* Stakeholder 
+* Problem, Ursache versus Symptom 
+* Lösungsansatz 
+
 
 // end::DE[]
 
 // tag::EN[]
+[width=50%]
 |===
 | Lesson duration: 210 min | Exercises: 0 min
 |===
@@ -27,16 +28,7 @@ include::../config/_feedback.adoc[]
 * Solution approach.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
+
 // end::REMARK[]

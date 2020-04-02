@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Lerneinheit 2
+== Ist-Situation analysieren
 // end::DE[]
 
 // tag::EN[]
-== Lesson 2: Analyse Current State
+== Analyse Current State
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
