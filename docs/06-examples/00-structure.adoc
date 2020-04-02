@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Lerneinheit 6
+== Beispiele für Verbesserung
 // end::DE[]
 
 // tag::EN[]
-== Lesson 6: Examples of Improvement
+== Examples of Improvement
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
