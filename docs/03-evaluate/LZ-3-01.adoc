@@ -1,34 +1,21 @@
-// tag::FEEDBACK[]
-:filename: 03-module-block-3/LZ-3-01.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+==== LZ 3-1: Betriebswirtschaftliche Größen
 
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+•	Kosten und Wert als Begriffspaare erläutern
+•	Unterschiedliche Arten von betriebswirtschaftlichen Größen benennen und einordnen können, beispielsweise:
+•	Kosten für direkte Aufwände, Ausbildungskosten, Kapitalkosten (direkte und indirekte Kosten der Investition), Betriebskosten, Opportunitätskosten, Kosten der Verzögerung (Cost of Delay)
+•	Investitionen und laufenden Kosten, Run-the-Company (RTC) und Develop-the-Company (DTC)
+•	ROI, Break-Even, Abschreibungen und Amortisierung
+•	Einmalige und wiederkehrende Aufwände, bekannte und geschätzte Aufwände.
 
+-
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Know and explain economic dimensions (R1)
+==== LG 3-1: Economic dimensions
 
 * Explain costs and value as linked concepts.
 * Name and classify different kinds of economic dimensions, such as:
@@ -39,9 +26,3 @@ include::../config/_feedback.adoc[]
 
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
