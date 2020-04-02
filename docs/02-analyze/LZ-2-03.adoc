@@ -1,0 +1,26 @@
+// tag::FEEDBACK[]
+:filename: 02-module-block-2/LZ-2-03.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-2-3]]
+==== LZ 2-3: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-3]]
+==== LG 2-3: Being able to methodically document identified problems and risks (R1)
+
+* Participant shall be able to initiate an adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
+* Tools and examples for problem documentation.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
