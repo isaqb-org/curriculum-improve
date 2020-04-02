@@ -20,7 +20,7 @@ For example:
 * Stepwise improvement (mid- to long-term)
 * Improvement by newly developed system or system parts (rewrite)
 * Purely structural improvements (refactoring)
-* Conceptual/structural improvements (re-architecting, reengineering).
+* Conceptual/structural improvements (re-architecting, reengineering)
 
 // end::EN[]
 
