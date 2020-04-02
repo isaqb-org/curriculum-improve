@@ -1,6 +1,7 @@
 // tag::DE[]
 == Allgemeines zum iSAQB Advanced Level
 
+=== iSAQB und CPSA-A
 Der _International Software Architecture Qualification Board_ (iSAQB(R)) bringt Expert*innen für Softwarearchitektur
 aus Industrie, Beratung, Ausbildung, Wissenschaft und anderen Organisationen zusammen.
 
@@ -11,6 +12,8 @@ standardisierte Schemata für die Ausbildung, die weltweit anerkannt sind. Mehr 
 
 // tag::EN[]
 == General information about the iSAQB Advanced Level
+
+=== On iSAQB and CPSA-A
 
 The _International Software Architecture Qualification Board_ (iSAQB(R)) brings together professional software architecture experts from industry, consulting, training, academia and other organisations.
 
