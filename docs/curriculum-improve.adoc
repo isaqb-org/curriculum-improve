@@ -54,7 +54,7 @@ include::01-basics/00-basics.adoc[{include_configuration}]
 include::01-principles-1/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-analyze/00-structure.adoc[{include_configuration}]
 
 <<<
 include::03-module-block-3/00-structure.adoc[{include_configuration}]
