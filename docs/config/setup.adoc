@@ -13,14 +13,6 @@ ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
 
-// if the attribute ":withFeedback:" is set, we include buttons to give
-// feedback to specific content sections.
-:withFeedback!:
-:feedback:
-ifdef::withFeedback[]
-:feedback: ;FEEDBACK
-endif::withFeedback[]
-
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: EN
@@ -28,7 +20,7 @@ endif::withFeedback[]
 // ":include_configuration:" always consists of the language, optionally
 // followed by ";REMARK" or ";FEEDBACK".
 // additional markers might be configured here!
-:include_configuration: tags=**;{language}{remarks}{feedback};!*
+:include_configuration: tags=**;{language}{remarks};!*
 
 :curriculum-short: IMPROVE
 
