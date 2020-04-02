@@ -25,7 +25,7 @@ endif::withRemarks[]
 :curriculum-short: IMPROVE
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
+:curriculum-name: Evolution und Verbesserung von Softwarearchitekturen
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
