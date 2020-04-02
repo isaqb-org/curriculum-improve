@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-2-2]]
-==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse kennen und anwenden können
+==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse
 
 Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen können. Dazu gehören insbesondere folgende Ansätze:
 
@@ -23,7 +23,7 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 
 // tag::EN[]
 [[LG-2-2]]
-==== LG 2-2: Know typical practices and methods for current state analysis and being able to apply them (R1)
+==== LG 2-2: Typical practices and methods for current state analysis
 
 Know typical practices for current state analysis and being able to
 choose the appropriate method in each situation according to budget,
