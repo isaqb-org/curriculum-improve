@@ -16,7 +16,7 @@
 * at least three years industrial, full-time experience in the IT sector; including collaboration on design and development of at least two different IT systems
 ** exceptions may be granted (for example: contributions to open source projects)
 * participation at iSAQB Advanced Level trainings worth at least 70 credit points from two different areas of competence
-** existing certifications (for example: Sun/Oracle Java architect, Microsoft CSA) may be credited
+
 * passing the CPSA-A certification exam
 // end::EN[]
 
