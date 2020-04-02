@@ -1,28 +1,21 @@
-// tag::FEEDBACK[]
-:filename: 01-module-block-1/LZ-1-02.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 [[LZ-1-2]]
-==== LZ 1-2: Dies ist das erste Lernziel, in Kategorie xy
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
+==== LZ 1 2: Typische Kategorien von Problemen an Software kennen und erläutern (R1)
+*	Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, Redundanz, Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien
+*	Strukturelle Probleme in Daten oder Datenstrukturen
+*	Strukturelle Probleme im Quellcode, etwa: 
+**	fehlende oder unzureichende Modularisierung,
+**	enge Kopplung, 
+**	hohe Komplexität, 
+**	geringe Kohäsion, 
+**	handwerkliche Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder –werkzeugen.
+*	Laufzeitprobleme in Systemen, etwa Instabilität, mangelnde Robustheit oder Zuverlässigkeit, mangelnde Performance oder zu hoher Ressourcenbedarf, mangelnde Skalierbarkeit, mangelnde Transparenz von Systemabläufen
+*	„Altlasten“ durch häufige Anforderungsänderung unter Zeit- und/oder Kostendruck
+*	Verschiedene Arten von technischen Schulden erkennen und benennen
+*	Probleme bei Erreichung von Qualitätszielen oder -anforderungen, etwa mangelnde Änderbarkeit oder Wartbarkeit, geringe Flexibilität, mangelnde Sicherheit oder mangelnde Portabilität
+*	Probleme in Entwicklungs- oder Betriebsprozesse oder sonstiger beteiligter Prozesse (z. B. Anforderungsmanagement, Test/QS, Konfiguration, Deployment, Monitoring/Alerting).
 
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
 
 // end::DE[]
 
@@ -33,11 +26,11 @@ include::../config/_feedback.adoc[]
 * Conceptual weaknesses, e. g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
 * Structural problems in data or data structures.
 * Structural problems in source code, such as:
-* Missing or inadequate modularisation,
-* Tight coupling,
-* High complexity,
-* Low cohesion,
-* Flaws in programming, e. g., non-idiomatic use of languages or tools.
+** Missing or inadequate modularisation,
+** Tight coupling,
+** High complexity,
+** Low cohesion,
+** Flaws in programming, e. g., non-idiomatic use of languages or tools.
 * Runtime problems in systems, like instability, lack of robustness or reliability, insufficient performance or extensive resource demands, insufficient scalability, insufficient transparency of system processes
 * “Legacy” gathered by frequent changes of requirements made under time and/or cost pressure.
 * Recognize and name different kinds of technical debts.
@@ -47,8 +40,5 @@ include::../config/_feedback.adoc[]
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+
 // end::REMARK[]
