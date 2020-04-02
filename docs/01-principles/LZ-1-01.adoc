@@ -1,24 +1,20 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
-
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+==== LZ 1-1: Gründe für Veränderungen an Software kennen und erläutern (R1)
+* Funktionale Erweiterung oder Änderung
+* Änderung von Qualitätsanforderungen oder -zielen
+* Änderungen in technischem oder fachlichen Kontext (z. B. Änderung an externen Schnittstellen)
+* Fehlerbehebung
+* Organisatorische Änderungen (z. B. Änderungen juristischer Rahmenbedingungen oder Anforderungen, an Organisationsstrukturen in Fachbereichen, Entwicklung oder Betrieb)
+* Kosten- oder Aufwandsreduktion, insbesondere bezüglich
+** Entwicklungskosten oder -aufwände
+** Betriebskosten oder -aufwände
+** Kosten der Fehlerbehebung und Kosten von Folgeschäden
+** Kosten beteiligter Prozesse
+** Opportunitätskosten
+* Intrinsische Motivation beteiligter Personen, insbesondere Software-Entwickler und -Architekten
+*	Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
 // end::DE[]
 
@@ -30,21 +26,18 @@
 * Change in quality requirements and goals
 * Changes in technical or business context (e. g., change in external interfaces)
 * Bug fixing
-* Changes in organisation (e. g., changes of legal conditions or requirements; organisational structure of business units, development or operations)
+* Changes in organisation (e. g., changes of legal conditions or requirements, organisational structure of business units, development or operations)
 * Reduce of costs or efforts, especially with respect to:
-* Costs or efforts of development
-* Costs or efforts of operations
-* Costs of bug fixing and consequential damage
-* Costs of involved processes
-* Opportunity costs
+** Costs or efforts of development
+** Costs or efforts of operations
+** Costs of bug fixing and consequential damage
+** Costs of involved processes
+** Opportunity costs
 * Intrinsic motivation of stakeholders, especially software developers and architects.
 * Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
 
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+
 // end::REMARK[]
