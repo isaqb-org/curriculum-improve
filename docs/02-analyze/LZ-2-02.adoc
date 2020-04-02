@@ -1,12 +1,24 @@
-// tag::FEEDBACK[]
-:filename: 02-module-block-2/LZ-2-02.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 // tag::DE[]
 [[LZ-2-2]]
-==== LZ 2-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse kennen und anwenden können
+
+Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen können. Dazu gehören insbesondere folgende Ansätze:
+
+* Stakeholder-Analyse und -interview
+* Kontextanalyse 
+* Qualitative Analyse (etwa ATAM), insbesondere die Analyse von Qualitätszielen 
+* Analyse von strukturellen Abweichungen zwischen Soll- und Ist-Architektur
+** Quantitative Analysemethoden und -praktiken, etwa:
+** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion) 
+** Organisatorische Metriken wie Kosten, Zeit und Anzahl. Beispiele: Fehleranzahl und Fehlerraten, Entwicklungsgeschwindigkeit, Kosten pro Feature, Kosten pro behobenem Fehler etc. 
+** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung 
+* Analyse von Anwendungsdaten: Untersuchung von Datenstrukturen und -inhalten 
+* Dokumentationsanalyse
+* Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
+* Analyse von Entwicklungsprozessen (Anforderungsmanagement, Entwurf/Implementierung, Test/Qualitätssicherung sowie Übergabe an Betrieb/Produktion)
+* Analyse von Betriebsprozessen
+* Analyse weiterer Prozesse und Aufgaben, die Probleme für Entwicklung und Änderung von Systemen beeinflussen können, beispielsweise Management, Budgetierung, Support, Governance, Outsourcing/Offshoring, Lieferantenmanagement u. a. 
+
 // end::DE[]
 
 // tag::EN[]
@@ -33,10 +45,3 @@ time or the involved stakeholders. This includes approaches such as:
 * Analysis of further processes and tasks that may influence development problems and system changes, e. g.,: management, budgeting, support, governance, outsourcing/offshoring, procurement.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

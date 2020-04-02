@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-2-6]]
-==== LZ 2-6: Code- und Strukturanalyse durchführen können
+==== LZ 2-6: Code- und Strukturanalyse 
 (Statische) Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren. 
 (Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
@@ -10,7 +10,7 @@
 
 // tag::EN[]
 [[LG-2-6]]
-==== LG 2-6: Being able to perform code- and structural analysis
+==== LG 2-6: Code- and structural analysis
 
 * Perform and document (static) analysis of existing source code and its structure. 
 (For this purpose, tools may be used in the training. 
