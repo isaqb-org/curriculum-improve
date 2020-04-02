@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Lerneinheit 4
+== Verbesserungen langfristig planen
 // end::DE[]
 
 // tag::EN[]
-== Lesson 4: Long-Term Planning of Improvements
+== Long-Term Planning of Improvements
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
