@@ -1,5 +1,5 @@
 // tag::DE[]
-== Einführung: Allgemeines zum iSAQB Advanced Level
+== Allgemeines zum iSAQB Advanced Level
 
 Der _International Software Architecture Qualification Board_ (iSAQB(R)) bringt Expert*innen für Softwarearchitektur
 aus Industrie, Beratung, Ausbildung, Wissenschaft und anderen Organisationen zusammen.
@@ -10,7 +10,7 @@ standardisierte Schemata für die Ausbildung, die weltweit anerkannt sind. Mehr 
 // end::DE[]
 
 // tag::EN[]
-== Introduction: General information about the iSAQB Advanced Level
+== General information about the iSAQB Advanced Level
 
 The _International Software Architecture Qualification Board_ (iSAQB(R)) brings together professional software architecture experts from industry, consulting, training, academia and other organisations.
 
