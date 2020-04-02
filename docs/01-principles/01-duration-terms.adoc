@@ -1,21 +1,22 @@
-// tag::FEEDBACK[]
-:filename: 01-module-block-1/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
+[width=50%]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 120 Min. | Übungen: 0 Min.
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+* Software-Architektur: Struktur, Bausteine/Komponenten, Schnittstellen, übergreifende (querschnittliche) Konzepte 
+* Veränderung, Evolution, Wartung, Verbesserung von Software
+* Kategorien von Problemen und Risiken von Software (Technische Schulden)
+* Kernbegriffe rund um Verbesserung und Änderung von Software
+* Technische Pflege
+
 
 // end::DE[]
 
 // tag::EN[]
+[width=50%]
 |===
 | Lesson duration: 120 min | Exercises: 0 min
 |===
@@ -26,20 +27,10 @@ interfaces, cross-cutting concepts
 * Change, evolution, maintenance, improvement of software
 * Categories of problems and risks in software (technical debts)
 * Core terms related to improvement and change of software
-* Technical care.
+* Technical care
 // end::EN[]
 
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
 // end::REMARK[]
