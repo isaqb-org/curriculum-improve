@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Gründe für Veränderungen an Software kennen und erläutern (R1)
+==== LZ 1-1: Gründe für Veränderungen an Software kennen und erläutern 
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
 * Änderungen in technischem oder fachlichen Kontext (z. B. Änderung an externen Schnittstellen)
@@ -20,7 +20,7 @@
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Know and explain reasons for software changes (R1)
+==== LG 1-1: Know and explain reasons for software changes 
 
 * Extending and changing features
 * Change in quality requirements and goals

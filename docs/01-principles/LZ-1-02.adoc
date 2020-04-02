@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-1-2]]
-==== LZ 1 2: Typische Kategorien von Problemen an Software kennen und erläutern (R1)
+==== LZ 1 2: Typische Kategorien von Problemen an Software kennen und erläutern 
 *	Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, Redundanz, Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien
 *	Strukturelle Probleme in Daten oder Datenstrukturen
 *	Strukturelle Probleme im Quellcode, etwa: 
@@ -21,7 +21,7 @@
 
 // tag::EN[]
 [[LG-1-2]]
-==== LG 1-2: Know and explain typical categories of problems in software (R1)
+==== LG 1-2: Know and explain typical categories of problems in software 
 
 * Conceptual weaknesses, e. g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
 * Structural problems in data or data structures.
