@@ -1,17 +1,17 @@
-// tag::FEEDBACK[]
-:filename: 02-module-block-2/LZ-2-05.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 [[LZ-2-5]]
-==== LZ 2-5: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 2-5: Kontextanalyse  
+•	Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
+•	Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
+•	Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-5]]
-==== LG 2-5: Being able to perform a contextual analysis (R1)
+==== LG 2-5: Context analysis 
 
 * Define and document contextual boundaries: demarcate systems with respect to their technically and logically related neighbours, identify external interfaces.
 * Identify connections between external interfaces and stakeholders and use this information for problem analysis.
@@ -20,8 +20,5 @@ tbd.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+
 // end::REMARK[]
