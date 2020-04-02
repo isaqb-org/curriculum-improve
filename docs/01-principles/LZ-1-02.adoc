@@ -1,7 +1,9 @@
 
 // tag::DE[]
+
 [[LZ-1-2]]
-==== LZ 1 2: Typische Kategorien von Problemen an Software kennen und erläutern 
+==== LZ 1-2: Typische Kategorien von Problemen an Software kennen und erläutern 
+
 *	Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, Redundanz, Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien
 *	Strukturelle Probleme in Daten oder Datenstrukturen
 *	Strukturelle Probleme im Quellcode, etwa: 
