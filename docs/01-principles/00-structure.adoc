@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Lerneinheit 1
+== Grundlagen der Verbesserung und Weiterentwicklung von Software
 // end::DE[]
 
 // tag::EN[]
-== Lesson 1: Foundations of Improvement and Evolution of Software Architecture
+== Foundations of Improvement and Evolution of Software 
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
