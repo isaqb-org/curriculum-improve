@@ -10,7 +10,7 @@ Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen
 
 // tag::EN[]
 [[LG-6-1]]
-==== LG 6-1: Know and understand examples of problems/risks in IT systems (R2)
+==== LG 6-1: Examples of problems/risks in IT systems
 
 Being able to identify and understand problems and risks of a medium/large IT system using concrete examples.
 
