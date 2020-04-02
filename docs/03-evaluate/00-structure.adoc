@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Lerneinheit 3
+== Probleme und Lösungsansätze schätzen und bewerten
 // end::DE[]
 
 // tag::EN[]
-== Lesson 3: Estimate and Assess Problems and Solution Approaches
+== Estimate and Assess Problems and Solution Approaches
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
