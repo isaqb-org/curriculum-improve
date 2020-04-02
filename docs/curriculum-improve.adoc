@@ -14,12 +14,8 @@ endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
 // e.g. build.gradle
-:document-version: 2.0-DRAFT 2019
+:document-version: 2020.1-rev1
 
-// this is the base URL for the "improve this doc" links that directly link
-// to the source files in your repository; change this accordingly
-:project-repository-docs-edit-link: https://github.com/isaqb-org/{curriculumBaseName}/blob/master/docs/
-:project-report-issue-link: https://github.com/isaqb-org/{curriculumBaseName}/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23page:
 
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
@@ -31,7 +27,7 @@ endif::[]
 
 <<<
 :sectnums!:
-include::00-preamble/copyright.adoc[{include_configuration}]
+include::00a-preamble/copyright.adoc[{include_configuration}]
 
 
 <<<
