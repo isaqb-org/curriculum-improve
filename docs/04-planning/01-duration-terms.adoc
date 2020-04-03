@@ -5,14 +5,14 @@
 |===
 
 === Begriffe und Konzepte
-* •	Explizite Darstellung (Dokumentation) von bewerteten Problemen und
+* * Explizite Darstellung (Dokumentation) von bewerteten Problemen und
 Lösungsoptionen
-•	Gruppierung/Clusterung von Lösungen
-•	Abhängigkeiten von Problemen und Lösungen
-•	Mögliche m:n Relation von Problemen und Lösungsansätzen
-•	Synergieeffekte
-•	Iterativ-inkrementelles Vorgehen
-•	Entwicklung und Kommunikation langfristiger Lösungsstrategien
+* Gruppierung/Clusterung von Lösungen
+* Abhängigkeiten von Problemen und Lösungen
+* Mögliche m:n Relation von Problemen und Lösungsansätzen
+* Synergieeffekte
+* Iterativ-inkrementelles Vorgehen
+* Entwicklung und Kommunikation langfristiger Lösungsstrategien
 
 
 // end::DE[]
