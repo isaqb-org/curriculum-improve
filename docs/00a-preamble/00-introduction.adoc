@@ -4,7 +4,6 @@
 === iSAQB und CPSA-A
 Der _International Software Architecture Qualification Board_ (iSAQB(R)) bringt Expert*innen für Softwarearchitektur
 aus Industrie, Beratung, Ausbildung, Wissenschaft und anderen Organisationen zusammen.
-
 Sein Programm _Certified Professional for Software Architecture_ (CPSA(R) ) bietet Softwarearchitekt*innen
 standardisierte Schemata für die Ausbildung, die weltweit anerkannt sind. Mehr dazu unter https://isaqb.org.
 

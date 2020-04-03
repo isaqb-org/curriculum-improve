@@ -2,37 +2,42 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
-[cols="<,>", options="header"]
+[cols="4,1,1", options="header"]
 |===
 
-| Inhalt
-| Empfohlene Mindestdauer (min)
+| Inhalt | Unterricht (Minuten) | Übungen (Minuten)
+
+| 1. Grundlegendes
+>| 120
+>| none
+
+| 2. Ist-Situation analysieren
+>| 210
+>| none
+
+| 3. Probleme und Lösungsansätze schätzen und bewerten
+>| 90
+>| none
+
+| 4. Verbesserungen langfristig planen
+>| 120
+>| none
+
+| 5. Typische Verbesserungsansätze
+>| 360
+>| none
+
+| 6. Beispiele für Verbesserung
+>| 180
+>| none
 
 
-| 1. Thema mit Einleitung
-| 180
+>| Sum:
+>| 1080
+>| 0
 
-| 2. Thema über xz
-| 150
-
-| 3. Thema mit viel Theorie
-| 120
-
-| 4. Thema mit xy und Beispiel
-| 180
-
-| 5. Thema mit abc und d
-| 210
-
-| 6. Thema mit Abschlussbeispiel
-| 120
-
-|
-|
-
-| Summe
-| 960 (16h)
-
+>| Total:
+2+>| 1080 min (18h)
 |===
 
 [.text-center]

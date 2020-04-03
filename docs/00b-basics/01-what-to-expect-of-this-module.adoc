@@ -17,7 +17,3 @@ The trainings impart the systematic separation of problem and solution, the elab
 In addition, the IMPROVE curriculum teaches typical approaches of improvement, e. g., restructuring and refactoring, improving analyzability, process improvement, improvement of technical infrastructure, improvement of quality attributes, etc.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]
