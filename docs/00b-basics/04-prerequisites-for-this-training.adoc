@@ -1,21 +1,22 @@
 
 
 // tag::DE[]
-=== Voraussetzungen
+=== Voraussetzungen für das Modul IMPROVE
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
-
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+Teilnehmende sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
+* Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme.
+* Erste praktische Erfahrung in Wartung oder Weiterentwicklung von Softwaresystemen.
+* Erste praktische Erfahrung im Umgang mit bestehendem Quellcode mittlerer oder großer Systeme, insbesondere Analyse, Bewertung, Qualitätsprüfung, Refactoring sowie Anwendung von Metriken.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
+* Kenntnisse und praktische Erfahrung im Refactoring (etwa gemäß [Fowler+99])
+* Kenntnisse oder erste praktische Erfahrung in Review oder Bewertung von Software:
+ ** Grundkenntnisse in Software-Metriken, z. B. Metriken zur Messung von Kopplung, Kohäsion, Abhängigkeit, Komplexität
+ ** Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Analyse von Anwendungsdaten
+** Grundkenntnisse und erste Erfahrung in der Aufwandsschätzung von Entwicklungsaufgaben
+* Erste praktische Erfahrung in der Anforderungsanalyse sowie dem Umgang mit unterschiedlichen Stakeholdern von Entwicklungsprojekten.
+* Erste praktische Erfahrung in der Analyse von Entwicklungsprozessen.
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
 // end::DE[]
 
 // tag::EN[]
@@ -41,7 +42,7 @@ software:
 ** Basic knowledge about software metrics, such as metrics to measure
 coupling, cohesion, dependency and complexity.
 ** Basic knowledge of software run time analysis such as profiling,
-tracing, log analysis and data analysis.
+tracing, log analysis and analysis of application data.
 ** Basic knowledge and some experience with the estimation of
 development efforts.
 * Some hands-on experience with requirements engineering as well as
