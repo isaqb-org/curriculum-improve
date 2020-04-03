@@ -5,7 +5,6 @@
 * mindestens drei Jahre Vollzeit-Berufserfahrung in der IT-Branche; dabei Mitarbeit an Entwurf und Entwicklung von mindestens zwei unterschiedlichen IT-Systemen
 ** Ausnahmen sind auf Antrag zulässig (etwa: Mitarbeit in Open-Source-Projekten)
 * Aus- und Weiterbildung im Rahmen von iSAQB-Advanced-Level-Schulungen im Umfang von mindestens 70 Credit Points aus mindestens zwei unterschiedlichen Kompetenzbereichen
-** bestehende Zertifizierungen (etwa Sun/Oracle Java-Architect, Microsoft CSA) können auf Antrag angerechnet werden
 * erfolgreiche Bearbeitung der CPSA-A-Zertifizierungsprüfung
 
 // end::DE[]
