@@ -5,9 +5,10 @@
 
 Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Problemen und Lösungsansätzen kennen
 und situationsangemessen auswählen – beispielsweise:
+
 * Issue-Tracker
 * Tabellen oder
-* Datenbanken.
+* Datenbanken
 
 
 // end::DE[]
@@ -18,9 +19,9 @@ und situationsangemessen auswählen – beispielsweise:
 
 Know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose the appropriate for the given situation. Examples:
 
-* Issue tracker,
-* Tables,
-* Data bases.
+* Issue tracker
+* Tables
+* Databases.
 
 // end::EN[]
 
