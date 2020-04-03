@@ -7,11 +7,7 @@
 === Begriffe und Konzepte
 
 * Aufwand, Kosten, Schätzung, Beobachtung/Messung, Annahmen
-* betriebswirtschaftliche Größen
-** Investition, Ertrag, Kosten, Wert
-** Return-on-Invest (ROI)
-** Break-Even
-** RTC- und BTC-Kosten
+* betriebswirtschaftliche Größen: Investition, Ertrag, Kosten, Wert, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) Kosten, Capitel Expense (CapEx), Operational Expense (OpEx)
 * Intervallschätzung, Gesetz-der-großen-Zahl
 
 // end::DE[]
@@ -23,11 +19,8 @@
 
 === Terms and concepts
 * Effort, cost, estimate, observation/measurement, assumptions
-* economic dimensions
-** Investment, yield, cost, value
-** Return-on-Invest (ROI)
-** Break-Even,
-** RTC and BTC costs
+* economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even,
+Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capitel Expense (CapEx), Operational Expense (OpEx)
 * Interval estimation, Law of large numbers.
 
 // end::EN[]
