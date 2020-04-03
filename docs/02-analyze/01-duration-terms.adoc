@@ -2,7 +2,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 210 Min. | Übungszeit: XXX Min.
+| Dauer: 210 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
