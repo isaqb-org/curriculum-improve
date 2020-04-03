@@ -1,7 +1,7 @@
 
 // tag::DE[]
 |===
-| Dauer: 180 Min. | Übungszeit: XXX Min.
+| Dauer: 180 Min. | Übungszeit: 0 Min.
 |===
 
 **Anmerkung**:

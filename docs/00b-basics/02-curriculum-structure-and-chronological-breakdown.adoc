@@ -9,27 +9,27 @@
 
 | 1. Grundlegendes
 >| 120
->| none
+>| 0
 
 | 2. Ist-Situation analysieren
 >| 210
->| none
+>| 0
 
 | 3. Probleme und Lösungsansätze schätzen und bewerten
 >| 90
->| none
+>| 0
 
 | 4. Verbesserungen langfristig planen
 >| 120
->| none
+>| 0
 
 | 5. Typische Verbesserungsansätze
 >| 360
->| none
+>| 0
 
 | 6. Beispiele für Verbesserung
 >| 180
->| none
+>| 0
 
 
 >| Sum:
