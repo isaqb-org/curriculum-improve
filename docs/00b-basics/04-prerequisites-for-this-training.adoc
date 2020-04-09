@@ -1,5 +1,3 @@
-
-
 // tag::DE[]
 === Voraussetzungen für das Modul IMPROVE
 
@@ -10,7 +8,7 @@ Teilnehmende sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
-* Kenntnisse und praktische Erfahrung im Refactoring (etwa gemäß <<fowler99>>)
+* Kenntnisse und praktische Erfahrung im Refactoring
 * Kenntnisse oder erste praktische Erfahrung in Review oder Bewertung von Software:
  ** Grundkenntnisse in Software-Metriken, z. B. Metriken zur Messung von Kopplung, Kohäsion, Abhängigkeit, Komplexität
  ** Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Analyse von Anwendungsdaten
@@ -51,10 +49,3 @@ contact with various stakeholders in development projects.
 * Some hands-on experience with analysis of development processes.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
-// end::REMARK[]

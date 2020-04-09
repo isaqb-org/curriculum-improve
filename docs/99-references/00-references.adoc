@@ -36,7 +36,7 @@ F +
 
 [[[Feathers+2007]]] Working Effectively with Legacy Code. Prentice Hall, 2007.
 
-[[[fowler99,Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+[[[Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
 
 
 L +
