@@ -5,13 +5,20 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 360  Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+* Strukturelle versus konzeptionelle Verbesserung
+* Prozess- und Produktverbesserung
+* Verbesserung in Code, Daten, querschnittlichen Konzepten, Prozessen, Infrastruktur, Analysierbarkeit/Monitoring
+* Abbau technischer Schulden
+* Verbesserungsmaßnahmen für Quellcode
+** Refactoring
+** Reduktion von Komplexität und Kopplung
+** Erhöhung der Lesbarkeit und Verständlichkeit
+* Automatisierung von Prozessen zur Senkung von Änderungsrisiken, insbesondere automatisierte Tests.
+
 
 // end::DE[]
 
@@ -23,30 +30,12 @@ include::../config/_feedback.adoc[]
 === Terms and concepts
 * Structural vs. conceptual improvement
 * Process and product improvement
-* Improvement of code, data, cross-cutting concepts, processes, infrastructure, analysability/monitoring
+* Improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring
 * Reduction of technical debts
 * Ways to improve source code
 ** Refactoring
 ** Reduction of complexity and coupling
 ** Improve readability and comprehensibility
-* Process automation to lower risk of changes, in particular, automated tests. 
-
-Note 1: The following learning goals should only give indications for typical improvements. In concrete systems or scenarios other approaches may be necessary that cannot be anticipated in this curriculum.
-
-Note 2: In this chapter trainings should present detailed technical approaches for possible improvements.
+* Process automation to lower risk of changes, in particular, automated tests.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]
