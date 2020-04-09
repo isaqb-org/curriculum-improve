@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [.text-center]
 **(C) (Copyright), International Software Architecture Qualification Board e. V.
@@ -50,11 +49,3 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 // end::EN[]
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-This version of this document has been produced with comments (like this one) enabled.
-It is *NOT* intended for public distribution or publication, but primarily for internal iSAQB purposes.
-====
-// end::REMARK[]

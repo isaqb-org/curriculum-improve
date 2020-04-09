@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-1-4]]
 ==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen
@@ -25,6 +24,3 @@ For example:
 * Conceptual/structural improvements (re-architecting, reengineering)
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

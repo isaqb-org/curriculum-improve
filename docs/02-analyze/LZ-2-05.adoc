@@ -1,11 +1,9 @@
-
-
 // tag::DE[]
 [[LZ-2-5]]
 ==== LZ 2-5: Kontextanalyse  
-•	Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
-•	Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
-•	Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
+* Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
+* Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
+* Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
 // end::DE[]
 
@@ -18,7 +16,3 @@
 * Elaborate problems and risks of external interfaces (e. g., via interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organisational dependencies, analysis of quality attributes and/or service levels).
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

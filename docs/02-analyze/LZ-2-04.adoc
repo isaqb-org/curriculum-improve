@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-2-4]]
 ==== LZ 2-4: Stakeholderanalyse und -interviews
@@ -20,7 +19,3 @@
 * React flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

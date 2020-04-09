@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-6-2]]
 ==== LZ 6-2: Bewertung von Problemen/Risiken kennen und nachvollziehen
@@ -14,4 +13,3 @@ Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösun
 Understand the assessment (evaluation) of problems or approaches to solutions by means of concrete examples.
 
 // end::EN[]
-

@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [width=50%]
 |===
@@ -27,8 +26,3 @@
 * Problem, cause versus symptom,
 * Solution approach.
 // end::EN[]
-
-
-// tag::REMARK[]
-
-// end::REMARK[]
