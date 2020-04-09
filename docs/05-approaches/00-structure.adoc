@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Lerneinheit 5
+== Typische Ansätze für Verbesserung 
 // end::DE[]
 
 // tag::EN[]
-== Lesson 5: Typical Approaches to Improvement
+== Typical Approaches to Improvement
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

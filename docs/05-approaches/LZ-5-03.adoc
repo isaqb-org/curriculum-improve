@@ -1,29 +1,17 @@
-// tag::FEEDBACK[]
-:filename: 05-module-block-5/LZ-5-03.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 // tag::DE[]
 [[LZ-5-3]]
-==== LZ 5-3: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-3: Möglichkeiten des automatisierten Tests zur Reduktion von Änderungsrisiken kennen und anwenden können
+
+* Automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern in Änderungs- oder Verbesserungsprojekten kennen und selbständig anwenden können (In Schulungen sollten bei Bedarf entsprechende Übungen durchgeführt werden).
+* Selbständig identifizieren können, an welchen Stellen/Schnittstellen/Komponenten die Einführung automatisierter Tests für bestimmte Änderungsszenarien angemessen ist. 
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-3]]
-==== LG 5-3: Know and be able to apply possible approaches for automated testing to reduce risks of change (R2)
+==== LG 5-3: Know and be able to apply possible approaches for automated testing to reduce risks of change
 
-* Know and being able to autonomously apply automated tests (unit-,
-integration-, acceptance-, regression-tests) as a means of early
-detection of defects in change or improvement projects. (Trainings
-should provide exercises if required.)
+* Know and being able to autonomously apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects. (Training should provide exercises if required.)
 * Being able to autonomously identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

@@ -1,32 +1,27 @@
-// tag::FEEDBACK[]
-:filename: 05-module-block-5/LZ-5-08.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 // tag::DE[]
 [[LZ-5-8]]
-==== LZ 5-8: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-8: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse kennen
+
+Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können, beispielsweise:
+* Einhaltung etablierter Dokumentationsstrukturen (z. B. Templates)
+* Gezielte Reduktion von Dokumentationsumfang durch Abstraktion oder inhaltliche Fokussierung
+* Top-Down-Kommunikation
+* Trennung struktureller (spezifischer) und konzeptioneller (übergreifender) Inhalte
+* Modularisierung von Dokumentation
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-8]]
-==== LG 5-8:  Know options to improve the documentation or the documentation processes (R2)
+==== LG 5-8: Know options to improve the documentation or the documentation processes
 
 Know and be able to apply basic options for systematic improvement of technical documentation, such as:
 
 * Compliance with established document structures (e. g., templates)
-* Targeted reduction of documentation volume through abstraction or focussing on essential topics.
+* Targeted reduction of documentation volume through abstraction or focussing on essential topics
 * Top-down communication,
 * Separation of structural (specific) and conceptual (overarching)
 contents.
-* Modularisation of documentation.
+* Modularisation of documentation
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

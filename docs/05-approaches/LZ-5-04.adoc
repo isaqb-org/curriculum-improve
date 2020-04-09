@@ -1,29 +1,23 @@
-// tag::FEEDBACK[]
-:filename: 05-module-block-5/LZ-5-04.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 // tag::DE[]
 [[LZ-5-4]]
-==== LZ 5-4: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-4: Automatisierung als Mittel zur Reduktion von Änderungsrisiken kennen
+
+Weitere methodische und technische Mittel zur Automatisierung kennen, mit deren Hilfe systematisch Änderungsrisiken und -aufwände gesenkt werden können, beispielsweise:
+
+* Continuous Integration
+* Continuous Delivery
+* Model Driven Development/Generative Development
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-4]]
-==== LG 5-4: Know automation as a means of reducing risks of changes (R2)
+==== LG 5-4: Know automation as a means of reducing risks of changes
 
 Know further methodical and technical means of automations that may help to reduce risk and required efforts of changes, such as:
 
-* Continuous integration,
-* Continuous delivery,
-* Model driven development/generative development.
+* Continuous integration
+* Continuous delivery
+* Model driven development/generative development
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
