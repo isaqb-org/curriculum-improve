@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-3-3]]
 ==== LZ 3-3: Probleme und Lösungsansätze schätzen

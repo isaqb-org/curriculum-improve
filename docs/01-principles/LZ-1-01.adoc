@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Gründe für Veränderungen an Software
@@ -37,7 +36,3 @@
 * Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

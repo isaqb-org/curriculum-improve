@@ -1,4 +1,3 @@
-
 // tag::DE[]
 === Was können Absolventen des Advanced Level (CPSA-A)?
 CPSA-A-Absolventen können:
@@ -19,6 +18,3 @@ CPSA-A graduates are able to:
 - design and document measures to achieve quality requirements and support development teams implementing those measures
 - manage communication relevant to architecture in medium to large development teams
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

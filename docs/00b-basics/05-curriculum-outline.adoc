@@ -1,4 +1,3 @@
-
 // tag::DE[]
 === Struktur des Lehrplans
 
@@ -48,6 +47,3 @@ If required, the learning goals include references to further
 literature, standards or other sources.
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

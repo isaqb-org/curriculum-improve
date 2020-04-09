@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-1-3]]
 ==== LZ 1-3: Kernbegriffe für Softwareevolution und -änderung
@@ -27,7 +26,3 @@ Core terms of software evolution and change:
 * Risk
 
 // end::EN[]
-
-// tag:REMARK[]
-
-// end::REMARK[]

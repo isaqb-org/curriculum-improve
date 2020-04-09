@@ -1,4 +1,3 @@
-
 // tag::DE[]
 
 [[LZ-1-2]]
@@ -40,7 +39,3 @@
 * Problems in development, operations or other involved processes (e. g., requirements management, test/QA, configuration, deployment, monitoring/alerting).
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

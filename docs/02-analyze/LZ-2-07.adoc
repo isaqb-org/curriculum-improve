@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-2-7]]
 ==== LZ 2-7: Grundlegende Laufzeitanalysen  
@@ -14,6 +13,3 @@ Plan and perform (dynamic) analysis of existing systems, e. g., with respect to 
 (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

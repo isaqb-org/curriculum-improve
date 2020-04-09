@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-6-1]]
 ==== LZ 6-1: Beispiele für Probleme/Risiken in IT-Systemen

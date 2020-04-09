@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LZ-4-2]]
 ==== LZ 4-2: Typische methodische Ansätze für Verbesserung
@@ -36,4 +35,3 @@
 * Communicate and argue approaches to long-term improvement  to different stakeholders.
 
 // end::EN[]
-
