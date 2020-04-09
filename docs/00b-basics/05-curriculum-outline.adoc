@@ -1,10 +1,6 @@
-// tag::FEEDBACK[]
-:filename: 01-basics/05-curriculum-outline.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
-=== Gliederung des Lehrplans
+=== Struktur des Lehrplans
 
 Die einzelnen Abschnitte des Lehrplans sind gemäß folgender Gliederung beschrieben:
 
@@ -14,9 +10,9 @@ Die einzelnen Abschnitte des Lehrplans sind gemäß folgender Gliederung beschri
 
 Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprechenden Schulungen. Die Lernziele werden differenziert in folgende Kategorien bzw. Unterkapitel:
 
-- Was sollen die Teilnehmer **können**? Diese Inhalte sollen die Teilnehmer nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen abgedeckt und sind Bestandteil der Modulprüfung {curriculum-short} und/oder der Abschlussprüfung des iSAQB Advanced Levels.
-- Was sollen die Teilnehmer **verstehen**? Diese Inhalte können in der Modulprüfung {curriculum-short} geprüft werden.
-- Was sollen die Teilnehmer **kennen**? Diese Inhalte (Begriffe, Konzepte, Methoden, Praktiken oder Ähnliches) können das Verständnis unterstützen oder das Thema motivieren. Diese Inhalte sind nicht Bestandteil der Prüfungen und werden in Schulungen thematisiert, aber nicht notwendigerweise ausführlich unterrichtet.
+- Was sollen die Teilnehmer **können**? Diese Inhalte sollen die Teilnehmer nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen abgedeckt.
+- Was sollen die Teilnehmer **verstehen**?.
+- Was sollen die Teilnehmer **kennen**? Diese Inhalte (Begriffe, Konzepte, Methoden, Praktiken oder Ähnliches) können das Verständnis unterstützen oder das Thema motivieren.
 
 // end::DE[]
 
@@ -37,17 +33,16 @@ Learning goals also outline the knowledge and capabilities to gain in
 appropriate trainings. They are distinguished into the following
 categories of relevance:
 
-* (R1) What should the participants be capable of? After completion of
+* What should the participants be capable of? After completion of
 the training the participants should be able to autonomously put these
 contents into practice. These contents will be taught within trainings
 and should also be deepened through exercises and discussions.
-* (R2) What should the participants understand? These contents will be
+* What should the participants understand? These contents will be
 taught within trainings and may be supported by exercises and
 discussions.
-* (R3) What should the participants know? These contents (terms,
+* What should the participants know? These contents (terms,
 concepts, methods, practices or similar) may enhance the understanding
-or motivate the topic. They will be covered in trainings if required but
-not necessarily in much detail.
+or motivate the topic.
 
 If required, the learning goals include references to further
 literature, standards or other sources.

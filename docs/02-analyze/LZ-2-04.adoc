@@ -1,17 +1,18 @@
-// tag::FEEDBACK[]
-:filename: 02-module-block-2/LZ-2-04.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 [[LZ-2-4]]
-==== LZ 2-4: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 2-4: Stakeholderanalyse und -interviews
+
+* Stakeholderanalyse zur Identifikation der wesentlichen beteiligten Personen sowie deren Rollen und Intentionen planen, durchführen und dokumentieren
+* Methodiken zur Konzeption und Durchführung von Stakeholder-Interviews kennen
+* Vorbereitende Fragebögen erstellen können
+* Situativ im Verlauf von Interviews spezifisch auf sich ergebende neue Sachverhalte eingehen und diese in die Analyse einbeziehen
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-4]]
-==== LG 2-4: Being able to plan and execute stakeholder analysis and interviews (R1)
+==== LG 2-4: Stakeholder analysis and interviews
 
 * Plan, perform, and document a stakeholder analysis to identify essential people involved, their roles, and intents.
 * Know methods to structure and execute stakeholder interviews.
@@ -21,8 +22,5 @@ tbd.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+
 // end::REMARK[]

@@ -1,17 +1,20 @@
-// tag::FEEDBACK[]
-:filename: 02-module-block-2/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 120 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+
+* Explizite Darstellung (Dokumentation) von bewerteten Problemen und
+Lösungsoptionen
+* Gruppierung/Clusterung von Lösungen
+* Abhängigkeiten von Problemen und Lösungen
+* Mögliche m:n Relation von Problemen und Lösungsansätzen
+* Synergieeffekte
+* Iterativ-inkrementelles Vorgehen
+* Entwicklung und Kommunikation langfristiger Lösungsstrategien
+
 
 // end::DE[]
 
@@ -32,16 +35,3 @@ include::../config/_feedback.adoc[]
 
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]

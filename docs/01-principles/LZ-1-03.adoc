@@ -1,9 +1,9 @@
 
 // tag::DE[]
 [[LZ-1-3]]
-==== LZ 1-3: Kernbegriffe für Evolution und Änderung kennen und erläutern
+==== LZ 1-3: Kernbegriffe für Softwareevolution und -änderung
 
-Kernbegriffe von Evolution und Änderung kennen:
+Kernbegriffe von Evolution und Änderung von Software:
 
 * Problem (Issue) 
 * Lösungsansatz (Opportunity for Improvement) 
@@ -16,9 +16,9 @@ Kernbegriffe von Evolution und Änderung kennen:
 
 // tag::EN[]
 [[LG-1-3]]
-==== LG 1-3: Know and explain core terms of evolution and change 
+==== LG 1-3: Core terms of software evolution and -change
 
-Know core terms of evolution and change:
+Core terms of software evolution and change:
 
 * Problem (issue)
 * Solution approach (opportunity for improvement)

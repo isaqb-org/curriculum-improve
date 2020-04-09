@@ -1,19 +1,18 @@
-// tag::FEEDBACK[]
-:filename: 06-module-block-6/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 180 Min. | Übungszeit: 0 Min.
 |===
 
-Dieser Abschnitt ist nicht prüfungsrelevant.
+**Anmerkung**:
 
 === Begriffe und Konzepte
-Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für {curriculum-short} vorgestellt werden.
+Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für IMPROVE vorgestellt werden.
 
-Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. den Interessen der Teilnehmer abhängen und werden seitens iSAQB nicht vorgegeben.
+Beispiele für Verbesserungsprojekte realer Systeme können durch Trainer und Schulungsanbieter individuell ausgesucht werden und werden seitens iSAQB nicht vorgegeben.
+
+Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertraulichkeitsregelungen stellt der iSAQB e. V. Schulungsanbietern und Trainern frei, Beispiele abstrahiert oder nur auszugsweise in Schulungen zu zeigen.
+
 // end::DE[]
 
 
@@ -22,18 +21,13 @@ Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. de
 | Lesson duration: 180 min | Exercises: 0 min
 |===
 
-This section is not examinable.
+
 
 === Terms and concepts
-In every licensed training session, at least one example for {curriculum-short} must be presented.
+At least one example of IMPROVE must be presented within each licensed course.
 
-Type and structure of the examples presented may depend on the training and participants' interests.
-The are not prescribed by iSAQB.
+Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by iSAQB.
+
+Due to the secrecy or confidentiality regulations that often apply to real IT systems, iSAQB e. V. allows training providers and trainers to show examples in abstract or only in extracts in training courses.
+
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen.
-====
-// end::REMARK[]

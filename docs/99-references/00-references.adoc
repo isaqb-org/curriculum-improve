@@ -18,11 +18,11 @@ This section contains references that are cited in the curriculum.
 
 A +
 
-[[[aim42+2017]]]
-Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. http://aim42.org/[http://aim42.org] as well as http://aim42.github.io/[http://aim42.github.io]
+[[[aim42+2017]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. http://aim42.org/[http://aim42.org] as well as http://aim42.github.io/[http://aim42.github.io]
 
 
 B +
+
 [[[Bass+2012]]] Bass, L., Clements, P. und Kazman, R.: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012
 
 [[[Bommer+2008]]] Softwarewartung: Grundlagen, Management und Wartungstechniken. dpunkt.verlag, 2008.
@@ -36,7 +36,7 @@ F +
 
 [[[Feathers+2007]]] Working Effectively with Legacy Code. Prentice Hall, 2007.
 
-[[[Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+[[[fowler99,Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
 
 
 L +

@@ -1,14 +1,4 @@
-// tag::FEEDBACK[]
-:filename: 01-basics/03-timing-didactics-and-more.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Bitte die **?** durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen.
-====
-// end::REMARK[]
 :recommended-duration-in-days: 3
 :methodical-credits: 20
 :technical-credits: 10

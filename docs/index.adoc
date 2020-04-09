@@ -7,7 +7,7 @@ The terminology used in the iSAQB curricula can be found as a (freely available)
 
 == Development versions
 
-==== Status
+=== Status
 image:https://github.com/isaqb-org/curriculum-improve/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-improve/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
@@ -15,20 +15,18 @@ image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Iss
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-improve/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
-The Curriculum for IMPROVE is currently maintained and published in English (EN) only.
+The Curriculum for IMPROVE is currently maintained and published in English (EN) and German (DE) only.
 
 
 |===
-| Version | Comments | HTML | PDF
+| Version | HTML | PDF
 
 | English
-| without comments
 | link:curriculum-improve_en.html[HTML]
 | link:curriculum-improve_en.pdf[PDF]
 
-| English
-| with comments
-| link:curriculum-improve_remarks_en.html[HTML]
-| 
+| Deutsch
+| link:curriculum-improve_de.html[HTML]
+| link:curriculum-improve_de.pdf[PDF]
 
 |===
