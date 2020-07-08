@@ -79,6 +79,7 @@ Parts of the content origined from the https://aim42.org[aim42 open source metho
 * Releases are tagged in git
 
 Steps for a document release (e.g. version a.b.0 ):
+
 * internal preview a.b.c-DRAFT, our working version
 * a.b.0-RC-1 for review within the Advanced-working-group
 * a.b.0-RC-2 for review for all IMPROVE training providers
