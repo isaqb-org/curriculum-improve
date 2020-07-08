@@ -1,8 +1,3 @@
-// tag::FEEDBACK[]
-:filename: 05-module-block-5/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 // tag::DE[]
 |===
 | Dauer: 360  Min. | Übungszeit: 0 Min.
