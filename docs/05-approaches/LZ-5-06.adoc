@@ -8,7 +8,7 @@ Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigensc
 
 // tag::EN[]
 [[LG-5-6]]
-==== LG 5-6: Know technology specific options to improve the runtime behaviour of systems (R1)
+==== LG 5-6: Know technology specific options to improve the runtime behaviour of systems
 
 Know and be able to apply technology specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
