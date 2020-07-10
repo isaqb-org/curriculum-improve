@@ -16,13 +16,41 @@ This section contains references on which the curriculum is partly based on.
 // end::EN[]
 
 
+**A**
+
 - [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
+
+
+**B**
+
 - [[[bass,Bass+ 2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012.
+
+
+**C**
+
 - [[[clements,Clements+ 2001]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures Methods and Case Studies. Addison-Wesley, 2001.
+
+
+**F**
+
 - [[[feathers,Feathers+ 2007]]] Michael Feathers: Working Effectively with Legacy Code. Prentice Hall, 2007.
+
 - [[[fowler,Fowler+ 1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+
+
+**L**
+
 - [[[lippert,Lippert+ 2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
+
 - [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt.verlag, 2019.
+
+
+**M**
+
 - [[[mcconnell,McConnell 2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
+
 - [[[murer,Murer+ 2019]]] Stephan Murer, Bruno Bonati: Managed Evolution: A Strategy for Very Large Information Systems. Springer, 2010.
+
+**N**
+
 - [[[newman,Newman 2019]]] Sam Newman: Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith. O'Reilly, 2019.
