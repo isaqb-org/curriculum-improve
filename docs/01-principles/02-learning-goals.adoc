@@ -49,6 +49,7 @@ Kernbegriffe von Evolution und Änderung von Software:
 ==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen
 
 Beispielsweise:
+
 * Ad-hoc Verbesserung, einmalige Verbesserung
 * Schrittweise Verbesserung (mittel- bis langfristig angelegt)
 * Verbesserung durch Neuentwicklung (Rewrite) eines Systems oder Teilen davon
