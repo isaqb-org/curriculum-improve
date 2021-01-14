@@ -2,18 +2,36 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===============================================
 
-
 [bibliography]
 == {references}
 
-
 // tag::DE[]
-Dieser Abschnitt enthält Literaturhinweise, auf deren Basis das Curriculum teilweise entstanden ist.
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
 // end::DE[]
 
 // tag::EN[]
-This section contains references on which the curriculum is partly based on.
+This section contains references that are cited in the curriculum.
 // end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Aufbau eines Eintrags-Ankers:
+```
+- [[[label,Text der erscheint]]]
+```
+ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+
+= = =
+
+Structure of an anchor:
+```
+- [[[label,text that will be shown]]]
+```
+ATTENTION: labels have to be non-numeric.
+====
+// end::REMARK[]
+
 
 
 **A**
