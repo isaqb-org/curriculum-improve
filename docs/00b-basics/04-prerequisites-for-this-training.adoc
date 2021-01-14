@@ -2,6 +2,7 @@
 === Voraussetzungen für das Modul IMPROVE
 
 Teilnehmende sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
+
 * Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme.
 * Erste praktische Erfahrung in Wartung oder Weiterentwicklung von Softwaresystemen.
 * Erste praktische Erfahrung im Umgang mit bestehendem Quellcode mittlerer oder großer Systeme, insbesondere Analyse, Bewertung, Qualitätsprüfung, Refactoring sowie Anwendung von Metriken.
@@ -10,8 +11,8 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 * Kenntnisse und praktische Erfahrung im Refactoring
 * Kenntnisse oder erste praktische Erfahrung in Review oder Bewertung von Software:
- ** Grundkenntnisse in Software-Metriken, z. B. Metriken zur Messung von Kopplung, Kohäsion, Abhängigkeit, Komplexität
- ** Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Analyse von Anwendungsdaten
+** Grundkenntnisse in Software-Metriken, z. B. Metriken zur Messung von Kopplung, Kohäsion, Abhängigkeit, Komplexität
+** Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Analyse von Anwendungsdaten
 ** Grundkenntnisse und erste Erfahrung in der Aufwandsschätzung von Entwicklungsaufgaben
 * Erste praktische Erfahrung in der Anforderungsanalyse sowie dem Umgang mit unterschiedlichen Stakeholdern von Entwicklungsprojekten.
 * Erste praktische Erfahrung in der Analyse von Entwicklungsprozessen.
