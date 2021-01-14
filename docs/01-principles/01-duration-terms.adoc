@@ -5,11 +5,9 @@
 |===
 
 === Begriffe und Konzepte
-* Software-Architektur: Struktur, Bausteine/Komponenten, Schnittstellen, übergreifende (querschnittliche) Konzepte 
-* Veränderung, Evolution, Wartung, Verbesserung von Software
-* Kategorien von Problemen und Risiken von Software (Technische Schulden)
-* Kernbegriffe rund um Verbesserung und Änderung von Software
-* Technische Pflege
+Softwarearchitektur: Struktur, Bausteine/Komponenten, Schnittstellen, übergreifende (querschnittliche) Konzepte;
+Veränderung, Evolution, Wartung und Verbesserung von Software; Kategorien von Problemen und Risiken von Software (Technische Schulden),
+Kernbegriffe rund um Verbesserung und Änderung von Software, technische Pflege
 
 
 // end::DE[]
@@ -21,9 +19,7 @@
 |===
 
 === Terms and concepts
-* Software architecture: structure, building blocks/components, interfaces, cross-cutting concepts
-* Change, evolution, maintenance, improvement of software
-* Categories of problems and risks in software (technical debts)
-* Core terms related to improvement and change of software
-* Technical care
+Software architecture: structure, building blocks/components, interfaces, cross-cutting concepts;
+Change, evolution, maintenance and improvement of software; Categories of problems and risks in software (technical debts);
+Core terms related to improvement and change of software, technical care
 // end::EN[]

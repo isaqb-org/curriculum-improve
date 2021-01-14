@@ -5,14 +5,10 @@
 
 === Begriffe und Konzepte
 
-* Explizite Darstellung (Dokumentation) von bewerteten Problemen und
-Lösungsoptionen
-* Gruppierung/Clusterung von Lösungen
-* Abhängigkeiten von Problemen und Lösungen
-* Mögliche m:n Relation von Problemen und Lösungsansätzen
-* Synergieeffekte
-* Iterativ-inkrementelles Vorgehen
-* Entwicklung und Kommunikation langfristiger Lösungsstrategien
+Explizite Darstellung (Dokumentation) von bewerteten Problemen und
+Lösungsoptionen, Gruppierung/Clusterung von Lösungen, Abhängigkeiten von Problemen und Lösungen,
+Mögliche m:n Relation von Problemen und Lösungsansätzen, Synergieeffekte, Iterativ-inkrementelles Vorgehen,
+Entwicklung und Kommunikation langfristiger Lösungsstrategien
 
 
 // end::DE[]
@@ -24,12 +20,9 @@ Lösungsoptionen
 
 === Terms and concepts
 
-* Explicit representation (documentation) of evaluated problems and options for solutions.
-* Grouping/clustering of solutions.
-* Dependencies between problems and solutions.
-* Potential m:n relation between problems and solution approaches.
-* Synergies,
-* Iterative-incremental approach.
-* Development and communication of long-term solution strategies.
+Explicit representation (documentation) of evaluated problems and options for solutions,
+grouping/clustering of solutions, dependencies between problems and solutions,
+potential m:n relation between problems and solution approaches, synergies,
+iterative-incremental approach, development and communication of long-term solution strategies.
 
 // end::EN[]
