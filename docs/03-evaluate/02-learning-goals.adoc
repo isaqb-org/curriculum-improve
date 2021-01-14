@@ -1,0 +1,70 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Betriebswirtschaftliche Größen
+
+* Kosten und Wert als Begriffspaare erläutern
+* Unterschiedliche Arten von betriebswirtschaftlichen Größen benennen und einordnen können, beispielsweise:
+** Kosten für direkte Aufwände, Ausbildungskosten, Kapitalkosten (direkte und indirekte Kosten der Investition), Betriebskosten, Opportunitätskosten, Kosten der Verzögerung (Cost of Delay)
+** Investitionen und laufenden Kosten, Run-the-Company (RTC) und Develop-the-Company (DTC)
+** ROI, Break-Even, Abschreibungen und Amortisierung
+** Einmalige und wiederkehrende Aufwände, bekannte und geschätzte Aufwände.
+
+[[LZ-3-2]]
+==== LZ 3-2: Grundbegriffe für Evaluierung/Schätzung
+
+* Begriffe „Schätzung“, „Beobachtung“ und „Messung“ erklären und in der Evaluierung von Problemen und Lösungsansätzen anwenden
+* Schätzungen in Intervallen angeben können. Sie kennen verschiedene Ansätze für Intervallschätzungen:
+** Konfidenzintervall
+** Minimum-Maximum-Intervall
+** Worst-/Average-/Best-Case-Schätzung
+* Wahrscheinlichkeit der Korrektheit von Schätzungen beurteilen und angeben können (etwa durch Größe von Intervallschätzungen)
+* Schätzgegenstände identifizieren und benennen, beispielsweise Arbeitsstunden
+* Schätzparameter und Einflussfaktoren auf Schätzungen identifizieren
+* Explizite Annahmen treffen, um Schätzparameter in Wertebereichen festlegen zu können.
+
+[[LZ-3-3]]
+==== LZ 3-3: Probleme und Lösungsansätze schätzen
+
+Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und zugehörigen Prozessen anwenden können
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Economic dimensions
+
+* Explain costs and value as linked concepts.
+* Name and classify different kinds of economic dimensions, such as:
+** Direct costs, education costs, capital expenditures (direct and indirect cost of investment), operating expenditures, opportunity cost, and cost of delay
+** Investment and operating expenses (OPEX), Run-the-Company (RTC) and Develop-the-Company (DTC)
+** ROI, break-even, depreciation and amortisation
+** One-time and reoccurring costs, known and estimated costs.
+
+[[LG-3-2]]
+==== LG 3-2: Basic terms of evaluation and estimation
+
+* Explain the terms “estimation“, “observation“ and “measurement“ and apply them to the evaluation of problems and solution approaches.
+* Be able to estimate efforts in intervals. Know different approaches for interval estimates:
+** Confidence interval,
+** Minimum/maximum interval,
+** Worst-/Average-/Best-Case estimation.
+* Be able to assess and communicate the probability of the correctness of the estimation.
+* Identify and name items to be estimated, e. g., hours of work.
+* Identify parameters and influencing factors of estimations
+* explicit assumption to be able to define estimation parameters in value ranges.
+
+[[LG-3-3]]
+==== LG 3-3: Estimate for problems and solution approaches
+
+Apply estimation techniques to problems and solution approaches of IT systems and related processes.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
