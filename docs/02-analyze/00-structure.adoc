@@ -12,14 +12,5 @@
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
 
-
-=== {learning-goals}
-
-include::LZ-2-01.adoc[{include_configuration}]
-include::LZ-2-02.adoc[{include_configuration}]
-include::LZ-2-03.adoc[{include_configuration}]
-include::LZ-2-04.adoc[{include_configuration}]
-include::LZ-2-05.adoc[{include_configuration}]
-include::LZ-2-06.adoc[{include_configuration}]
-include::LZ-2-07.adoc[{include_configuration}]
