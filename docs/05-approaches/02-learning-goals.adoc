@@ -31,7 +31,7 @@ Weitere methodische und technische Mittel zur Automatisierung kennen, mit deren 
 
 * Continuous Integration
 * Continuous Delivery
-* Model Driven Development/Generative Development
+* Model-driven Development/Generative Development
 
 [[LZ-5-5]]
 ==== LZ 5-5: Relevante Architektur-/Entwurfs- oder Implementierungsmuster zur Reduktion von Kopplung innerhalb von Systemen kennen
@@ -53,6 +53,7 @@ Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigensc
 ==== LZ 5-8: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse kennen
 
 Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können, beispielsweise:
+
 * Einhaltung etablierter Dokumentationsstrukturen (z. B. Templates)
 * Gezielte Reduktion von Dokumentationsumfang durch Abstraktion oder inhaltliche Fokussierung
 * Top-Down-Kommunikation
@@ -93,7 +94,7 @@ Know further methodical and technical means of automations that may help to redu
 
 * Continuous integration
 * Continuous delivery
-* Model driven development/generative development
+* Model-driven development/generative development
 
 [[LG-5-5]]
 ==== LG 5-5: Know relevant architectural-/design- or implementation patterns to reduce system-internal coupling
