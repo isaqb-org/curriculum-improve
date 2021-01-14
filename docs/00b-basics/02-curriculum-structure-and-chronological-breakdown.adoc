@@ -2,7 +2,7 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
-[cols="4,1,1", options="header"]
+[cols="<,>", options="header"]
 |===
 
 | Inhalt | Unterricht (Minuten) | Übungen (Minuten)
@@ -47,7 +47,7 @@ image:01-basics/zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 // end::DE[]
 
 // tag::EN[]
-=== Curriculum structure and recommended durations
+=== Curriculum Structure and Recommended Durations
 
 In particular, examples and exercises are left unspecified in this curriculum.
 
@@ -85,7 +85,7 @@ In particular, examples and exercises are left unspecified in this curriculum.
 |===
 
 [.text-center]
-.Durations
+.Allocation of time for the topic areas
 image:01-basics/chronological_breakdown.png[pdfwidth=75%, role="text-center"]
 // end::EN[]
 

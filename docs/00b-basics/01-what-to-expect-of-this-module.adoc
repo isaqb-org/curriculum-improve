@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Was vermittelt das Modul IMPROVE?
+=== Was vermittelt das Modul „{curriculum-short}“?
 
 Teilnehmende lernen hier, Softwaresysteme und -architekturen anhand ökonomischer und technischer Ziele systematisch und methodisch zu verbessern. 
 Dazu vermitteln entsprechende Schulungen die systematische Trennung von Problemen und Lösungsansätzen, das Erarbeiten von kurz-/mittel- und langfristigen Lösungsstrategien sowie deren Abgleich mit betriebswirtschaftlichen Zielen und Größen.
@@ -8,7 +8,7 @@ Zusätzlich zeigt der IMPROVE-Lehrplan typische Ansätze für Verbesserungen auf
 // end::DE[]
 
 // tag::EN[]
-=== What does the module IMPROVE convey?
+=== What does the module “{curriculum-short}” convey?
 
 Participants learn to methodically improve software systems and architectures, guided by economic and technical goals.
 The trainings impart the systematic separation of problem and solution, the elaboration of short-, mid- and long-term solution strategies as well as their alignment with business goals and measures.
