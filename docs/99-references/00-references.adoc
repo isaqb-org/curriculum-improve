@@ -2,10 +2,8 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===============================================
 
-
 [bibliography]
 == {references}
-
 
 // tag::DE[]
 Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
@@ -15,39 +13,62 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+// tag::REMARK[]
+[NOTE]
+====
+Aufbau eines Eintrags-Ankers:
+```
+- [[[label,Text der erscheint]]]
+```
+ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
 
-A +
+= = =
 
-[[[aim42+2017]]]
-Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. http://aim42.org/[http://aim42.org] as well as http://aim42.github.io/[http://aim42.github.io]
-
-
-B +
-[[[Bass+2012]]] Bass, L., Clements, P. und Kazman, R.: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012
-
-[[[Bommer+2008]]] Softwarewartung: Grundlagen, Management und Wartungstechniken. dpunkt.verlag, 2008.
-
-
-C +
-[[[Clements+2001]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures Methods and Case Studies. Addison-Wesley, 2001.
-
-
-F +
-
-[[[Feathers+2007]]] Working Effectively with Legacy Code. Prentice Hall, 2007.
-
-[[[Fowler+1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+Structure of an anchor:
+```
+- [[[label,text that will be shown]]]
+```
+ATTENTION: labels have to be non-numeric.
+====
+// end::REMARK[]
 
 
-L +
 
-[[[Lippert+2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
+**A**
 
-[[[Lilienthal 2016]]] Carola Lilienthal: Langlebige Softwarearchitekturen, Technische Schulden analysieren, begrenzen und abbauen. Dpunkt.verlag, 2016.
+- [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
 
 
-M +
+**B**
 
-[[[McConnell+2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
+- [[[bass,Bass+ 2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012.
 
-[[[Murer+2010]]] Stephan Murer, Bruno Bonati: Managed Evolution: A Strategy for Very Large Information Systems. Springer, 2010.
+
+**C**
+
+- [[[clements,Clements+ 2001]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures Methods and Case Studies. Addison-Wesley, 2001.
+
+
+**F**
+
+- [[[feathers,Feathers+ 2007]]] Michael Feathers: Working Effectively with Legacy Code. Prentice Hall, 2007.
+
+- [[[fowler,Fowler+ 1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+
+
+**L**
+
+- [[[lippert,Lippert+ 2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
+
+- [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt.verlag, 2019.
+
+
+**M**
+
+- [[[mcconnell,McConnell 2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
+
+- [[[murer,Murer+ 2019]]] Stephan Murer, Bruno Bonati: Managed Evolution: A Strategy for Very Large Information Systems. Springer, 2010.
+
+**N**
+
+- [[[newman,Newman 2019]]] Sam Newman: Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith. O'Reilly, 2019.

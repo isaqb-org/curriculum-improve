@@ -1,0 +1,24 @@
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+
+Aufwand, Kosten, Schätzung, Beobachtung/Messung, Annahmen,
+betriebswirtschaftliche Größen: Investition, Ertrag, Kosten, Wert, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) Kosten, Capital Expense (CapEx), Operational Expense (OpEx);
+Intervallschätzung, Gesetz-der-großen-Zahl
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 90 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even,
+Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capital Expense (CapEx), Operational Expense (OpEx);
+interval estimation, law of large numbers.
+
+// end::EN[]

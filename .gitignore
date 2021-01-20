@@ -9,4 +9,4 @@ build
 .settings
 
 .vscode
-docs/learning-objectives.adoc
+learning-objectives.adoc

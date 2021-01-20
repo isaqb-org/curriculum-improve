@@ -1,0 +1,16 @@
+// header file for curriculum section 4: Lerneinheit 4
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Verbesserungen langfristig planen
+// end::DE[]
+
+// tag::EN[]
+== Long-Term Planning of Improvements
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
+

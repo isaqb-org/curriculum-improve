@@ -26,13 +26,12 @@ This repository contains the curriculum for the iSAQB Advanced Level "IMPROVE" w
 == Content of this "readme"
 toc::[]
 
-== Where to find the results
+== How to contribute or participate
+Create an issue, a merge- or pull-request
 
-FIXME: Currently no documents are generated, as the travis-CI build is unfinished.
+== How to use this template
 
-== How to generate the documents
-
-1. Clone or download the repository - and **include the submodule**:
+. Either click on "Use this template" in the Github UI or Clone the repository - including the submodule:
 +
 --
 [source,shell]
@@ -50,9 +49,8 @@ git clone git@github.com/isaqb-org/curriculum-improve.git --recursive
 Create an issue, a merge- or pull-request
 
 
-=== How to write iSAQB Advanced Level Curricula with AsciiDoc
-
-Please take a look at https://github.com/isaqb-org/advanced-template#how-to-write-isaqb-advanced-level-curricula-with-asciidoc
+== Additional translations/languages
+include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 
 == Maintainers
@@ -73,19 +71,7 @@ Parts of the content origined from the https://aim42.org[aim42 open source metho
 
 === Current release
 * The latest official version is v 1.6.
-* Release 1.7.0 is under way (with only minor content changes, but generated from Asciidoc)
-
-=== General release process
-* Releases are tagged in git
-
-Steps for a document release (e.g. version a.b.0 ):
-
-* internal preview a.b.c-DRAFT, our working version
-* a.b.0-RC-1 for review within the Advanced-working-group
-* a.b.0-RC-2 for review for all IMPROVE training providers
-* a.b.0 final release
-
-* minor updates (a.g. a.b.1, a.b.2 etc) are reviewed ONLY by the maintainers and parts of the working group.
+* Release 2021.1 is under way (with only minor content changes, but generated from Asciidoc)
 
 == iSAQB Contact Information
 

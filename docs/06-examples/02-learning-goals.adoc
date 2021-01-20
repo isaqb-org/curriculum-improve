@@ -1,0 +1,57 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Beispiele für Probleme/Risiken in IT-Systemen
+Anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Systems erkennen und nachvollziehen können.
+
+Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
+
+[[LZ-6-2]]
+==== LZ 6-2: Bewertung von Problemen/Risiken kennen und nachvollziehen
+
+Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösungsansätzen nachvollziehen können.
+
+[[LZ-6-3]]
+==== LZ 6-3: Mittel- bis langfristige Planung eines Verbesserungsprojektes
+
+Anhand konkreter Beispiele die (kurz-, mittel- und/oder langfristige) Planung eines Verbesserungsprojektes kennenlernen und nachvollziehen können.
+
+[[LZ-6-4]]
+==== LZ 6-4: Verbesserungsmaßnahmen eines realen Systems
+
+Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaßnahmen kennenlernen und nachvollziehen können.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: Examples of problems/risks in IT systems
+
+Being able to identify and understand problems and risks of a medium/large IT system using concrete examples.
+
+Therefore, the trainings should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
+
+[[LG-6-2]]
+==== LG 6-2: Know and understand the evaluation of problems/risks
+
+Understand the assessment (evaluation) of problems or approaches to solutions by means of concrete examples.
+
+[[LG-6-3]]
+==== LG 6-3: Know medium- to long term planning of an improvement project
+
+Get to know and understand the (short-, medium- and/or long-term) planning of an improvement project by means of concrete examples.
+
+[[LG-6-4]]
+==== LG 6-4: Improvement measures of a real-life system
+
+Get to know and understand the possible or implemented improvement measures on the basis of concrete examples.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

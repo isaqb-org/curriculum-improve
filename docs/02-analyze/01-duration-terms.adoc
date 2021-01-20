@@ -1,0 +1,22 @@
+// tag::DE[]
+[width=50%]
+|===
+| Dauer: 210 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+
+Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus Symptom, Lösungsansatz
+
+// end::DE[]
+
+// tag::EN[]
+[width=50%]
+|===
+| Lesson duration: 210 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+current state analysis, strength/weaknesses analysis, stakeholder, problem, cause versus symptom,
+solution approach.
+// end::EN[]

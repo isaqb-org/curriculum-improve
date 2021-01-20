@@ -13,33 +13,25 @@ ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
 
-// if the attribute ":withFeedback:" is set, we include buttons to give
-// feedback to specific content sections.
-:withFeedback!:
-:feedback:
-ifdef::withFeedback[]
-:feedback: ;FEEDBACK
-endif::withFeedback[]
-
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: EN
 
 // ":include_configuration:" always consists of the language, optionally
-// followed by ";REMARK" or ";FEEDBACK".
+// followed by ";REMARK"
 // additional markers might be configured here!
-:include_configuration: tags=**;{language}{remarks}{feedback};!*
+:include_configuration: tags=**;{language}{remarks};!*
 
 :curriculum-short: IMPROVE
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
-:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+:curriculum-name: Evolution und Verbesserung von Softwarearchitekturen
+:curriculum-header-title: iSAQB Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-name: Evolution and Improvement of Software Architectures
-:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB Curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
 // you might want to output some internal information...

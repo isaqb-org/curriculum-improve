@@ -1,0 +1,16 @@
+// header file for curriculum section 4: Lerneinheit 2
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Ist-Situation analysieren
+// end::DE[]
+
+// tag::EN[]
+== Analyse Current State
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
+

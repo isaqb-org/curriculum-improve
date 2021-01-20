@@ -1,0 +1,86 @@
+
+// tag::DE[]
+=== Struktur des Lehrplans und empfohlene zeitliche Aufteilung
+
+[cols="<,>", options="header"]
+|===
+
+| Inhalt | Unterricht (Minuten)
+
+| 1. Grundlegendes
+| 120
+
+| 2. Ist-Situation analysieren
+| 210
+
+| 3. Probleme und Lösungsansätze schätzen und bewerten
+| 90
+
+| 4. Verbesserungen langfristig planen
+| 120
+
+| 5. Typische Verbesserungsansätze
+| 360
+
+| 6. Beispiele für Verbesserung
+| 180
+
+|
+|
+
+| Total:
+| 1080 min (18h)
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Curriculum Structure and Recommended Durations
+
+In particular, examples and exercises are left unspecified in this curriculum.
+
+[cols="<,>", options="header"]
+|===
+
+| Content
+| Recommended minimum duration (minutes)
+
+
+| 1. Foundations
+| 120
+
+| 2. Analysis of current situation
+| 210
+
+| 3. Estimation of problems and solution approaches
+| 90
+
+| 4. Long term improvement planning
+| 120
+
+| 5. Typical improvement approaches
+| 360
+
+| 6. Improvement examples
+| 180
+
+|
+|
+
+| Sum
+| 1080 (18h)
+
+|===
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Bitte die oben angegebene Tabelle entsprechend anpassen.
+
+= = =
+
+Please adjust the table above according to your curriculum.
+====
+// end::REMARK[]

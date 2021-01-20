@@ -1,0 +1,14 @@
+// header file for curriculum section 1: ERSTE LERNEINHEIT
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::DE[]
+== Grundlagen der Verbesserung und Weiterentwicklung von Software
+// end::DE[]
+
+// tag::EN[]
+== Foundations of Improvement and Evolution of Software 
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]

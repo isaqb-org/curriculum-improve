@@ -1,0 +1,25 @@
+// tag::DE[]
+|===
+| Dauer: 360  Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+Strukturelle versus konzeptionelle Verbesserung, Prozess- und Produktverbesserung,
+Verbesserung in Code, Daten, querschnittlichen Konzepten, Prozessen, Infrastruktur, Analysierbarkeit/Monitoring;
+Abbau technischer Schulden, Verbesserungsmaßnahmen für Quellcode: Refactoring, Reduktion von Komplexität und Kopplung,
+Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur Senkung von Änderungsrisiken, insbesondere automatisierte Tests.
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 360 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+Structural vs. conceptual improvement, process and product improvement, Improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring;
+Reduction of technical debts, ways to improve source code: refactoring, reduction of complexity and coupling,
+improve readability and comprehensibility; process automation to lower risk of changes, in particular, automated tests.
+
+// end::EN[]

@@ -1,0 +1,28 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+
+Explizite Darstellung (Dokumentation) von bewerteten Problemen und
+Lösungsoptionen, Gruppierung/Clusterung von Lösungen, Abhängigkeiten von Problemen und Lösungen,
+Mögliche m:n Relation von Problemen und Lösungsansätzen, Synergieeffekte, Iterativ-inkrementelles Vorgehen,
+Entwicklung und Kommunikation langfristiger Lösungsstrategien
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 120 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+
+Explicit representation (documentation) of evaluated problems and options for solutions,
+grouping/clustering of solutions, dependencies between problems and solutions,
+potential m:n relation between problems and solution approaches, synergies,
+iterative-incremental approach, development and communication of long-term solution strategies.
+
+// end::EN[]

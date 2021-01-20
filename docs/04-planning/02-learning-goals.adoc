@@ -1,0 +1,79 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Bewertete Probleme und Lösungsansätze explizit darstellen
+
+Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Problemen und Lösungsansätzen kennen
+und situationsangemessen auswählen – beispielsweise:
+
+* Issue-Tracker
+* Tabellen oder
+* Datenbanken
+
+[[LZ-4-2]]
+==== LZ 4-2: Typische methodische Ansätze für Verbesserung
+
+* Typische Ansätze für Verbesserung kennen, beispielsweise:
+** Langfristige kontinuierliche Verbesserung
+** Verbesserungs-Releases
+** Application-Strangulation
+** Kapselung (lokalisierbarer) Probleme oder Risiken in Blackboxes
+** Extraktion fachlicher Teile, Abtrennung technischer Teile
+** Schrittweise Ablösung problembehafteter Systemteile
+** Rewrite
+** Outsourcing
+** Business Process Reengineering.
+
+* Diese Ansätze für langfristige Verbesserung an unterschiedliche Stakeholder kommunizieren und argumentieren.
+
+[[LZ-4-3]]
+==== LZ 4-3: Effekte von „Rewrite“ versus „kontinuierliche Verbesserung“
+
+* In einer gegebenen Situation die Effekte (Risiken, Vorteile) der Ansätze „komplette Neuentwicklung (Rewrite) gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren können.
+* Verstehen, dass mangelnde Kenntnis von Details (wie etwa Anforderungen, Details von Algorithmen und Prozessen, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten, betriebliche Prozesse) häufig die Option „Rewrite“ einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details wäre.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: Explicitly represent evaluated problems and solution approaches
+
+Know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose the appropriate for the given situation. Examples:
+
+* Issue tracker
+* Tables
+* Databases.
+
+[[LG-4-2]]
+==== LG 4-2: Typical methodical approaches for improvement
+
+* Know typical methods for improvement, e. g.,:
+
+** Long-term continuous improvement,
+** Improving releases,
+** Application strangling,
+** Encapsulation of (localised) problems or risks in black-boxes,
+** Extraction of business aspects, separation of technical aspects,
+** Incremental replacement of problematic parts of system,
+** Rewrite,
+** Outsourcing,
+** Business process reengineering.
+
+* Communicate and argue approaches to long-term improvement  to different stakeholders.
+
+[[LG-4-3]]
+==== LG 4-3: Assess the impact of “rewrite“ versus “continuous improvement"
+
+* Being able to assess and argue the impact (risks, benefits) of a “complete rewrite” approach in contrast to a “continuous improvement“ approach in each situation.
+
+* Understand that lack of details knowledge (e. g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
