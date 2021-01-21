@@ -8,7 +8,7 @@ Anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Syste
 Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
 
 [[LZ-6-2]]
-==== LZ 6-2: Bewertung von Problemen/Risiken kennen und nachvollziehen
+==== LZ 6-2: Bewertung von Problemen/Risiken
 
 Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösungsansätzen nachvollziehen können.
 
@@ -33,12 +33,12 @@ Being able to identify and understand problems and risks of a medium/large IT sy
 Therefore, the trainings should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
 
 [[LG-6-2]]
-==== LG 6-2: Know and understand the evaluation of problems/risks
+==== LG 6-2: Evaluation of problems/risks
 
 Understand the assessment (evaluation) of problems or approaches to solutions by means of concrete examples.
 
 [[LG-6-3]]
-==== LG 6-3: Know medium- to long term planning of an improvement project
+==== LG 6-3: Medium- to long term planning of an improvement project
 
 Get to know and understand the (short-, medium- and/or long-term) planning of an improvement project by means of concrete examples.
 
