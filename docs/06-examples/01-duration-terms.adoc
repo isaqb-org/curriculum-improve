@@ -1,6 +1,7 @@
 // tag::DE[]
+[width=50%]
 |===
-| Dauer: 180 Min. | Übungszeit: 0 Min.
+| Theorie: 60 Min. | Übung: 120 Min.
 |===
 
 **Anmerkung**:
@@ -16,8 +17,9 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 
 
 // tag::EN[]
+[width=50%]
 |===
-| Lesson duration: 180 min | Exercises: 0 min
+| Teaching: 60 min | Exercises: 120 min
 |===
 
 
