@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Analyse Current State
+== Analyze Current State
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

@@ -64,18 +64,17 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: Potential approaches to optimise development processes
+==== LG 5-1: Potential approaches to optimize development processes
 
-* Decentralisation vs. centralisation of development processes.
+* Decentralization vs. centralization of development processes.
 * Employment of iterative processes to reduce risks.
 * Reduce idle times and buffers to accelerate development processes.
-* Identify critical parts (people, organisational units) in development processes, and possible ways to relieve them.
+* Identify critical parts (people, organizational units) in development processes, and possible ways to relieve them.
 
 [[LG-5-2]]
 ==== LG 5-2: Improvement measures for source code
 
-* Know and being able to apply typical technology/programming language
-specific refactorings (semantics preserving simplification measures in source code). Trainings should conduct exercises if required.
+* Know and being able to apply typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code). Training should conduct exercises if required.
 * Better use of technology or use better technology (change of technology).
 * Explain the connection between technical debts and refactoring.
 * Know and be able to apply measures and patterns to reduce coupling at source code level.
@@ -90,7 +89,7 @@ specific refactorings (semantics preserving simplification measures in source co
 [[LG-5-4]]
 ==== LG 5-4: Automation as a means of reducing risks of changes
 
-Know further methodical and technical means of automations that may help to reduce risk and required efforts of changes, such as:
+Know further methodical and technical means of automation that may help to reduce risk and required efforts of changes, such as:
 
 * Continuous integration
 * Continuous delivery
@@ -99,13 +98,13 @@ Know further methodical and technical means of automations that may help to redu
 [[LG-5-5]]
 ==== LG 5-5: Relevant architectural-/design- or implementation patterns to reduce system-internal coupling
 
-* Know and be able to apply typical patterns to reduce coupling (e. g., modularisation/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
+* Know and be able to apply typical patterns to reduce coupling (e. g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
 * Understand the impact of typical patterns (possibly by using appropriate tools).
 
 [[LG-5-6]]
-==== LG 5-6: Technology specific options to improve the runtime behaviour of systems
+==== LG 5-6: Technology-specific options to improve the runtime behavior of systems
 
-Know and be able to apply technology specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
+Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
 [[LG-5-7]]
 ==== LG 5-7: Options to improve operation processes
@@ -121,7 +120,7 @@ Know and be able to apply basic options for systematic improvement of technical 
 * Targeted reduction of documentation volume through abstraction or focussing on essential topics
 * Top-down communication,
 * Separation of structural (specific) and conceptual (overarching) contents.
-* Modularisation of documentation
+* Modularization of documentation
 
 // end::EN[]
 

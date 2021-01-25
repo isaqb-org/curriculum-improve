@@ -64,7 +64,7 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 [[LG-2-1]]
 ==== LG 2-1: Basics of the analysis to distinguish “problem” from “solution”
 
-* Distinguish “problem analysis” from “problem solution”
+* Distinguish between “analysis of problems” and “solving problems”
 * Form m:n relation between problems and solution approaches
 * Decomposition of complex problems
 
@@ -81,8 +81,8 @@ time or the involved stakeholders. This includes approaches such as:
 * Analysis of structural deviations between target and current architecture,
 * Quantitative analysis methods and practices, such as:
 * Code metrics (size metrics, coupling, complexity, cohesion),
-* Organisational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.,
-* Runtime metrics, e. g., time and resource demands as well as tools to measure these metrics.
+* Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.,
+* Runtime metrics, e. g. time and resource demands as well as tools to measure these metrics.
 * Data analysis: examination of data structures and contents,
 * Documentation analysis,
 * Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved and infrastructure software)
@@ -93,13 +93,13 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-3]]
 ==== LG 2-3: Methodically document identified problems and risks
 
-* Participant shall be able to initiate an adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
-* Tools and examples for problem documentation.
+* Participants shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
+* Tools and examples for documenting problems.
 
 [[LG-2-4]]
 ==== LG 2-4: Stakeholder analysis and interviews
 
-* Plan, perform, and document a stakeholder analysis to identify essential people involved, their roles, and intents.
+* Plan, perform and document a stakeholder analysis to identify essential people involved, their roles, and intents.
 * Know methods to structure and execute stakeholder interviews.
 * Being able to create preparatory questionnaires.
 * React flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
@@ -107,9 +107,9 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-5]]
 ==== LG 2-5: Context analysis
 
-* Define and document contextual boundaries: demarcate systems with respect to their technically and logically related neighbours, identify external interfaces.
+* Define and document contextual boundaries: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
 * Identify connections between external interfaces and stakeholders and use this information for problem analysis.
-* Elaborate problems and risks of external interfaces (e. g., via interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organisational dependencies, analysis of quality attributes and/or service levels).
+* Elaborate problems and risks of external interfaces (e. g. with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
 
 [[LG-2-6]]
 ==== LG 2-6: Code and structural analysis
@@ -120,7 +120,7 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-7]]
 ==== LG 2-7: Runtime analysis
 
-Plan and perform (dynamic) analysis of existing systems, e. g., with respect to runtime behaviour, resource utilization, load response.
+Plan and perform (dynamic) analysis of existing systems, e. g. with respect to runtime behavior, resource utilization, load response.
 (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 
 // end::EN[]

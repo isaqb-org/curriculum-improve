@@ -67,7 +67,7 @@ Beispielsweise:
 * Change in quality requirements and goals
 * Changes in technical or business context (e. g., change in external interfaces)
 * Bug fixing
-* Changes in organisation (e. g., changes of legal conditions or requirements, organisational structure of business units, development or operations)
+* Changes in organization (e. g., changes of legal conditions or requirements, organizational structure of business units, development or operations)
 * Reduce of costs or efforts, especially with respect to:
 ** Costs or efforts of development
 ** Costs or efforts of operations
@@ -83,7 +83,7 @@ Beispielsweise:
 * Conceptual weaknesses, e. g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
 * Structural problems in data or data structures.
 * Structural problems in source code, such as:
-** Missing or inadequate modularisation,
+** Missing or inadequate modularization,
 ** Tight coupling,
 ** High complexity,
 ** Low cohesion,

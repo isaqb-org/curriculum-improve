@@ -29,8 +29,8 @@ software systems.
 * Some hands-on experience in maintenance and evolution of a software
 system.
 * Some hands-on experience with the handling of source code of medium to
-large scale systems, in particular analysis, assessment, quality check,
-refactoring, and applying of metrics.
+large scale systems, in particular: analysis, assessment, quality check,
+refactoring and applying of metrics.
 
 Furthermore, the following will be useful for understanding certain
 concepts:

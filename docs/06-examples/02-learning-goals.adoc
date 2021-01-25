@@ -30,7 +30,7 @@ Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaß
 
 Being able to identify and understand problems and risks of a medium/large IT system using concrete examples.
 
-Therefore, the trainings should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
+Therefore, the training should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
 
 [[LG-6-2]]
 ==== LG 6-2: Evaluation of problems/risks
@@ -45,7 +45,7 @@ Get to know and understand the (short-, medium- and/or long-term) planning of an
 [[LG-6-4]]
 ==== LG 6-4: Improvement measures of a real-life system
 
-Get to know and understand the possible or implemented improvement measures on the basis of concrete examples.
+Get to know and understand the possible or implemented improvement measures based on concrete examples.
 
 // end::EN[]
 
