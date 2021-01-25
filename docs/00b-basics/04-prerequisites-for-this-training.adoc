@@ -30,7 +30,7 @@ software systems.
 system.
 * Some hands-on experience with the handling of source code of medium to
 large scale systems, in particular: analysis, assessment, quality check,
-refactoring and applying of metrics.
+refactoring, and applying of metrics.
 
 Furthermore, the following will be useful for understanding certain
 concepts:
