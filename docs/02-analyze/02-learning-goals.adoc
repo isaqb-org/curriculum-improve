@@ -64,7 +64,7 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 [[LG-2-1]]
 ==== LG 2-1: Basics of the analysis to distinguish “problem” from “solution”
 
-* Distinguish between “analysis of problems” and “solving problems”
+* Distinguish between “analyzing problems” and “solving problems”
 * Form m:n relation between problems and solution approaches
 * Decomposition of complex problems
 
