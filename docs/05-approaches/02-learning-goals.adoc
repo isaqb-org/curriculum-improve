@@ -78,7 +78,7 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 * Better use of technology or use better technology (change of technology).
 * Explain the connection between technical debts and refactoring.
 * Know and be able to apply measures and patterns to reduce coupling at source code level.
-* Know and be able to apply measures and patterns to make source code more comprehensible, e. g., Clean Code principles.
+* Know and be able to apply measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
 
 [[LG-5-3]]
 ==== LG 5-3: Possible approaches for automated testing to reduce risks of change
@@ -98,7 +98,7 @@ Know further methodical and technical means of automation that may help to reduc
 [[LG-5-5]]
 ==== LG 5-5: Relevant architectural-/design- or implementation patterns to reduce system-internal coupling
 
-* Know and be able to apply typical patterns to reduce coupling (e. g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
+* Know and be able to apply typical patterns to reduce coupling (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
 * Understand the impact of typical patterns (possibly by using appropriate tools).
 
 [[LG-5-6]]
@@ -116,7 +116,7 @@ Know and be able to apply technology-specific patterns and practices to improve 
 
 Know and be able to apply basic options for systematic improvement of technical documentation, such as:
 
-* Compliance with established document structures (e. g., templates)
+* Compliance with established document structures (e.g., templates)
 * Targeted reduction of documentation volume through abstraction or focussing on essential topics
 * Top-down communication,
 * Separation of structural (specific) and conceptual (overarching) contents.

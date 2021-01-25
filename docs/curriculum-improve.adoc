@@ -13,7 +13,7 @@ ifeval::["{language}" == "EN"]
 endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
-// e.g. build.gradle
+// e.g., build.gradle
 :document-version: 2020.1-rev1
 
 

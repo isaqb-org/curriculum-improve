@@ -48,7 +48,7 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 [[LG-4-2]]
 ==== LG 4-2: Typical methodical approaches for improvement
 
-* Know typical methods for improvement, e. g.,:
+* Know typical methods for improvement, e.g.,:
 
 ** Long-term continuous improvement,
 ** Improving releases,
@@ -67,7 +67,7 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 
 * Being able to assess and argue the impact (risks, benefits) of a “complete rewrite” approach in contrast to a “continuous improvement” approach in each situation.
 
-* Understand that lack of details knowledge (e. g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
+* Understand that lack of details knowledge (e.g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
 
 // end::EN[]
 

@@ -35,14 +35,14 @@ refactoring and applying of metrics.
 Furthermore, the following will be useful for understanding certain
 concepts:
 
-* Knowledge and hands-on experience with refactoring (see e. g.,
+* Knowledge and hands-on experience with refactoring (see e.g.,
 [Fowler+99])
 * Knowledge or some hands-on experience with review and evaluation of
 software:
 ** Basic knowledge about software metrics, such as metrics to measure
-coupling, cohesion, dependency and complexity.
+coupling, cohesion, dependency, and complexity.
 ** Basic knowledge of software run time analysis such as profiling,
-tracing, log analysis and analysis of application data.
+tracing, log analysis, and analysis of application data.
 ** Basic knowledge and some experience with the estimation of
 development efforts.
 * Some hands-on experience with requirements engineering as well as
