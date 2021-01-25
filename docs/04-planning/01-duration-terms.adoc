@@ -1,6 +1,7 @@
 // tag::DE[]
+[width=50%]
 |===
-| Dauer: 120 Min. | Übungszeit: 0 Min.
+| Dauer: 90 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -14,8 +15,9 @@ Entwicklung und Kommunikation langfristiger Lösungsstrategien
 // end::DE[]
 
 // tag::EN[]
+[width=50%]
 |===
-| Lesson duration: 120 min | Exercises: 0 min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and concepts

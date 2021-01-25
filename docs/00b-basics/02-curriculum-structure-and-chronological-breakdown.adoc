@@ -2,75 +2,98 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
-[cols="<,>", options="header"]
+[cols="3,1,1", options="header"]
 |===
 
-| Inhalt | Unterricht (Minuten)
+| Inhalt
+| Dauer (Minuten)
+| Übungszeit (Minuten)
 
 | 1. Grundlegendes
-| 120
+| 105
+| 15
 
 | 2. Ist-Situation analysieren
-| 210
+| 150
+| 60
 
 | 3. Probleme und Lösungsansätze schätzen und bewerten
-| 90
+| 60
+| 30
 
 | 4. Verbesserungen langfristig planen
-| 120
+| 90
+| 30
 
 | 5. Typische Verbesserungsansätze
-| 360
+| 255
+| 105
 
 | 6. Beispiele für Verbesserung
-| 180
+| 60
+| 120
 
+|
 |
 |
 
 | Total:
-| 1080 min (18h)
+| 720 min (12h)
+| 360 min (6h)
 |===
+
+In diesem Kontext stellt „Dauer“ die Unterrichtszeit ohne Übungszeit dar.
+Die Zeitaufteilung zwischen Theorie und Übungen ist lediglich eine Empfehlung.
+Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorgegeben.
 
 // end::DE[]
 
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
-In particular, examples and exercises are left unspecified in this curriculum.
-
-[cols="<,>", options="header"]
+[cols="3,1,1", options="header"]
 |===
 
 | Content
-| Recommended minimum duration (minutes)
-
+| Duration (minutes)
+| Practice time (minutes)
 
 | 1. Foundations
-| 120
+| 105
+| 15
 
 | 2. Analysis of current situation
-| 210
+| 150
+| 60
 
 | 3. Estimation of problems and solution approaches
-| 90
+| 60
+| 30
 
 | 4. Long term improvement planning
-| 120
+| 90
+| 30
 
 | 5. Typical improvement approaches
-| 360
+| 255
+| 105
 
 | 6. Improvement examples
-| 180
+| 60
+| 120
 
 |
 |
+|
 
-| Sum
-| 1080 (18h)
-
+| Sum:
+| 720 min (12h)
+| 360 min (6h)
 |===
+
+In this context, “duration” refers to teaching time without exercises.
+The time breakdown between theory and exercises is only a recommendation.
+The design of the examples and exercises aren't specified in this curriculum.
 
 // end::EN[]
 
