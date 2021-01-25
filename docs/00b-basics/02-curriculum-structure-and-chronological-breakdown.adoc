@@ -6,8 +6,8 @@
 |===
 
 | Inhalt
-| Theorie (Minuten)
-| Übungen (Minuten)
+| Dauer (Minuten)
+| Übungszeit (Minuten)
 
 | 1. Grundlegendes
 | 105
@@ -42,6 +42,8 @@
 | 360 min (6h)
 |===
 
+In diesem Kontext stellt „Dauer“ die Unterrichtszeit ohne Übungszeit dar.
+Die Zeitaufteilung zwischen Theorie und Übungen ist lediglich eine Empfehlung.
 Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorgegeben.
 
 // end::DE[]
@@ -53,8 +55,8 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 |===
 
 | Content
-| Teaching (minutes)
-| Exercises (minutes)
+| Duration (minutes)
+| Practice time (minutes)
 
 | 1. Foundations
 | 105
@@ -89,6 +91,8 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 | 360 min (6h)
 |===
 
+In this context, “duration” refers to teaching time without exercises.
+The time breakdown between theory and exercises is only a recommendation.
 The design of the examples and exercises aren't specified in this curriculum.
 
 // end::EN[]

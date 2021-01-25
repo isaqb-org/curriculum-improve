@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Theorie: 60 Min. | Übung: 30 Min.
+| Dauer: 60 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -15,7 +15,7 @@ Intervallschätzung, Gesetz-der-großen-Zahl
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 60 min | Exercises: 30 min
+| Duration: 60 min | Practice time: 30 min
 |===
 
 === Terms and concepts

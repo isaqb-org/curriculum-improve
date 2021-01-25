@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Theorie: 90 Min. | Übung: 30 Min.
+| Dauer: 90 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -17,7 +17,7 @@ Entwicklung und Kommunikation langfristiger Lösungsstrategien
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 90 min | Exercises: 30 min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and concepts
