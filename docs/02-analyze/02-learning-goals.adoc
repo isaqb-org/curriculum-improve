@@ -99,7 +99,7 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-4]]
 ==== LG 2-4: Stakeholder analysis and interviews
 
-* Plan, perform, and document a stakeholder analysis to identify essential people involved, their roles and intents.
+* Plan, perform, and document a stakeholder analysis to identify essential people involved, their roles, and intents.
 * Know methods to structure and execute stakeholder interviews.
 * Being able to create preparatory questionnaires.
 * React flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
