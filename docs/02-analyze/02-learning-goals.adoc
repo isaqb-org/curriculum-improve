@@ -81,7 +81,7 @@ time or the involved stakeholders. This includes approaches such as:
 * Analysis of structural deviations between target and current architecture,
 * Quantitative analysis methods and practices, such as:
 * Code metrics (size metrics, coupling, complexity, cohesion),
-* Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.,
+* Organizational metrics, such as costs, time and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.,
 * Runtime metrics, e. g. time and resource demands as well as tools to measure these metrics.
 * Data analysis: examination of data structures and contents,
 * Documentation analysis,
@@ -99,7 +99,7 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-4]]
 ==== LG 2-4: Stakeholder analysis and interviews
 
-* Plan, perform and document a stakeholder analysis to identify essential people involved, their roles, and intents.
+* Plan, perform and document a stakeholder analysis to identify essential people involved, their roles and intents.
 * Know methods to structure and execute stakeholder interviews.
 * Being able to create preparatory questionnaires.
 * React flexibly to new relevant information obtained during interviews; incorporate these in the analysis.

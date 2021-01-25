@@ -69,7 +69,7 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 * Decentralization vs. centralization of development processes.
 * Employment of iterative processes to reduce risks.
 * Reduce idle times and buffers to accelerate development processes.
-* Identify critical parts (people, organizational units) in development processes, and possible ways to relieve them.
+* Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
 [[LG-5-2]]
 ==== LG 5-2: Improvement measures for source code
