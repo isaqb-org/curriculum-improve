@@ -75,16 +75,16 @@ Know typical practices for current state analysis and being able to
 choose the appropriate method in each situation according to budget,
 time or the involved stakeholders. This includes approaches such as:
 
-* Stakeholder analysis and interview,
-* Contextual analysis,
-* Qualitative analysis (e.g., ATAM), in particular, analysis of quality goals,
-* Analysis of structural deviations between target and current architecture,
+* Stakeholder analysis and interview
+* Contextual analysis
+* Qualitative analysis (e.g., ATAM), in particular, analysis of quality goals
+* Analysis of structural deviations between target and current architecture
 * Quantitative analysis methods and practices, such as:
-* Code metrics (size metrics, coupling, complexity, cohesion),
-* Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.,
-* Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics.
-* Data analysis: examination of data structures and contents,
-* Documentation analysis,
+** Code metrics (size metrics, coupling, complexity, cohesion)
+** Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.
+** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics
+* Application data analysis: examination of data structures and contents
+* Documentation analysis
 * Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved, and infrastructure software)
 * Analysis of development processes (requirements engineering, design/implementation, test/QA, and handover to operations)
 * Analysis of operation processes
