@@ -9,7 +9,7 @@ Teilnehmende sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
-* Kenntnisse und praktische Erfahrung im Refactoring
+* Kenntnisse und praktische Erfahrung im Refactoring (siehe z.B. <<fowler>>)
 * Kenntnisse oder erste praktische Erfahrung in Review oder Bewertung von Software:
 ** Grundkenntnisse in Software-Metriken, z. B. Metriken zur Messung von Kopplung, Kohäsion, Abhängigkeit, Komplexität
 ** Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Analyse von Anwendungsdaten
@@ -36,7 +36,7 @@ Furthermore, the following will be useful for understanding certain
 concepts:
 
 * Knowledge and hands-on experience with refactoring (see e.g.,
-[Fowler+99])
+<<fowler>>)
 * Knowledge or some hands-on experience with review and evaluation of
 software:
 ** Basic knowledge about software metrics, such as metrics to measure
