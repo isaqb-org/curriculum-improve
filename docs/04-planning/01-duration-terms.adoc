@@ -25,6 +25,6 @@ Entwicklung und Kommunikation langfristiger Lösungsstrategien
 Explicit representation (documentation) of evaluated problems and options for solutions,
 grouping/clustering of solutions, dependencies between problems and solutions,
 potential m:n relation between problems and solution approaches, synergies,
-iterative-incremental approach, development and communication of long-term solution strategies.
+iterative-incremental approach, development, and communication of long-term solution strategies.
 
 // end::EN[]

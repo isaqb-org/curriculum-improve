@@ -20,7 +20,7 @@ Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur
 |===
 
 === Terms and concepts
-Structural vs. conceptual improvement, process and product improvement, Improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring;
+Structural vs. conceptual improvement, process and product improvement, improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring;
 Reduction of technical debts, ways to improve source code: refactoring, reduction of complexity and coupling,
 improve readability and comprehensibility; process automation to lower risk of changes, in particular, automated tests.
 

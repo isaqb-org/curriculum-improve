@@ -38,20 +38,20 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 * Explain costs and value as linked concepts.
 * Name and classify different kinds of economic dimensions, such as:
 ** Direct costs, education costs, capital expenditures (direct and indirect cost of investment), operating expenditures, opportunity cost, and cost of delay
-** Investment and operating expenses (OPEX), Run-the-Company (RTC) and Develop-the-Company (DTC)
-** ROI, break-even, depreciation and amortisation
+** Investment and operating expenses (OPEX), Run-the-Company (RTC), and Develop-the-Company (DTC)
+** ROI, break-even, depreciation, and amortization
 ** One-time and reoccurring costs, known and estimated costs.
 
 [[LG-3-2]]
 ==== LG 3-2: Basic terms of evaluation and estimation
 
-* Explain the terms “estimation“, “observation“ and “measurement“ and apply them to the evaluation of problems and solution approaches.
+* Explain the terms “estimation”, “observation”, and “measurement” and apply them to the evaluation of problems and solution approaches.
 * Be able to estimate efforts in intervals. Know different approaches for interval estimates:
 ** Confidence interval,
 ** Minimum/maximum interval,
 ** Worst-/Average-/Best-Case estimation.
 * Be able to assess and communicate the probability of the correctness of the estimation.
-* Identify and name items to be estimated, e. g., hours of work.
+* Identify and name items to be estimated, e.g., hours of work.
 * Identify parameters and influencing factors of estimations
 * explicit assumption to be able to define estimation parameters in value ranges.
 

@@ -55,7 +55,7 @@ include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
-This repository is currently maintained by Gernot Starke, Markus Harrer and Benjamin Wolf.
+This repository is currently maintained by Gernot Starke, Markus Harrer, and Benjamin Wolf.
 It was forked from https://github.com/isaqb-org/advanced-template, so the contributors of that project basically contributed to this one, too.
 
 

@@ -30,7 +30,7 @@ und situationsangemessen auswählen – beispielsweise:
 [[LZ-4-3]]
 ==== LZ 4-3: Effekte von „Rewrite“ versus „kontinuierliche Verbesserung“
 
-* In einer gegebenen Situation die Effekte (Risiken, Vorteile) der Ansätze „komplette Neuentwicklung (Rewrite) gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren können.
+* In einer gegebenen Situation die Effekte (Risiken, Vorteile) der Ansätze „komplette Neuentwicklung (Rewrite)“ gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren können.
 * Verstehen, dass mangelnde Kenntnis von Details (wie etwa Anforderungen, Details von Algorithmen und Prozessen, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten, betriebliche Prozesse) häufig die Option „Rewrite“ einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details wäre.
 
 // end::DE[]
@@ -48,12 +48,12 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 [[LG-4-2]]
 ==== LG 4-2: Typical methodical approaches for improvement
 
-* Know typical methods for improvement, e. g.,:
+* Know typical methods for improvement, e.g.,:
 
 ** Long-term continuous improvement,
 ** Improving releases,
 ** Application strangling,
-** Encapsulation of (localised) problems or risks in black-boxes,
+** Encapsulation of (localized) problems or risks in black-boxes,
 ** Extraction of business aspects, separation of technical aspects,
 ** Incremental replacement of problematic parts of system,
 ** Rewrite,
@@ -63,11 +63,11 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 * Communicate and argue approaches to long-term improvement  to different stakeholders.
 
 [[LG-4-3]]
-==== LG 4-3: Impact of “rewrite“ versus “continuous improvement"
+==== LG 4-3: Impact of “rewrite” versus “continuous improvement”
 
-* Being able to assess and argue the impact (risks, benefits) of a “complete rewrite” approach in contrast to a “continuous improvement“ approach in each situation.
+* Being able to assess and argue the impact (risks, benefits) of a “complete rewrite” approach in contrast to a “continuous improvement” approach in each situation.
 
-* Understand that lack of details knowledge (e. g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
+* Understand that lack of details knowledge (e.g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
 
 // end::EN[]
 

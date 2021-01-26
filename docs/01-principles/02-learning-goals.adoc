@@ -65,9 +65,9 @@ Beispielsweise:
 
 * Extending and changing features
 * Change in quality requirements and goals
-* Changes in technical or business context (e. g., change in external interfaces)
+* Changes in technical or business context (e.g., change in external interfaces)
 * Bug fixing
-* Changes in organisation (e. g., changes of legal conditions or requirements, organisational structure of business units, development or operations)
+* Changes in organization (e.g., changes of legal conditions or requirements, organizational structure of business units, development or operations)
 * Reduce of costs or efforts, especially with respect to:
 ** Costs or efforts of development
 ** Costs or efforts of operations
@@ -80,19 +80,19 @@ Beispielsweise:
 [[LG-1-2]]
 ==== LG 1-2: Typical categories of problems in software
 
-* Conceptual weaknesses, e. g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
+* Conceptual weaknesses, e.g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
 * Structural problems in data or data structures.
 * Structural problems in source code, such as:
-** Missing or inadequate modularisation,
+** Missing or inadequate modularization,
 ** Tight coupling,
 ** High complexity,
 ** Low cohesion,
-** Flaws in programming, e. g., non-idiomatic use of languages or tools.
+** Flaws in programming, e.g., non-idiomatic use of languages or tools.
 * Runtime problems in systems, like instability, lack of robustness or reliability, insufficient performance or extensive resource demands, insufficient scalability, insufficient transparency of system processes
 * “Legacy” gathered by frequent changes of requirements made under time and/or cost pressure.
 * Recognize and name different kinds of technical debts.
-* Problems to achieve quality goals or requirements, e. g., insufficient changeability or maintainability, low flexibility, insufficient security or lack of portability.
-* Problems in development, operations or other involved processes (e. g., requirements management, test/QA, configuration, deployment, monitoring/alerting).
+* Problems to achieve quality goals or requirements, e.g., insufficient changeability or maintainability, low flexibility, insufficient security or lack of portability.
+* Problems in development, operations or other involved processes (e.g., requirements management, test/QA, configuration, deployment, monitoring/alerting).
 
 [[LG-1-3]]
 ==== LG 1-3: Core terms of software evolution and -change

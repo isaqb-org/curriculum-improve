@@ -11,7 +11,7 @@ Zusätzlich zeigt der IMPROVE-Lehrplan typische Ansätze für Verbesserungen auf
 === What does the module “{curriculum-short}” convey?
 
 Participants learn to methodically improve software systems and architectures, guided by economic and technical goals.
-The trainings impart the systematic separation of problem and solution, the elaboration of short-, mid- and long-term solution strategies as well as their alignment with business goals and measures.
-In addition, the IMPROVE curriculum teaches typical approaches of improvement, e. g., restructuring and refactoring, improving analyzability, process improvement, improvement of technical infrastructure, improvement of quality attributes, etc.
+The training imparts the systematic separation of problem and solution, the elaboration of short-, mid- and long-term solution strategies as well as their alignment with business goals and measures.
+In addition, the IMPROVE curriculum teaches typical approaches of improvement, e.g., restructuring and refactoring, improving analyzability, process improvement, improvement of technical infrastructure, improvement of quality attributes, etc.
 
 // end::EN[]
