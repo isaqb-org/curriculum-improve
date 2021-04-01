@@ -21,7 +21,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 This is <<copyrighted,copyrighted work>>.
 
-This repository contains the curriculum for the iSAQB Advanced Level "IMPROVE" written in AsciiDoc.
+This repository contains the AsciiDoc sourcees of the curriculum for the iSAQB Advanced Level "IMPROVE". 
 
 == Content of this "readme"
 toc::[]
