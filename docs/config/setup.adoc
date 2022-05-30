@@ -4,7 +4,6 @@
 :imagesdir: images
 :chapter-label: 
 
-
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
 :withRemarks!:

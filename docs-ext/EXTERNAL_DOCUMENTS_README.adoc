@@ -4,8 +4,8 @@ Please make sure, that the file name is well-formed and complies with the follow
 
 `curriculum-xxxx-lc.pdf`
 
-`xxxx`: insert the name of the curriculum, e.g., `web` or `flex`  +
-`lc`: iso language code of the translation, e.g., `es` (Spanish) or `pt` (Portuguese)
+`xxxx`: insert the name of the curriculum, e.g. `web` or `flex`  +
+`lc`: iso language code of the translation, e.g. `es` (Spanish) or `pt` (Portuguese)
 
 Example: `curriculum-web-es.pdf` <- Spanish version of the WEB curriculum.
 

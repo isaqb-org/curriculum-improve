@@ -4,6 +4,7 @@ include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
 = Curriculum für pass:q[<br><br>]Certified Professional for pass:q[<br>]Software Architecture (CPSA)^(R)^ pass:q[<br>]_Advanced Level_: pass:q[<br>] Modul pass:q[<br>]{curriculum-short} pass:q[<br><br>]{curriculum-name}
+:toc-title: Inhaltsverzeichnis
 :toc: left
 endif::[]
 
