@@ -51,7 +51,6 @@ Create an issue, a merge- or pull-request
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
-
 == Maintainers
 
 This repository is currently maintained by Gernot Starke, Markus Harrer, and Benjamin Wolf.
@@ -80,4 +79,4 @@ Parts of the content origined from the https://aim42.org[aim42 open source metho
 [[copyrighted]]
 == Licensing and Copyright
 
-include::LICENSE.adoc[]
+include::license-copyright/LICENSE.adoc[]
