@@ -3,21 +3,11 @@
 :toc:
 :toc-placement!:
 
-
-## Update 2024
+== Update 2024
 
 For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
 
-
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
-
-== Status 
+== Status
 image:https://github.com/isaqb-org/curriculum-improve/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-improve/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
@@ -49,8 +39,9 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
 ----
 --
-2. Build it with gradle via `./gradle`.
-3. Look into the file `build.gradle` to see what attributes you may configure. Watch for:
+
+. Build it with gradle via `./gradle`.
+. Look into the file `build.gradle` to see what attributes you may configure. Watch for:
 ** the `language` attribute, either `DE` (German) or `EN` (English);
 ** the output formats called `backends` (pdf and/or html5);
 ** the document version.
