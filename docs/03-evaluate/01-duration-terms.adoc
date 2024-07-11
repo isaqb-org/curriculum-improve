@@ -15,12 +15,10 @@ Intervallschätzung, Gesetz-der-großen-Zahl
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Duration: 120 min | Practice time: 60 min
 |===
 
 === Terms and concepts
-Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even,
-Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capital Expense (CapEx), Operational Expense (OpEx);
-interval estimation, law of large numbers.
+Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, profit, cost, value, return on invest (ROI), break even, types of budgets, capital expense (CAPEX) and operational expense (OPEX); business goals and strategic initiatives; interval estimation, cost breakdown analysis
 
 // end::EN[]
