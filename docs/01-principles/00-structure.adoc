@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Foundations of Improvement and Evolution of Software 
+== Foundations of improvement and evolution of software 
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
