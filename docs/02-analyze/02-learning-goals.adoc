@@ -78,6 +78,7 @@ time or the involved stakeholders. This includes approaches such as:
 * Stakeholder analysis and interview
 * Contextual analysis with context diagram
 * Identification and analysis of past and current quality goals
+* Understanding the current state of business processes and (sub-)domains
 * Analysis of structural deviations between target and current architecture
 * Quantitative analysis methods and practices, such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
