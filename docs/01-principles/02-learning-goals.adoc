@@ -63,58 +63,47 @@ Beispielsweise:
 [[LG-1-1]]
 ==== LG 1-1: Reasons for software changes
 
-* Extending and changing features
+* Extending and changing features as well as bug fixing
 * Change in quality requirements and goals
-* Changes in technical or business context (e.g., change in external interfaces)
-* Bug fixing
+* Changes in technical or business context (e.g., changes in technologies, external interfaces as well as business models)
 * Changes in organization (e.g., changes of legal conditions or requirements, organizational structure of business units, development or operations)
-* Reduce of costs or efforts, especially with respect to:
-** Costs or efforts of development
-** Costs or efforts of operations
-** Costs of bug fixing and consequential damage
-** Costs of involved processes
-** Opportunity costs
-* Intrinsic motivation of stakeholders, especially software developers and architects.
-* Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
+* Reducing costs or efforts for development and operations
+* Increased intrinsic motivation of stakeholders like software developers and architects.
+
 
 [[LG-1-2]]
 ==== LG 1-2: Typical categories of problems in software
 
 * Conceptual weaknesses, e.g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
 * Structural problems in data or data structures.
-* Structural problems in source code, such as:
-** Missing or inadequate modularization,
-** Tight coupling,
-** High complexity,
-** Low cohesion,
-** Flaws in programming, e.g., non-idiomatic use of languages or tools.
-* Runtime problems in systems, like instability, lack of robustness or reliability, insufficient performance or extensive resource demands, insufficient scalability, insufficient transparency of system processes
+* Structural problems in source code.
+* Runtime problems in systems.
 * “Legacy” gathered by frequent changes of requirements made under time and/or cost pressure.
-* Recognize and name different kinds of technical debts.
-* Problems to achieve quality goals or requirements, e.g., insufficient changeability or maintainability, low flexibility, insufficient security or lack of portability.
-* Problems in development, operations or other involved processes (e.g., requirements management, test/QA, configuration, deployment, monitoring/alerting).
+* Problems to achieve quality goals or requirements.
+* Problems in development, operations or other involved processes.
+
 
 [[LG-1-3]]
-==== LG 1-3: Core terms of software evolution and -change
+==== LG 1-3: Core terms of software evolution and change
 
-Core terms of software evolution and change:
+Core terms for describing the need for software evolution and change:
 
 * Problem (issue)
 * Solution approach (opportunity for improvement)
-* Costs (of problems, solution approaches, measures)
-* Root cause versus symptom
-* Risk
+* Costs of problems, solution approaches / measures
+* Root cause, intermediate cause, problem symptom
+* Different kinds of risks and technical debts
+
 
 [[LG-1-4]]
 ==== LG 1-4: Possible approaches for changes
 
-For example:
-
-* Ad-hoc improvement, one-off improvement
-* Stepwise improvement (mid- to long-term)
-* Improvement by newly developed system or system parts (rewrite)
-* Purely structural improvements (refactoring)
-* Conceptual/structural improvements (re-architecting, reengineering)
+* Continuous, on-the-spot improvements (e.g., through refactoring)
+* Stepwise improvements (e.g., medium- to long-term replacements incl. sunsetting)
+* Structural and conceptual improvements at various levels (e.g., reengineering, rearchitecting)
+* Major enhancements via newly developed systems or components (e.g., rewrites)
+* Changes on the operational level (e.g., rehost, replatform)
+* Special cases for changes (e.g., transpilation, archiving, emulation)
 
 
 // end::EN[]
