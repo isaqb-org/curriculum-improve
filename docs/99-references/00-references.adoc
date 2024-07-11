@@ -21,14 +21,14 @@ This section contains references to material where many ideas of the curriculum 
 
 **B**
 
-- [[[bass,Bass+ 2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4rd Edition, Addison-Wesley, 2021.
+- [[[bass,Bass+ 2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4th Edition, Addison-Wesley, 2021.
 
 - [[[bellotti,Bellotti 2021]]] Marianne Bellotti: Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones), No Starch Press, 2021.
 
 
 **D**
 
-- [[[demeyer,Demeyer+ 2023]]] Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns, 2003.
+- [[[demeyer,Demeyer+ 2003]]] Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns, 2003.
 
 
 **F**
