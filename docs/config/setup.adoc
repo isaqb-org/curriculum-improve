@@ -2,12 +2,11 @@
 :icons: font
 :sectnumlevels: 2
 :imagesdir: images
-:chapter-label:
-
+:!chapter-signifier:
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
-:language: EN
+:language: DE
 
 // ":include_configuration:" always consists of the language, optionally
 // additional markers might be configured here!
@@ -25,15 +24,3 @@ ifeval::["{language}" == "EN"]
 :curriculum-header-title: iSAQB Curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
-// you might want to output some internal information...
-ifdef::debug_adoc[]
-[NOTE]
-====
-Current configuration:
-
-* Language(s): {language}
-* Document version: {document-version}
-* Include-configuration: {include_configuration}
-
-====
-endif::debug_adoc[]
