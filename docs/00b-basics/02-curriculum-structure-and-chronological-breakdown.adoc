@@ -55,32 +55,32 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 |===
 
 | Content
-| Duration (minutes)
-| Practice time (minutes)
+| Teaching (minutes)
+| Exercises (minutes)
 
 | 1. Foundations
-| 105
-| 15
+| 60
+| 20
 
 | 2. Analysis of current situation
-| 150
-| 60
+| 240
+| 75
 
 | 3. Estimation of problems and solution approaches
+| 120
 | 60
-| 30
 
 | 4. Long term improvement planning
 | 90
 | 30
 
-| 5. Typical improvement approaches
-| 255
-| 105
+| 5. Typical improvement strategies
+| 180
+| 100
 
 | 6. Improvement examples
-| 60
-| 120
+| 30
+| 75
 
 |
 |
@@ -91,8 +91,8 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 | 360 min (6h)
 |===
 
-In this context, “duration” refers to teaching time without exercises.
-The time breakdown between theory and exercises is only a recommendation.
+In this context, “Teaching” refers to teaching time without exercises.
+The time breakdown between teaching and exercises is only a recommendation.
 The design of the examples and exercises aren't specified in this curriculum.
 
 // end::EN[]
