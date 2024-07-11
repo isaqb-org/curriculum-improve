@@ -15,7 +15,7 @@ Intervallschätzung, Gesetz-der-großen-Zahl
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Teaching: 120 min | Exercises: 60 min
 |===
 
 === Terms and concepts
