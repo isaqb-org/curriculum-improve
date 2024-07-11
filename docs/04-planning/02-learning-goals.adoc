@@ -39,34 +39,34 @@ und situationsangemessen auswählen – beispielsweise:
 [[LG-4-1]]
 ==== LG 4-1: Explicitly represent evaluated problems and solution approaches
 
-Know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose the appropriate for the given situation. Examples:
+Understand and utilize technical or manual methods to clearly document and represent evaluated problems and solution approaches, selecting the most suitable option for the given situation and stakeholders.
 
-* Issue tracker
-* Tables
-* Databases.
+* Example tools: Issue trackers, spreadsheets, presentations, diagrams, reports, dashboards
+* Example methodologies:
+** Causal chains (problem and causes in relationship to each other)
+** Quality views / risk storming (diagram-based visualizations of problems and improvement activities)
+** Gap analysis (current state, future state, gaps, and remedies)
+** Architecture decision records (problem context and selected solution approaches)
+** Technology radar / roadmaps (tracking and planning technology and improvement adoption)
 
 [[LG-4-2]]
 ==== LG 4-2: Typical methodical approaches for improvement
 
-* Know typical methods for improvement, e.g.,:
+* Understand and utilize typical methods for improvement, including:
+** Business process reengineering
+** Incremental replacement of problematic system components
+** Application strangulation
+** Long-term continuous improvement
+** Extraction and separation of business and technical aspects
+** Outsourcing non-differantiating development acticitiys and duties
 
-** Long-term continuous improvement,
-** Improving releases,
-** Application strangling,
-** Encapsulation of (localized) problems or risks in black-boxes,
-** Extraction of business aspects, separation of technical aspects,
-** Incremental replacement of problematic parts of system,
-** Rewrite,
-** Outsourcing,
-** Business process reengineering.
+* Effectively communicate and motivate these long-term improvements to various stakeholders.
 
-* Communicate and argue approaches to long-term improvement  to different stakeholders.
 
 [[LG-4-3]]
 ==== LG 4-3: Impact of “rewrite” versus “continuous improvement”
 
 * Being able to assess and argue the impact (risks, benefits) of a “complete rewrite” approach in contrast to a “continuous improvement” approach in each situation.
-
 * Understand that lack of details knowledge (e.g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
 
 // end::EN[]
