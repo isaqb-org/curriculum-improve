@@ -1,4 +1,5 @@
-= image:./docs/isaqb-logo.jpg[iSAQB,150] Curriculum for the CPSA-advanced module IMPROVE
+= https://isaqb.org[iSAQB] Curriculum for the CPSA-advanced Module IMPROVE
+
 :toc:
 :toc-placement!:
 
@@ -26,9 +27,9 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 This is <<copyrighted,copyrighted work>>.
 
-This repository contains the AsciiDoc sourcees of the curriculum for the iSAQB Advanced Level "IMPROVE". 
+== Content
+This repository contains the AsciiDoc sources of the curriculum for the iSAQB Advanced Level "IMPROVE".
 
-== Content of this "readme"
 toc::[]
 
 == How to contribute or participate
@@ -36,12 +37,16 @@ Create an issue, a merge- or pull-request
 
 == How to use this template
 
-. Either click on "Use this template" in the Github UI or Clone the repository - including the submodule:
+. Clone the repository - including the submodule:
 +
 --
 [source,shell]
 ----
-git clone git@github.com/isaqb-org/curriculum-improve.git --recursive
+Via SSH:
+git clone git@github.com:isaqb-org/curriculum-improve.git --recursive
+
+Via HTTPS:
+git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
 ----
 --
 2. Build it with gradle via `./gradle`.
@@ -63,24 +68,11 @@ This repository is currently maintained by Gernot Starke, Markus Harrer, and Ben
 It was forked from https://github.com/isaqb-org/advanced-template, so the contributors of that project basically contributed to this one, too.
 
 
-== Contributors
+== More Contributors
 
 Parts of the content origined from the https://aim42.org[aim42 open source method] for architecture improvement. Thanx to all https://github.com/aim42/aim42/graphs/contributors[contributors] of aim42!
 
 
-== Releases and Versions
-
-* The iSAQB Advanced working group is responsible for official releases.
-* Gernot Starke is currently leading maintainer of IMPROVE.
-
-=== Current release
-* The latest official version is v 1.6.
-* Release 2021.1 is under way (with only minor content changes, but generated from Asciidoc)
-
-== iSAQB Contact Information
-
-* iSAQB office: -> https://isaqb.org[iSAQB website]
-* iSAQB working group, responsible for curriculum content: advanced - at - isaqb - dot - org
 
 [[copyrighted]]
 == Licensing and Copyright
