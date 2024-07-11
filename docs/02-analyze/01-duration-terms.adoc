@@ -13,10 +13,9 @@ Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus S
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 150 min | Practice time: 60 min
+| Duration: 240 min | Practice time: 75 min
 |===
 
 === Terms and concepts
-current state analysis, strength/weaknesses analysis, stakeholder, problem, cause versus symptom,
-solution approach.
+Current state analysis, strength/weaknesses analysis, stakeholder, problem, cause versus symptom, solution approach.
 // end::EN[]
