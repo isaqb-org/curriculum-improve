@@ -9,6 +9,8 @@ This module explains how to systematically improve and evolve software systems, 
 
 The terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub].
 
+== Latest Release {release-version}
+
 The Curriculum for {curriculum-short} is currently maintained and published in English (EN) and German (DE) only.
 
 
