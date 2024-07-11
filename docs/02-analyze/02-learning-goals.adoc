@@ -76,16 +76,16 @@ choose the appropriate method in each situation according to budget,
 time or the involved stakeholders. This includes approaches such as:
 
 * Stakeholder analysis and interview
-* Contextual analysis
-* Qualitative analysis (e.g., ATAM), in particular, analysis of quality goals
+* Contextual analysis with context diagram
+* Identification and analysis of past and current quality goals
 * Analysis of structural deviations between target and current architecture
 * Quantitative analysis methods and practices, such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
-** Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.
-** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics
-* Application data analysis: examination of data structures and contents
+** Organizational metrics, such as costs, time, and countable items (error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.)
+** Runtime metrics (e.g., time and resource demands as well as tools to measure these metrics)
+* Application data analysis (i.e., examination of data structures and contents)
 * Documentation analysis
-* Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved, and infrastructure software)
+* Analysis of technical environment (e.g., hardware, operations environment, networks, operating systems involved, and infrastructure software)
 * Analysis of development processes (requirements engineering, design/implementation, test/QA, and handover to operations)
 * Analysis of operation processes
 * Analysis of further processes and tasks that may influence development problems and system changes, e.g., management, budgeting, support, governance, outsourcing/offshoring, procurement.
@@ -93,7 +93,7 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-3]]
 ==== LG 2-3: Methodically document identified problems and risks
 
-* Participants shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
+* Initiate adequate documentation of problems (issues) and risks that have been identified by an improvement and change process.
 * Tools and examples for documenting problems.
 
 [[LG-2-4]]
@@ -107,7 +107,7 @@ time or the involved stakeholders. This includes approaches such as:
 [[LG-2-5]]
 ==== LG 2-5: Context analysis
 
-* Define and document contextual boundaries: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
+* Define and document contextual boundaries: define the boundaries of the target system in relation to its technically and logically related neighbors, and identify external interfaces.
 * Identify connections between external interfaces and stakeholders and use this information for problem analysis.
 * Elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
 
