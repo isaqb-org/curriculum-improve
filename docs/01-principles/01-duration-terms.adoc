@@ -15,11 +15,11 @@ Kernbegriffe rund um Verbesserung und Änderung von Software, technische Pflege
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 105 min | Practice time: 15 min
+| Teaching: 60 min | Exercises: 20 min
 |===
 
 === Terms and concepts
-Software architecture: structure, building blocks/components, interfaces, cross-cutting concepts;
-Change, evolution, maintenance and improvement of software; Categories of problems and risks in software (technical debts);
-Core terms related to improvement and change of software, technical care
+Software architecture basics: structure, building blocks/components, interfaces, cross-cutting concepts;
+Change, evolution, maintenance and improvement of software; Categories of problems and risks in software (technical debt, business debt, code smells, ...);
+Core terms related to improvement and change of software (rearchitecting, reengineering, refactoring, ...)
 // end::EN[]
