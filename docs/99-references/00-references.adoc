@@ -42,7 +42,7 @@ This section contains references to material where many ideas of the curriculum 
 
 **K**
 
-- [[[knodel,knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
+- [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
 
 - [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
 
