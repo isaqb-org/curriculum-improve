@@ -35,30 +35,38 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 [[LG-3-1]]
 ==== LG 3-1: Economic dimensions
 
-* Explain costs and value as linked concepts.
-* Name and classify different kinds of economic dimensions, such as:
-** Direct costs, education costs, capital expenditures (direct and indirect cost of investment), operating expenditures, opportunity cost, and cost of delay
-** Investment and operating expenses (OPEX), Run-the-Company (RTC), and Develop-the-Company (DTC)
-** ROI, break-even, depreciation, and amortization
-** One-time and reoccurring costs, known and estimated costs.
+* Explain differences and connections between costs and value.
+* Know and use various economic dimensions to find the sweet spot for motivating improvements, such as:
+** Differentiate between direct and indirect costs of investments, such as development costs and operating expenditures versus training costs, context switching costs, and cost of delay for more realistic estimations.
+** Distinguish long-term investments in assets (CAPEX) from ongoing operating expenses for daily operations (OPEX) for greater cost flexibility.
+** Utilize already approved budgets for strategic initiatives to align and connect improvement efforts with these priorities.
+** Leverage different types of IT budgets, such as 'Plan - Build - Run,' to motivate appropriate improvements.
+** Understand basic argumentation lines using economic concepts like ROI, break-even analysis, depreciation, and amortization.
+** Find appropriate ways to allocate problem and improvement costs based on cost drivers (internal and external).
+** Identify potential costs associated with risks and technical debt, including impacts on project timelines and possible damage to the company's reputation.
 
 [[LG-3-2]]
 ==== LG 3-2: Basic terms of evaluation and estimation
 
 * Explain the terms “estimation”, “observation”, and “measurement” and apply them to the evaluation of problems and solution approaches.
-* Be able to estimate efforts in intervals. Know different approaches for interval estimates:
+* Be able to estimate efforts in intervals and understand different approaches for interval estimates, including:
 ** Confidence interval,
 ** Minimum/maximum interval,
 ** Worst-/Average-/Best-Case estimation.
-* Be able to assess and communicate the probability of the correctness of the estimation.
-* Identify and name items to be estimated, e.g., hours of work.
-* Identify parameters and influencing factors of estimations
-* explicit assumption to be able to define estimation parameters in value ranges.
+* Identify and specify appropriate dimensions for estimation, such as hours of work or full-time equivalents (FTE)
+
 
 [[LG-3-3]]
 ==== LG 3-3: Estimate for problems and solution approaches
 
-Apply estimation techniques to problems and solution approaches of IT systems and related processes.
+Apply estimation techniques to problems and solution approaches for IT systems and related processes.
+
+* Identify parameters and influencing factors of costs estimations
+* Obtain a comprehensive view of the cost structure of problems and solutions
+* Explicitly state assumptions to define estimation parameters within value ranges
+* Conduct a gap analysis between existing and future needs (e.g., business and quality requirements) to estimate the costs of measures needed to close existing gaps
+* Derive concrete, measurable actions to achieve strategic goals
+* Assess and communicate the validity of estimations
 
 // end::EN[]
 
