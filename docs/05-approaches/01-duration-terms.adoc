@@ -16,12 +16,11 @@ Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 255 min | Practice time: 105 min
+| Duration: 180 min | Practice time: 100 min
 |===
 
 === Terms and concepts
 Structural vs. conceptual improvement, process and product improvement, improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring;
-Reduction of technical debts, ways to improve source code: refactoring, reduction of complexity and coupling,
-improve readability and comprehensibility; process automation to lower risk of changes, in particular, automated tests.
+Reduction of technical debt, ways to improve source code: refactoring, reduction of complexity and coupling, improve readability and comprehensibility; process automation to lower risk of changes, in particular, automated tests.
 
 // end::EN[]
