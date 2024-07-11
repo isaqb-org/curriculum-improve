@@ -19,6 +19,6 @@ Intervallschätzung, Gesetz-der-großen-Zahl
 |===
 
 === Terms and concepts
-Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, profit, cost, value, return on invest (ROI), break even, types of budgets, capital expense (CAPEX) and operational expense (OPEX); business goals and strategic initiatives; interval estimation, cost breakdown analysis
+Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: investment, profit, cost, value, return on invest (ROI), break even, types of budgets, capital expense (CAPEX) and operational expense (OPEX); business goals and strategic initiatives; interval estimation, cost breakdown analysis
 
 // end::EN[]
