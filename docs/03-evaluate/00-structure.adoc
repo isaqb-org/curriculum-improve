@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Estimate and Assess Problems and Solution Approaches
+== Estimate and assess problems and solution approaches
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
