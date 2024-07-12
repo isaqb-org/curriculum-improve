@@ -12,17 +12,17 @@
 [[LZ-5-2]]
 ==== LZ 5-2: Verbesserungsmaßnahmen im Quellcode
 
-* Für Technologien/Programmiersprachen typische Refactorings (bedeutungserhaltende Vereinfachungsmassnahmen im Quellcode) kennen und anwenden können. In Schulungen sollten bei Bedarf entsprechende Übungen durchgeführt werden.
+* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen.
 * Technologien besser nutzen und bessere Technologie einführen (Technologiewechsel).
 * Zusammenhang zwischen technischen Schulden und Refactoring erklären können.
-* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und anwenden können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen und anwenden können, beispielsweise Clean-Code-Prinzipien.
+* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise Clean-Code-Prinzipien.
 
 [[LZ-5-3]]
 ==== LZ 5-3: Möglichkeiten des automatisierten Tests zur Reduktion von Änderungsrisiken
 
-* Automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern in Änderungs- oder Verbesserungsprojekten kennen und selbständig anwenden können (In Schulungen sollten bei Bedarf entsprechende Übungen durchgeführt werden).
-* Selbständig identifizieren können, an welchen Stellen/Schnittstellen/Komponenten die Einführung automatisierter Tests für bestimmte Änderungsszenarien angemessen ist.
+* Anwendungsmöglichkeiten von automatisierten Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern in Änderungs- oder Verbesserungsprojekten kennen.
+* Identifizieren können, an welchen Stellen/Schnittstellen/Komponenten die Einführung automatisierter Tests für bestimmte Änderungsszenarien angemessen ist.
 
 [[LZ-5-4]]
 ==== LZ 5-4: Automatisierung als Mittel zur Reduktion von Änderungsrisiken
@@ -74,17 +74,17 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 [[LG-5-2]]
 ==== LG 5-2: Improvement measures for source code
 
-* Know and being able to apply typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code). Training should conduct exercises if required.
+* Know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
 * Better use of technology or use better technology (change of technology).
 * Explain the connection between technical debts and refactoring.
-* Know and be able to apply measures and patterns to reduce coupling at source code level.
-* Know and be able to apply measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
+* Know and be able to assess measures and patterns to reduce coupling at source code level.
+* Know measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
 
 [[LG-5-3]]
 ==== LG 5-3: Possible approaches for automated testing to reduce risks of change
 
-* Know and being able to autonomously apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects. (Training should provide exercises if required.)
-* Being able to autonomously identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
+* Know how to apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects.
+* Being able to identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
 
 [[LG-5-4]]
 ==== LG 5-4: Automation as a means of reducing risks of changes
