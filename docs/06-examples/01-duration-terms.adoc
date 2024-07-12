@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 60 Min. | Übungszeit: 120 Min.
+| Lehre: 30 Min. | Übung: 75 Min.
 |===
 
 **Anmerkung**:

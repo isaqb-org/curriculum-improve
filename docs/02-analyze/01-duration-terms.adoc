@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 150 Min. | Übungszeit: 60 Min.
+| Lehre: 240 Min. | Übung: 75 Min.
 |===
 
 === Begriffe und Konzepte
