@@ -83,7 +83,7 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 [[LG-5-3]]
 ==== LG 5-3: Possible approaches for automated testing to reduce risks of change
 
-* Know how to apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects. (Training should provide exercises if required.)
+* Know how to apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects.
 * Being able to identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
 
 [[LG-5-4]]
