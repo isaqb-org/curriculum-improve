@@ -17,6 +17,7 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 * Stakeholder-Analyse und -interview
 * Kontextanalyse
 * Qualitative Analyse (etwa ATAM), insbesondere die Analyse von Qualitätszielen
+* Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
 * Analyse von strukturellen Abweichungen zwischen Soll- und Ist-Architektur
 ** Quantitative Analysemethoden und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
@@ -78,6 +79,7 @@ time or the involved stakeholders. This includes approaches such as:
 * Stakeholder analysis and interview
 * Contextual analysis
 * Qualitative analysis (e.g., ATAM), in particular, analysis of quality goals
+* Understanding the current state of business processes and (sub-)domains
 * Analysis of structural deviations between target and current architecture
 * Quantitative analysis methods and practices, such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
