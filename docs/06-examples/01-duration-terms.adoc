@@ -19,7 +19,7 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 30 min | Exercises: 75 min
+| Teaching: 30 min | Practice: 75 min
 |===
 
 

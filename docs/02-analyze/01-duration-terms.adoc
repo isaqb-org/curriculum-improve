@@ -13,7 +13,7 @@ Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus S
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 240 min | Exercises: 75 min
+| Teaching: 240 min | Practice: 75 min
 |===
 
 === Terms and concepts

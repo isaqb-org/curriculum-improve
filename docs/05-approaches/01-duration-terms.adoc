@@ -16,7 +16,7 @@ Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 180 min | Exercises: 100 min
+| Teaching: 180 min | Practice: 100 min
 |===
 
 === Terms and concepts

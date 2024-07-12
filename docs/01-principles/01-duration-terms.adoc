@@ -15,7 +15,7 @@ Kernbegriffe rund um Verbesserung und Änderung von Software, technische Pflege
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 60 min | Exercises: 20 min
+| Teaching: 60 min | Practice: 20 min
 |===
 
 === Terms and concepts
