@@ -7,11 +7,11 @@
 **Anmerkung**:
 
 === Begriffe und Konzepte
-Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für eine zu verbessernde Softwarearchitektur vorgestellt werden. Beispiele für Verbesserungsprojekte realer Systeme können von Trainern und Schulungsanbietern individuell ausgewählt werden und werden vom iSAQB nicht vorgegeben.
+Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für eine zu verbessernde Softwarearchitektur vorgestellt werden. Beispiele für Verbesserungsprojekte realer Systeme können von Trainern und Schulungsanbietern individuell ausgewählt werden und werden vom iSAQB^(R)^ e. V. nicht vorgegeben.
 
 Hinweis: Das Hauptziel von IMPROVE ist es, Ideen zur Verbesserung von Softwarearchitekturen und nicht nur von Code zu liefern. Die Beispiele können Code und andere Low-Level-Artefakte enthalten, sollten sich aber nicht primär auf reine Refactorings bestehender Codebasen (z.B. durch den Einsatz von IDEs) konzentrieren.
 
-Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertraulichkeitsregelungen stellt der iSAQB e. V. Schulungsanbietern und Trainern frei, Beispiele abstrahiert oder nur auszugsweise in Schulungen zu zeigen.
+Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertraulichkeitsregelungen stellt der iSAQB^(R)^ e. V. Schulungsanbietern und Trainern frei, Beispiele abstrahiert oder nur auszugsweise in Schulungen zu zeigen.
 
 // end::DE[]
 
@@ -25,10 +25,10 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 
 
 === Terms and concepts
-At least one example of a software architecture to be improved must be presented within each licensed course. Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by iSAQB.
+At least one example of a software architecture to be improved must be presented within each licensed course. Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by the iSAQB^(R)^ e. V..
 
 Note: The main goal of IMPROVE is to deliver ideas for improving software architectures and not just code. The examples can include code and other low-level artifacts, but should not primarily focus on pure refactorings of existing code bases (e.g. by using IDEs).
 
-Due to the secrecy or confidentiality regulations that often apply to real IT systems, iSAQB e. V. allows training providers and trainers to show examples in abstract or only in extracts in training courses.
+Due to the secrecy or confidentiality regulations that often apply to real IT systems, iSAQB^(R)^ e. V. allows training providers and trainers to show examples in abstract or only in extracts in training courses.
 
 // end::EN[]
