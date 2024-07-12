@@ -25,9 +25,9 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 
 
 === Terms and concepts
-At least one example of IMPROVE must be presented within each licensed course.
+At least one example of a software architecture to be improved must be presented within each licensed course. Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by iSAQB.
 
-Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by iSAQB.
+Note: The main goal of IMPROVE is to deliver ideas for improving software architectures and not just code. The examples can include code and other low-level artifacts, but should not primarily focus on pure refactorings of existing code bases (e.g. by using IDEs).
 
 Due to the secrecy or confidentiality regulations that often apply to real IT systems, iSAQB e. V. allows training providers and trainers to show examples in abstract or only in extracts in training courses.
 
