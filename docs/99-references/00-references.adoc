@@ -6,13 +6,21 @@
 == {references}
 
 // tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+Dieser Abschnitt enthält Verweise auf deutschsprachige Referenzen, auf denen viele Ideen des Lehrplans beruhen.
+
+**L**
+
+- [[[lilienthalddt,Lilienthal+ 2023]]] Carola Lilienthal, Henning Schwentner: Domain-Driven Transformation: Monolithen und Microservices zukunftsfähig machen. dpunkt.verlag. 2023.
+
+Nachfolgend sind weitere genutzte, englischsprachige Referenzen aufgeführt.
 // end::DE[]
 
+// This sentence is just relevant for the English version of the curriculum.
 // tag::EN[]
-This section contains references to material where many ideas of the curriculum are based on.
+This section contains the references where many ideas of the curriculum are based on.
 // end::EN[]
 
+// This section should be part of the German and the English curriculum. That's why this section isn't wrapped with EN[] tags.
 
 **A**
 
@@ -74,3 +82,5 @@ This section contains references to material where many ideas of the curriculum 
 **T**
 
 - [[[tune,Tune+ 2024]]] Nick Tune with Jean-Georges Perrin: Architecture Modernization: Socio-technical alignment of software, strategy, and structure. Manning, 2024.
+
+
