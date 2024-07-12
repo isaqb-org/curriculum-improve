@@ -8,7 +8,8 @@
 
 Aufwand, Kosten, Schätzung, Beobachtung/Messung, Annahmen,
 betriebswirtschaftliche Größen: Investition, Ertrag, Kosten, Wert, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) Kosten, Capital Expense (CapEx), Operational Expense (OpEx);
-Intervallschätzung, Gesetz-der-großen-Zahl
+Intervallschätzung, Gesetz-der-großen-Zahl.
+Geschäftsziele, strategische Initiativen.
 
 // end::DE[]
 
