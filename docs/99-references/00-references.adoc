@@ -6,13 +6,21 @@
 == {references}
 
 // tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+Dieser Abschnitt enthält Verweise auf deutschsprachige Referenzen, auf denen viele Ideen des Lehrplans beruhen.
+
+**L**
+
+- [[[lilienthalddt,Lilienthal+ 2023]]] Carola Lilienthal, Henning Schwentner: Domain-Driven Transformation: Monolithen und Microservices zukunftsfähig machen. dpunkt.verlag. 2023.
+
+Nachfolgend sind weitere genutzte, englischsprachige Referenzen aufgeführt.
 // end::DE[]
 
+// This sentence is just relevant for the English version of the curriculum.
 // tag::EN[]
-This section contains references that are cited in the curriculum.
+This section contains the references where many ideas of the curriculum are based on.
 // end::EN[]
 
+// This section should be part of the German and the English curriculum. That's why this section isn't wrapped with EN[] tags.
 
 **A**
 
@@ -21,34 +29,58 @@ This section contains references that are cited in the curriculum.
 
 **B**
 
-- [[[bass,Bass+ 2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3rd Edition, Addison-Wesley, 2012.
+- [[[bass,Bass+ 2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4th Edition, Addison-Wesley, 2021.
+
+- [[[bellotti,Bellotti 2021]]] Marianne Bellotti: Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones), No Starch Press, 2021.
 
 
-**C**
+**D**
 
-- [[[clements,Clements+ 2001]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures Methods and Case Studies. Addison-Wesley, 2001.
+- [[[demeyer,Demeyer+ 2003]]] Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns, 2003.
 
 
 **F**
 
-- [[[feathers,Feathers+ 2007]]] Michael Feathers: Working Effectively with Legacy Code. Prentice Hall, 2007.
+- [[[feathers,Feathers+ 2004]]] Michael Feathers: Working Effectively with Legacy Code. Pearson, 2004.
 
-- [[[fowler,Fowler+ 1999]]] Martin Fowler, Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 1999.
+- [[[ford, Ford+ 2021]]] Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani: Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures, O'Reilly, 2021.
+
+- [[[fowler,Fowler+ 2019]]] Martin Fowler with Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 2019.
+
+
+**K**
+
+- [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
+
+- [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
 
 
 **L**
 
-- [[[lippert,Lippert+ 2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
+- [[[lemaire,Lemaire 2020]]] Maude Lemaire: Refactoring At Scale: Regaining Control of Your Codebase. O'Reilly, 2020.
 
 - [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt.verlag, 2019.
+
+- [[[lippert,Lippert+ 2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
 
 
 **M**
 
 - [[[mcconnell,McConnell 2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
 
-- [[[murer,Murer+ 2019]]] Stephan Murer, Bruno Bonati: Managed Evolution: A Strategy for Very Large Information Systems. Springer, 2010.
 
 **N**
 
 - [[[newman,Newman 2019]]] Sam Newman: Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith. O'Reilly, 2019.
+
+
+**P**
+
+- [[[pacheco,Pacheco+ 2023]]] Diego Pacheco, Sam Sgro: Principles of Software Architecture Modernization: Delivering engineering excellence with the art of fixing microservices, monoliths, and distributed monoliths. BPB Publications, 2023.
+
+
+**T**
+
+- [[[tune,Tune+ 2024]]] Nick Tune with Jean-Georges Perrin: Architecture Modernization: Socio-technical alignment of software, strategy, and structure. Manning, 2024.
+
+
