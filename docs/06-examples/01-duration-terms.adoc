@@ -7,7 +7,7 @@
 **Anmerkung**:
 
 === Begriffe und Konzepte
-Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für eine zu verbessernde Softwarearchitektur vorgestellt werden. Beispiele für Verbesserungsprojekte realer Systeme können von Trainern und Schulungsanbietern individuell ausgewählt werden und werden vom iSAQB^(R)^ e. V. nicht vorgegeben.
+Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für eine zu verbessernde Softwarearchitektur vorgestellt werden. Beispiele für Verbesserungsprojekte realer Systeme können von Trainer:innen und Schulungsanbietern individuell ausgewählt werden und werden vom iSAQB^(R)^ e. V. nicht vorgegeben.
 
 Hinweis: Das Hauptziel von IMPROVE ist es, Ideen zur Verbesserung von Softwarearchitekturen und nicht nur von Code zu liefern. Die Beispiele können Code und andere Low-Level-Artefakte enthalten, sollten sich aber nicht primär auf reine Refactorings bestehender Codebasen (z.B. durch den Einsatz von IDEs) konzentrieren.
 
