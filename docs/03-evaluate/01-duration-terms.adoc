@@ -22,5 +22,6 @@ Intervallschätzung, Gesetz-der-großen-Zahl
 Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even,
 Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capital Expense (CapEx), Operational Expense (OpEx);
 interval estimation, law of large numbers.
+Business goals, strategic initiatives.
 
 // end::EN[]
