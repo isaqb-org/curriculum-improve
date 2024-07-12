@@ -10,6 +10,7 @@
 ** Investitionen und laufenden Kosten, Run-the-Company (RTC) und Develop-the-Company (DTC)
 ** ROI, Break-Even, Abschreibungen und Amortisierung
 ** Einmalige und wiederkehrende Aufwände, bekannte und geschätzte Aufwände.
+* Nutzung von bereits genehmigten Budgets für strategische Initiativen, um Verbesserungsmaßnahmen darauf abzustimmen und damit zu verbinden.
 
 [[LZ-3-2]]
 ==== LZ 3-2: Grundbegriffe für Evaluierung/Schätzung
@@ -41,6 +42,7 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 ** Investment and operating expenses (OPEX), Run-the-Company (RTC), and Develop-the-Company (DTC)
 ** ROI, break-even, depreciation, and amortization
 ** One-time and reoccurring costs, known and estimated costs.
+* Use of already approved budgets for strategic initiatives in order to align and link improvement measures with them.
 
 [[LG-3-2]]
 ==== LG 3-2: Basic terms of evaluation and estimation
