@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 255  Min. | Übungszeit: 105 Min.
+| Lehre: 180  Min. | Übung: 100 Min.
 |===
 
 === Begriffe und Konzepte
@@ -16,7 +16,7 @@ Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 255 min | Practice time: 105 min
+| Teaching: 180 min | Practice: 100 min
 |===
 
 === Terms and concepts

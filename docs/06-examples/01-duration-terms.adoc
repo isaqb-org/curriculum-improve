@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 60 Min. | Übungszeit: 120 Min.
+| Lehre: 30 Min. | Übung: 75 Min.
 |===
 
 **Anmerkung**:
@@ -19,7 +19,7 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 60 min | Practice time: 120 min
+| Teaching: 30 min | Practice: 75 min
 |===
 
 

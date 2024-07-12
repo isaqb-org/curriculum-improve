@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 60 Min. | Übungszeit: 30 Min.
+| Lehre: 120 Min. | Übung: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -16,7 +16,7 @@ Geschäftsziele, strategische Initiativen.
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Teaching: 120 min | Practice: 60 min
 |===
 
 === Terms and concepts

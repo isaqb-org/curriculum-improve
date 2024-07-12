@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 150 Min. | Übungszeit: 60 Min.
+| Lehre: 240 Min. | Übung: 75 Min.
 |===
 
 === Begriffe und Konzepte
@@ -13,7 +13,7 @@ Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus S
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 150 min | Practice time: 60 min
+| Teaching: 240 min | Practice: 75 min
 |===
 
 === Terms and concepts
