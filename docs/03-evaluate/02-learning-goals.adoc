@@ -8,7 +8,7 @@
 * Unterschiedliche Arten von betriebswirtschaftlichen Größen benennen und einordnen können, beispielsweise:
 ** Kosten für direkte Aufwände, Ausbildungskosten, Kapitalkosten (direkte und indirekte Kosten der Investition), Betriebskosten, Opportunitätskosten, Kosten der Verzögerung (Cost of Delay)
 ** Investitionen und laufenden Kosten, Run-the-Company (RTC) und Develop-the-Company (DTC)
-** ROI, Break-Even, Abschreibungen und Amortisierung
+** ROI, Break-even, Abschreibungen und Amortisierung
 ** Einmalige und wiederkehrende Aufwände, bekannte und geschätzte Aufwände.
 * Nutzung von bereits genehmigten Budgets für strategische Initiativen, um Verbesserungsmaßnahmen darauf abzustimmen und damit zu verbinden.
 
