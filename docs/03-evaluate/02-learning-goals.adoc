@@ -2,15 +2,18 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Betriebswirtschaftliche Größen
+==== LZ 3-1: Mittels unterschiedlicher Arten betriebswirtschaftlicher Größen situativ argumentieren
 
-* Kosten und Wert als Begriffspaare erläutern
-* Unterschiedliche Arten von betriebswirtschaftlichen Größen benennen und einordnen können, beispielsweise:
-** Kosten für direkte Aufwände, Ausbildungskosten, Kapitalkosten (direkte und indirekte Kosten der Investition), Betriebskosten, Opportunitätskosten, Kosten der Verzögerung (Cost of Delay)
-** Investitionen und laufenden Kosten, Run-the-Company (RTC) und Develop-the-Company (DTC)
-** ROI, Break-even, Abschreibungen und Amortisierung
-** Einmalige und wiederkehrende Aufwände, bekannte und geschätzte Aufwände.
-* Nutzung von bereits genehmigten Budgets für strategische Initiativen, um Verbesserungsmaßnahmen darauf abzustimmen und damit zu verbinden.
+* Architekt:innen wissen, welche Verbindungen zwischen Kosten und Wert existieren.
+* Sie kennen und nutzen verschiedene betriebswirtschaftlicher Größen, um den idealen Ansatz zur Motivation von Verbesserungen zu finden. Dabei können sie:
+** Zwischen direkten (z.B. für Entwicklung oder Betrieb) und indirekten Kosten (z.B. für Kontextwechsel oder Verzögerungen) von Investitionen für realistischere Schätzungen unterscheiden.
+** Langfristige Investitionen in Vermögenswerte (CAPEX) von laufenden Betriebsausgaben für den täglichen Betrieb (OPEX) unterscheiden, um einen passenden Grad an Flexibilität zu erreichen.
+** Bereits genehmigte strategische Initiativen nutzen, um Verbesserungsmaßnahmen an diesen Prioritäten auszurichten und zu verknüpfen.
+** Vorgegebene IT-Budgetstrukturen wie 'Plan – Build – Run' für Verbesserungen ausnutzen.
+** Grundlegende Argumentationslinien unter Anwendung wirtschaftlicher Konzepte wie ROI, Break-Even-Analyse, Abschreibungen und Amortisation verstehen.
+** Geeignete Wege zur Zuordnung von Problem- und Verbesserungskosten auf der Basis von Kostentreibern (intern und extern) finden.
+** Potenzielle Kosten im Zusammenhang mit Risiken und technische Schulden identifizieren, einschließlich Auswirkungen auf Projektlaufzeiten und möglicher Schäden am Unternehmensruf.
+
 
 [[LZ-3-2]]
 ==== LZ 3-2: Grundbegriffe für Evaluierung/Schätzung
@@ -34,15 +37,17 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Economic dimensions
+==== LG 3-1: Argue contextually using different types of business metrics
 
-* Explain costs and value as linked concepts.
-* Name and classify different kinds of economic dimensions, such as:
-** Direct costs, education costs, capital expenditures (direct and indirect cost of investment), operating expenditures, opportunity cost, and cost of delay
-** Investment and operating expenses (OPEX), Run-the-Company (RTC), and Develop-the-Company (DTC)
-** ROI, break-even, depreciation, and amortization
-** One-time and reoccurring costs, known and estimated costs.
-* Use of already approved budgets for strategic initiatives in order to align and link improvement measures with them.
+* Architects understand the connections between costs and value.
+* They know and utilize various business metrics to find the ideal approach for motivating improvements. In doing so, they can:
+** Differentiate between direct costs (e.g., for development or operations) and indirect costs (e.g., for context switching or delays) of investments for more realistic estimates.
+** Distinguish between long-term investments in assets (CAPEX) and ongoing operating expenses for daily operations (OPEX) to achieve an appropriate level of flexibility.
+** Leverage already approved strategic initiatives to align and connect improvement efforts with these priorities.
+** Utilize predefined IT budget structures such as 'Plan – Build – Run' to drive improvements.
+** Understand basic lines of argument using economic concepts like ROI, break-even analysis, depreciation, and amortization.
+** Find appropriate ways to allocate problem and improvement costs based on cost drivers (internal and external).
+** Identify potential costs associated with risks and technical debt, including impacts on project timelines and possible damage to the company's reputation.
 
 [[LG-3-2]]
 ==== LG 3-2: Basic terms of evaluation and estimation
