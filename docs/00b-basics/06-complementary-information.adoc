@@ -4,6 +4,7 @@
 
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
+[discrete]
 === Helfen Sie uns, diesen Lehrplan zu verbessern
 
 Sie finden die neueste Version dieses Dokuments online (https://isaqb-org.github.io/curriculum-improve/), wo Sie gerne Feedback und Verbesserungsvorschläge geben können.

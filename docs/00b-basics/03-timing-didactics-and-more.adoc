@@ -7,8 +7,8 @@
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
 
-Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
-sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
+Die unten genannten Zeiten sind Empfehlungen.
+Die Dauer einer Schulung zum Modul {curriculum-short} sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
 Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
 

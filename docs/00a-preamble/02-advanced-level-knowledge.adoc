@@ -6,7 +6,6 @@ CPSA-A-Absolventen können:
 - in IT-Systemen mittlerer bis hoher Kritikalität technische und inhaltliche Verantwortung übernehmen
 - Maßnahmen zur Erreichung von Qualitätsanforderungen konzeptionieren, entwerfen und dokumentieren sowie Entwicklungsteams bei der Umsetzung dieser Maßnahmen begleiten
 - architekturrelevante Kommunikation in mittleren bis großen Entwicklungsteams steuern und durchführen
-
 // end::DE[]
 
 // tag::EN[]

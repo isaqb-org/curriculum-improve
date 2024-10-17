@@ -8,8 +8,6 @@
 Softwarearchitektur: Struktur, Bausteine/Komponenten, Schnittstellen, übergreifende (querschnittliche) Konzepte;
 Veränderung, Evolution, Wartung und Verbesserung von Software; Kategorien von Problemen und Risiken von Software (Technische Schulden),
 Kernbegriffe rund um Verbesserung und Änderung von Software, technische Pflege
-
-
 // end::DE[]
 
 // tag::EN[]

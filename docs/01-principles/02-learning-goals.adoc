@@ -3,6 +3,7 @@
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Gründe für Veränderungen an Software
+
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
 * Änderungen in technischem oder fachlichen Kontext (z. B. Änderung an externen Schnittstellen)
@@ -55,8 +56,6 @@ Beispielsweise:
 * Verbesserung durch Neuentwicklung (Rewrite) eines Systems oder Teilen davon
 * Rein strukturelle Verbesserungen (Refactoring)
 * Konzeptionelle/strukturelle Verbesserung (Re-Architecting, Reengineering)
-
-
 // end::DE[]
 
 // tag::EN[]
@@ -115,8 +114,6 @@ For example:
 * Improvement by newly developed system or system parts (rewrite)
 * Purely structural improvements (refactoring)
 * Conceptual/structural improvements (re-architecting, reengineering)
-
-
 // end::EN[]
 
 
