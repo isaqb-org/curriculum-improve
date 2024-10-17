@@ -7,7 +7,7 @@ Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe 
 [discrete]
 === Helfen Sie uns, diesen Lehrplan zu verbessern
 
-Sie finden die neueste Version dieses Dokuments online (https://isaqb-org.github.io/curriculum-improve/), wo Sie gerne Feedback und Verbesserungsvorschläge geben können.
+Sie finden die neueste Version dieses Dokuments online (https://public.isaqb.org/curriculum-improve/), wo Sie gerne Feedback und Verbesserungsvorschläge geben können.
 // end::DE[]
 
 // tag::EN[]
@@ -18,7 +18,7 @@ To the extent necessary for understanding the curriculum, we have added definiti
 [discrete]
 === Help us improve this curriculum
 
-You find the most recent version of this document online (https://isaqb-org.github.io/curriculum-improve/), where you are encouraged to provide feedback.
+You find the most recent version of this document online (https://public.isaqb.org/curriculum-improve/), where you are encouraged to provide feedback.
 // end::EN[]
 
 
