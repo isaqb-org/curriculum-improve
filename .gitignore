@@ -10,3 +10,5 @@ build
 
 .vscode
 learning-objectives.adoc
+notebooks/temp/
+notebooks/.ipynb_checkpoints/
