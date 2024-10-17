@@ -6,11 +6,7 @@
 
 === Begriffe und Konzepte
 
-Aufwand, Kosten, Schätzung, Beobachtung/Messung, Annahmen,
-betriebswirtschaftliche Größen: Investition, Ertrag, Kosten, Wert, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) Kosten, Capital Expense (CapEx), Operational Expense (OpEx);
-Intervallschätzung, Gesetz-der-großen-Zahl.
-Geschäftsziele, strategische Initiativen.
-
+Aufwand, Kosten, Schätzung, Beobachtung/Messung, Annahmen, betriebswirtschaftliche Größen: Investition, Ertrag, Kosten, Wert, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) Kosten, Capital Expense (CapEx), Operational Expense (OpEx); Intervallschätzung, Gesetz-der-großen-Zahlen; Geschäftsziele, strategische Initiativen.
 // end::DE[]
 
 // tag::EN[]
@@ -20,9 +16,6 @@ Geschäftsziele, strategische Initiativen.
 |===
 
 === Terms and concepts
-Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even,
-Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capital Expense (CapEx), Operational Expense (OpEx);
-interval estimation, law of large numbers.
-Business goals, strategic initiatives.
 
+Effort, cost, estimate, observation/measurement, assumptions, economic dimensions: Investment, yield, cost, value, Return-on-Invest (ROI), Break-Even, Run-the-Shop (RTC) und Develop-the-Shop (DTC) cost, Capital Expense (CapEx), Operational Expense (OpEx); interval estimation, law of large numbers; Business goals, strategic initiatives.
 // end::EN[]

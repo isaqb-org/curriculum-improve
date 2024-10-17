@@ -3,6 +3,7 @@
 // tag::DE[]
 [[LZ-6-1]]
 ==== LZ 6-1: Beispiele für Probleme/Risiken in IT-Systemen
+
 Anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Systems erkennen und nachvollziehen können.
 
 Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
@@ -21,7 +22,6 @@ Anhand konkreter Beispiele die (kurz-, mittel- und/oder langfristige) Planung ei
 ==== LZ 6-4: Verbesserungsmaßnahmen eines realen Systems
 
 Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaßnahmen kennenlernen und nachvollziehen können.
-
 // end::DE[]
 
 // tag::EN[]
@@ -46,7 +46,6 @@ Get to know and understand the (short-, medium- and/or long-term) planning of an
 ==== LG 6-4: Improvement measures of a real-life system
 
 Get to know and understand the possible or implemented improvement measures based on concrete examples.
-
 // end::EN[]
 
 

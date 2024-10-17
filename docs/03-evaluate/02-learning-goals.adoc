@@ -14,7 +14,6 @@
 ** Geeignete Wege zur Zuordnung von Problem- und Verbesserungskosten auf der Basis von Kostentreibern (intern und extern) finden.
 ** Potenzielle Kosten im Zusammenhang mit Risiken und technische Schulden identifizieren, einschließlich Auswirkungen auf Projektlaufzeiten und möglicher Schäden am Unternehmensruf.
 
-
 [[LZ-3-2]]
 ==== LZ 3-2: Grundbegriffe für Evaluierung/Schätzung
 
@@ -32,7 +31,6 @@
 ==== LZ 3-3: Probleme und Lösungsansätze schätzen
 
 Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und zugehörigen Prozessen anwenden können
-
 // end::DE[]
 
 // tag::EN[]
@@ -66,7 +64,6 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 ==== LG 3-3: Estimate for problems and solution approaches
 
 Apply estimation techniques to problems and solution approaches of IT systems and related processes.
-
 // end::EN[]
 
 

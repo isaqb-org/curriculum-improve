@@ -8,7 +8,6 @@
 * Problem und Lösungsansatz in m:n Verhältnis einander zuordnen
 * Komplexe Probleme in Teilprobleme zerlegen
 
-
 [[LZ-2-2]]
 ==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse
 
@@ -46,19 +45,21 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 
 [[LZ-2-5]]
 ==== LZ 2-5: Kontextanalyse
+
 * Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
 * Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
 * Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
 [[LZ-2-6]]
 ==== LZ 2-6: Code- und Strukturanalyse
+
 (Statische) Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
 (Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
 [[LZ-2-7]]
 ==== LZ 2-7: Grundlegende Laufzeitanalysen
-(Dynamische) Analyse von bestehenden Systemen planen und durchführen können, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
+(Dynamische) Analyse von bestehenden Systemen planen und durchführen können, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 // end::DE[]
 
 // tag::EN[]
@@ -72,9 +73,7 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 [[LG-2-2]]
 ==== LG 2-2: Typical practices and methods for current state analysis
 
-Know typical practices for current state analysis and being able to
-choose the appropriate method in each situation according to budget,
-time or the involved stakeholders. This includes approaches such as:
+Know typical practices for current state analysis and being able to choose the appropriate method in each situation according to budget, time or the involved stakeholders. This includes approaches such as:
 
 * Stakeholder analysis and interview
 * Contextual analysis
@@ -120,11 +119,9 @@ time or the involved stakeholders. This includes approaches such as:
 (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 
 [[LG-2-7]]
-==== LG 2-7: Runtime analysis
+==== LG 2-7: Fundamental runtime analysis
 
-Plan and perform (dynamic) analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response.
-(For this purpose, tools may be used in the training. However, these are not a prerequisite).
-
+Plan and perform (dynamic) analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response. (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 // end::EN[]
 
 

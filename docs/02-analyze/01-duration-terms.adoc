@@ -7,7 +7,6 @@
 === Begriffe und Konzepte
 
 Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus Symptom, Lösungsansatz
-
 // end::DE[]
 
 // tag::EN[]
@@ -17,6 +16,6 @@ Ist-Analyse, Stärken/Schwächen-Analyse, Stakeholder, Problem, Ursache versus S
 |===
 
 === Terms and concepts
-current state analysis, strength/weaknesses analysis, stakeholder, problem, cause versus symptom,
-solution approach.
+
+current state analysis, strength/weaknesses analysis, stakeholder, problem, cause versus symptom, solution approach.
 // end::EN[]

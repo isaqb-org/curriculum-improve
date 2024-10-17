@@ -5,7 +5,6 @@
 ** Ausnahmen sind auf Antrag zulässig (etwa: Mitarbeit in Open-Source-Projekten)
 * Aus- und Weiterbildung im Rahmen von iSAQB-Advanced-Level-Schulungen im Umfang von mindestens 70 Credit Points aus mindestens drei unterschiedlichen Kompetenzbereichen
 * erfolgreiche Bearbeitung der CPSA-A-Zertifizierungsprüfung
-
 // end::DE[]
 
 // tag::EN[]
