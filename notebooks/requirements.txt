@@ -1,5 +1,7 @@
 pandas
+openpyxl # for excel sheet export
 openai
 spacy
-blis
+blis # needed for spacy
+ipywidgets
 tqdm
