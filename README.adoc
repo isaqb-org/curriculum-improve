@@ -40,7 +40,7 @@ git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
 ----
 --
 
-. Build it with gradle via `./gradle`.
+. Build it with gradle via `./gradle-tools/gradlew buildDocs`.
 . Look into the file `build.gradle` to see what attributes you may configure. Watch for:
 ** the `language` attribute, either `DE` (German) or `EN` (English);
 ** the output formats called `backends` (pdf and/or html5);
