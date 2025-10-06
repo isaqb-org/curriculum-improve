@@ -19,9 +19,9 @@
 * Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
 [[LZ-1-2]]
-==== LZ 1-2: Typische Kategorien von Problemen an Software
+==== LZ 1-2: Typische Problemkategorien von IT-Systemen
 
-Softwarearchitekt:innen sollten Verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
+Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
 
 * Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, übermässige Redundanz
 * Strukturelle Probleme in Daten oder Datenstrukturen
@@ -30,15 +30,16 @@ Softwarearchitekt:innen sollten Verschiedene Arten von technischen und organisat
 ** enge Kopplung,
 ** hohe Komplexität,
 ** geringe Kohäsion,
-** handwerkliche Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder –werkzeugen
-* Laufzeitprobleme in Systemen, etwa Instabilität, mangelnde Robustheit oder Zuverlässigkeit, mangelnde Performance oder zu hoher Ressourcenbedarf, mangelnde Skalierbarkeit, mangelnde Transparenz von Systemabläufen
-* Probleme bei Erreichung von Qualitätsanforderungen, etwa mangelnde Änderbarkeit, Verständlichkeit, Flexibilität, Sicherheit, Testbarkeit, Portabilität oder andere für das jeweilige System oder Umfeld relevante Qualitätseigenschaften (siehe etwa <<iso25010>> oder <<Q42>>)
-* Technische Schwächen: Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien
-* Probleme oder hohe Risiken im Bereich Sicherheit (Datensicherheit, Vertraulichkeit, Zugangsschutz oä)
+** handwerkliche Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder –werkzeugen,
+* Probleme mit Anwendungsdaten, Datenstrukturen oder Datenspeicherung
+* Laufzeitprobleme in Systemen, etwa Instabilität, mangelnde Robustheit oder Zuverlässigkeit, mangelnde Performance oder zu hoher Ressourcenbedarf, mangelnde Skalierbarkeit
+* Probleme bei Erreichung von Qualitätsanforderungen, etwa mangelnde Änderbarkeit, Verständlichkeit, Flexibilität, Sicherheit, Testbarkeit, Portabilität oder andere für das jeweilige System oder Umfeld relevante Qualitätseigenschaften (siehe etwa <<iso25010>> oder <<Q42>>),
+* Technische Schwächen: Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien,
+* Probleme oder hohe Risiken im Bereich Sicherheit (Datensicherheit, Vertraulichkeit, Zugangsschutz oä),
 * Probleme in Arbeitsprozessen oder -abläufen rund um Systeme, beispielsweise:
-** Probleme mit Tests, Testvorgehen, Testdaten, Testausführung, Testumgebungen
-** Probleme mit Freigabe/Release, Deployment, Betrieb, Monitoring/Alerting
-** Probleme aufgrund von fehlendem Wissen, fehlender oder mangelhafter Dokumentation
+** Probleme mit Tests, Testvorgehen, Testdaten, Testausführung, Testumgebungen,
+** Probleme mit Freigabe/Release, Deployment, Betrieb, Monitoring/Alerting,
+** Probleme aufgrund von fehlendem Wissen, fehlender oder mangelhafter Dokumentation,
 ** Probleme in Kommunikation mit/zwischen Stakeholdern
 
 
@@ -84,22 +85,31 @@ Beispielsweise:
 * Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
 
 [[LG-1-2]]
-==== LG 1-2: Typical categories of problems in software
+==== LG 1-2: Typical problem categories of IT systems
 
-* Conceptual weaknesses, e.g., violation of conceptual integrity, redundancy, use of inappropriate technology, incorrect use of technology.
-* Structural problems in data or data structures.
-* Structural problems in source code, such as:
-** Missing or inadequate modularization,
-** Tight coupling,
-** High complexity,
-** Low cohesion,
-** Flaws in programming, e.g., non-idiomatic use of languages or tools.
-* Runtime problems in systems, like instability, lack of robustness or reliability, insufficient performance or extensive resource demands, insufficient scalability, insufficient transparency of system processes
-* “Legacy” gathered by frequent changes of requirements made under time and/or cost pressure.
-* Recognize and name different kinds of technical debts.
-* Problems to achieve quality goals or requirements, e.g., insufficient changeability or maintainability, low flexibility, insufficient security or lack of portability.
-* Problems in development, operations or other involved processes (e.g., requirements management, test/QA, configuration, deployment, monitoring/alerting).
+Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-2>>), for example:
 
+* Conceptual weaknesses, such as violation of conceptual integrity, excessive redundancy
+* Structural problems in data or data structures
+* Structural problems in the source code, such as:
+** missing or insufficient modularization,
+** tight coupling,
+** high complexity,
+** low cohesion,
+** technical weaknesses in programming, such as non-idiomatic use of programming languages or tools
+* Problems with application data, data structures, or data storage
+* Runtime problems in systems, such as instability, lack of robustness or reliability, poor performance or excessive resource requirements, lack of scalability
+* Problems in meeting quality requirements, such as lack of changeability, comprehensibility, flexibility, security, testability, portability, or other quality characteristics relevant to the respective system or environment (see, for example, <<iso25010>> or <<Q42>>)
+* Technical weaknesses: use of inappropriate technologies, incorrect use of technologies
+* Problems or high risks in the area of security (data security, confidentiality, access protection, etc.)
+* Problems in work processes or procedures related to systems, for example:
+** Problems with tests, test procedures, test data, test execution, test environments
+** Problems with approval/release, deployment, operation, monitoring/alerting
+** Problems due to lack of knowledge, missing or inadequate documentation
+** Problems in communication with/between stakeholders
+
+
+Translated with DeepL.com (free version)
 [[LG-1-3]]
 ==== LG 1-3: Core terms of software evolution and -change
 

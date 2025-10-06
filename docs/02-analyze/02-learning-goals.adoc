@@ -95,6 +95,8 @@ Know typical practices for current state analysis and being able to choose the a
 * Analysis of operation processes
 * Analysis of further processes and tasks that may influence development problems and system changes, e.g., management, budgeting, support, governance, outsourcing/offshoring, procurement.
 
+This learning goal corresponds to <<LG-1-2>>.
+
 [[LG-2-3]]
 ==== LG 2-3: Methodically document identified problems and risks
 
