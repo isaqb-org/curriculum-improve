@@ -3,7 +3,7 @@
 :toc:
 :toc-placement!:
 
-== Update 2024
+== Update 2025
 
 For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
 
