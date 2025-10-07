@@ -4,7 +4,7 @@
 [[LZ-3-1]]
 ==== LZ 3-1: Mittels betriebswirtschaftlicher Größen situativ argumentieren
 
-* Architekt:innen wissen, welche Verbindungen zwischen Kosten und Wert existieren.
+* Architekt:innen wissen, welche Verbindungen zwischen _Kosten_ und _Wert_ existieren (andere Begriffe hierfür sind _Aufwand_ und _Nutzen_).
 * Sie können verschiedene betriebswirtschaftlicher Größen nutzen, um mögliche Verbesserungen gegenüber anderen Stakeholdern zu motivieren und zu argumentieren.
     Dabei können sie:
 ** Zwischen direkten (z.B. für Entwicklung oder Betrieb) und indirekten Kosten (z.B. für Kontextwechsel oder Verzögerungen) von Investitionen für realistischere Schätzungen unterscheiden.
@@ -38,7 +38,7 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 [[LG-3-1]]
 ==== LG 3-1: Argue contextually using business metrics
 
-* Architects understand the connections between costs and value.
+* Architects understand the connections between _costs_ and _value_ (other terms are _effort_ and _benefit_).
 * They know and utilize various business metrics to find the ideal approach for motivating improvements. In doing so, they can:
 ** Differentiate between direct costs (e.g., for development or operations) and indirect costs (e.g., for context switching or delays) of investments for more realistic estimates.
 ** Distinguish between long-term investments in assets (CAPEX) and ongoing operating expenses for daily operations (OPEX) to achieve an appropriate level of flexibility (see <<capexopex>>).
