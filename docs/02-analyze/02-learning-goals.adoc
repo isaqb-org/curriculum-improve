@@ -16,15 +16,16 @@ Softwarearchitekt:innen kennen typische Praktiken der Ist-Analyse und können f�
 Dazu gehören beispielsweise folgende Ansätze:
 
 * Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
-* Stakeholder-Analyse und -interview
-* Kontextanalyse
+* Stakeholder-Analyse und -interview (siehe <<LZ-2-4>>)
+* Kontextanalyse (siehe <<LZ-2-5>>)
 * Qualitative Analyse (etwa ATAM (<<atam>>) oder LASR (<<lasr>>)), insbesondere die Analyse von Qualitätszielen
-* Analyse der Ist-Struktur des Systems: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen
-* Analyse von strukturellen Abweichungen zwischen Soll- und Ist-Architektur
-** Quantitative Analysemethoden und -praktiken, etwa:
+* Analyse der Ist-Struktur von Systemen: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen (siehe <<LZ-2-6>>)
+** Analyse von strukturellen Abweichungen zwischen geplanten und aktuellen Strukturen
+
+* Quantitative Analysemethoden und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
 ** Organisatorische Metriken wie Kosten, Zeit und Anzahl. Beispiele: Fehleranzahl und Fehlerraten, Entwicklungsgeschwindigkeit, Kosten pro Feature, Kosten pro behobenem Fehler etc.
-** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung
+** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung (siehe <<LZ-2-7>>)
 * Analyse von Anwendungsdaten: Untersuchung von Datenstrukturen und -inhalten
 * Dokumentationsanalyse
 * Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
@@ -80,19 +81,23 @@ Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Syste
 * Decomposition of complex problems
 
 [[LG-2-2]]
-==== LG 2-2: Typical practices and methods for current state analysis
+==== LG 2-2: Typical practices and methods for as-is analysis
 
-Know typical practices for current state analysis and being able to choose the appropriate method in each situation according to budget, time or the involved stakeholders. This includes approaches such as:
+Software architects Know typical practices for as-is analysis and are able to choose and apply the appropriate method in each situation according to budget, time or the involved stakeholders. 
 
-* Stakeholder analysis and interview
-* Contextual analysis
-* Qualitative analysis (e.g., ATAM), in particular, analysis of quality goals
+This includes approaches such as:
+
 * Understanding the current state of business processes and (sub-)domains
-* Analysis of structural deviations between target and current architecture
+* Stakeholder analysis and interview (see <<LG-2-4>>)
+* Context analysis (see <<LG-2-5>>)
+* Qualitative analysis (e.g. ATAM (<<atam>>) or LASR (<<lasr>>)), particularly the analysis of quality goals
+* Structural analysis of sytems: dependency analysis of verious abstraction levels
+** Analysis of structural deviations between planned and current structures (see <<LG-2-6>>)
+
 * Quantitative analysis methods and practices, such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
 ** Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.
-** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics
+** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics (see <<LG-2-7>>)
 * Application data analysis: examination of data structures and contents
 * Documentation analysis
 * Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved, and infrastructure software)
