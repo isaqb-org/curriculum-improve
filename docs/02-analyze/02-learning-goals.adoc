@@ -11,12 +11,15 @@
 [[LZ-2-2]]
 ==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse
 
-Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen können. Dazu gehören insbesondere folgende Ansätze:
+Softwarearchitekt:innen kennen typische Praktiken der Ist-Analyse und können für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen und anwenden.
 
+Dazu gehören beispielsweise folgende Ansätze:
+
+* Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
 * Stakeholder-Analyse und -interview
 * Kontextanalyse
-* Qualitative Analyse (etwa ATAM), insbesondere die Analyse von Qualitätszielen
-* Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
+* Qualitative Analyse (etwa ATAM (<<atam>>) oder LASR (<<lasr>>)), insbesondere die Analyse von Qualitätszielen
+* Analyse der Ist-Struktur des Systems: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen
 * Analyse von strukturellen Abweichungen zwischen Soll- und Ist-Architektur
 ** Quantitative Analysemethoden und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
@@ -32,19 +35,23 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 [[LZ-2-3]]
 ==== LZ 2-3: Gefundene Probleme und Risiken methodisch dokumentieren
 
-* Teilnehmer sollen in der Lage sein, im Rahmen von Verbesserungs- und Veränderungsprozessen eine angemessene Dokumentation gefundener Probleme (Issues) und Risiken aufzusetzen
-* Werkzeuge und Beispiele für Problemdokumentation
+* Softwarearchitekt:innen sollen in der Lage sein, im Rahmen von Verbesserungs- und Veränderungsprozessen eine angemessene Dokumentation gefundener Probleme (Issues) und Risiken aufzusetzen
+* Sie kennen Werkzeuge und Beispiele für solche Dokumentation
 
 [[LZ-2-4]]
 ==== LZ 2-4: Stakeholderanalyse und -interviews
 
+Softwarearchitekt:innen können:
+
 * Stakeholderanalyse zur Identifikation der wesentlichen beteiligten Personen sowie deren Rollen und Intentionen planen, durchführen und dokumentieren
-* Methodiken zur Konzeption und Durchführung von Stakeholder-Interviews kennen
-* Vorbereitende Fragebögen erstellen können
+* Stakeholder-Interviews konzipieren und durchführen
+* Vorbereitende Fragebögen erstellen
 * Situativ im Verlauf von Interviews spezifisch auf sich ergebende neue Sachverhalte eingehen und diese in die Analyse einbeziehen
 
 [[LZ-2-5]]
 ==== LZ 2-5: Kontextanalyse
+
+Softwarearchitekt:innen können:
 
 * Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
 * Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
@@ -53,13 +60,15 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 [[LZ-2-6]]
 ==== LZ 2-6: Code- und Strukturanalyse
 
-(Statische) Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
+Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
 (Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+
 
 [[LZ-2-7]]
 ==== LZ 2-7: Grundlegende Laufzeitanalysen
 
-(Dynamische) Analyse von bestehenden Systemen planen und durchführen können, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+
 // end::DE[]
 
 // tag::EN[]
