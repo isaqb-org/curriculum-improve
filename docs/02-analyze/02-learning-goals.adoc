@@ -139,3 +139,19 @@ Plan and perform (dynamic) analysis of existing systems, e.g., with respect to r
 // end::EN[]
 
 
+[[LG-2-8]]
+==== LG 2-8: Quantitative analysis
+
+Software architects are able to:
+
+* perform systematic quantitative analysis to obtain objective measurements and metrics about the current state of systems,
+* select and apply appropriate metrics based on analysis goals and available data sources.
+* combine multiple metrics to gain comprehensive insights
+* understand limitations and potential misinterpretations of metrics
+
+Such metrics include:
+
+* Code metrics: size metrics (LOC, number of classes/modules), coupling metrics, complexity metrics (cyclomatic complexity, cognitive complexity), cohesion metrics
+* Organizational metrics: costs, time expenditures, team velocity, lead time, cycle time
+* Quality metrics: defect density, error counts and failure rates, mean time to recovery (MTTR), mean time between failures (MTBF)
+* Development metrics: development speed, cost per feature, cost per fixed bug
