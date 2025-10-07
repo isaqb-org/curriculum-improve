@@ -1,150 +1,201 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-2-1]]
-==== LZ 2-1: Grundlagen der Analyse zur Trennung von „Problem“ und „Lösung“
+[[LZ-2-01]]
+==== LZ 2-01: Grundlagen der Analyse zur Trennung von „Problem“ und „Lösung“
 
 * Problemanalyse begrifflich von Problemlösung trennen
 * Problem und Lösungsansatz in m:n Verhältnis einander zuordnen
 * Komplexe Probleme in Teilprobleme zerlegen
 
-[[LZ-2-2]]
-==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse
+[[LZ-2-02]]
+==== LZ 2-02: Typische Praktiken und Methoden zur Ist-Analyse
 
 Softwarearchitekt:innen kennen typische Praktiken der Ist-Analyse und können für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen und anwenden.
 
 Dazu gehören beispielsweise folgende Ansätze:
 
 * Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
-* Stakeholder-Analyse und -interview (siehe <<LZ-2-4>>)
-* Kontextanalyse (siehe <<LZ-2-5>>)
+* Stakeholder-Analyse und -interview (siehe <<LZ-2-04>>)
+* Kontextanalyse (siehe <<LZ-2-05>>)
 * Qualitative Analyse (etwa ATAM (<<atam>>) oder LASR (<<lasr>>)), insbesondere die Analyse von Qualitätszielen
-* Analyse der Ist-Struktur von Systemen: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen (siehe <<LZ-2-6>>)
+* Analyse der Ist-Struktur von Systemen: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen (siehe <<LZ-2-06>>)
 ** Analyse von strukturellen Abweichungen zwischen geplanten und aktuellen Strukturen
 
-* Quantitative Analysemethoden und -praktiken, etwa:
+* Quantitative Analysemethoden (siehe <<LZ-2-08>>) und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
 ** Organisatorische Metriken wie Kosten, Zeit und Anzahl. Beispiele: Fehleranzahl und Fehlerraten, Entwicklungsgeschwindigkeit, Kosten pro Feature, Kosten pro behobenem Fehler etc.
-** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung (siehe <<LZ-2-7>>)
-* Analyse von Anwendungsdaten: Untersuchung von Datenstrukturen und -inhalten
+** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung (siehe <<LZ-2-07>>)
+
+* Analyse von Anwendungsdaten (siehe <<LZ-2-09>>): Untersuchung von Datenstrukturen und -inhalten
 * Dokumentationsanalyse
 * Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
-* Analyse von Entwicklungsprozessen (Anforderungsmanagement, Entwurf/Implementierung, Test/Qualitätssicherung sowie Übergabe an Betrieb/Produktion)
-* Analyse von Betriebsprozessen
-* Analyse weiterer Prozesse und Aufgaben, die Probleme für Entwicklung und Änderung von Systemen beeinflussen können, beispielsweise Management, Budgetierung, Support, Governance, Outsourcing/Offshoring, Lieferantenmanagement u. a.
+* Analyse technischer und organisatorischer Prozesse im Zusammenhang mit der Systementwicklung und dem Systembetrieb, z. B. Anforderungsmanagement, Design/Implementierung, Test/Qualitätssicherung, Build/Deployment (siehe <<LZ-2-10>>).
 
-[[LZ-2-3]]
-==== LZ 2-3: Gefundene Probleme und Risiken methodisch dokumentieren
+
+[[LZ-2-03]]
+==== LZ 2-03: Gefundene Probleme und Risiken methodisch dokumentieren
 
 * Softwarearchitekt:innen sollen in der Lage sein, im Rahmen von Verbesserungs- und Veränderungsprozessen eine angemessene Dokumentation gefundener Probleme (Issues) und Risiken aufzusetzen
 * Sie kennen Werkzeuge und Beispiele für solche Dokumentation
 
-[[LZ-2-4]]
-==== LZ 2-4: Stakeholderanalyse und -interviews
+[[LZ-2-04]]
+==== LZ 2-04: Stakeholderanalyse und -interviews
 
 Softwarearchitekt:innen können:
 
 * Stakeholderanalyse zur Identifikation der wesentlichen beteiligten Personen sowie deren Rollen und Intentionen planen, durchführen und dokumentieren
-* Stakeholder-Interviews konzipieren und durchführen
+* Stakeholder-Interviews vorbereiten und durchführen
 * Vorbereitende Fragebögen erstellen
 * Situativ im Verlauf von Interviews spezifisch auf sich ergebende neue Sachverhalte eingehen und diese in die Analyse einbeziehen
 
-[[LZ-2-5]]
-==== LZ 2-5: Kontextanalyse
+[[LZ-2-05]]
+==== LZ 2-05: Kontextanalyse
 
 Softwarearchitekt:innen können:
 
 * Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
-* Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen können.
+* Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen.
 * Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
-[[LZ-2-6]]
-==== LZ 2-6: Code- und Strukturanalyse
+[[LZ-2-06]]
+==== LZ 2-06: Code- und Strukturanalyse
 
 Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
 (Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
 
-[[LZ-2-7]]
-==== LZ 2-7: Grundlegende Laufzeitanalysen
+[[LZ-2-07]]
+==== LZ 2-07: Grundlegende Laufzeitanalysen
 
-Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. 
+(Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+
+[[LZ-2-08]]
+==== LG Z-08: Quantitative Analyse mit Metriken
+
+Softwarearchitekten können:
+
+* systematische quantitative Analysen durchführen, um Metriken über Systeme zu erhalten,
+* geeignete Metriken auf der Grundlage von Analysenzielen und verfügbaren Datenquellen auswählen und anwenden.
+* mehrere Metriken kombinieren, um umfassende Erkenntnisse zu gewinnen
+* Einschränkungen und mögliche Fehlinterpretationen von Metriken verstehen
+
+Zu diesen Metriken gehören:
+
+* Code-Metriken: Größenmetriken (LOC, Anzahl der Klassen/Module), Kopplungsmetriken, Komplexitätsmetriken (zyklomatische Komplexität, kognitive Komplexität), Kohäsionsmetriken
+* Organisationsmetriken: Kosten, Zeitaufwand, Teamgeschwindigkeit, Vorlaufzeit, Zykluszeit
+* Qualitätsmetriken: Fehlerdichte, Fehleranzahl und Ausfallraten, mittlere Wiederherstellungszeit (MTTR), mittlere Zeit zwischen Ausfällen (MTBF)
+* Entwicklungsmetriken: Entwicklungsgeschwindigkeit, Kosten pro Funktion, Kosten pro behobenem Fehler
+
+(Hinweis: Nicht alle Metriken müssen während der Schulungen ausführlich behandelt werden.)
+
+[[LZ-2-09]]
+==== LZ 2-09: Analyse von Anwendungsdaten
+
+Softwarearchitekten können Anwendungsdaten analysieren, um datenbezogene Probleme, Datenqualitätsprobleme und entsprechendeVerbesserungsmöglichkeiten zu identifizieren.
+
+Sie kennen potenzielle Ursachen für datenbezogene Probleme, zum Beispiel:
+
+* Datenmodelle und Schemastrukturen: Datenbankschemata, Entitätsbeziehungen, Datentypen
+* Datenqualitäten wie Vollständigkeit, Konsistenz, Genauigkeit, Aktualität und Gültigkeit
+* Datenzugriffsmuster und Abfrageleistung
+* Herausforderungen bei der Datenmigration und -transformation
+* Datenanomalien: Duplikate, verwaiste Datensätze, Verletzungen der referenziellen Integrität, Verstöße gegen Einschränkungen
+* Datenabhängigkeiten zwischen Systemen und Komponenten
+* Technische Probleme in Bezug auf Datenbanksysteme oder andere Persistenzmechanismen
+
+
+[[LZ-2-10]]
+==== LZ 2-10: Prozessanalyse
+
+Softwarearchitekten können organisatorische und technische Prozesse analysieren, um Ineffizienzen, Engpässe und Verbesserungspotenziale zu identifizieren.
+
+Dazu gehören:
+
+* Entwicklungsprozesse: Anforderungsanalyse, Entwurfs- und Implementierungspraktiken, Test und Qualitätssicherung, Deployment und Übergabe an den Betrieb
+* Betriebsprozesse: Incident Management, Change Management, Release Management, Überwachung/Monitoring und Alerting
+
 
 // end::DE[]
 
 // tag::EN[]
-[[LG-2-1]]
-==== LG 2-1: Basics of the analysis to distinguish “problem” from “solution”
+[[LG-2-01]]
+==== LG 2-01: Basics of the analysis to distinguish “problem” from “solution”
 
 * Distinguish between “analyzing problems” and “solving problems”
 * Form m:n relation between problems and solution approaches
 * Decomposition of complex problems
 
-[[LG-2-2]]
-==== LG 2-2: Typical practices and methods for as-is analysis
+[[LG-2-02]]
+==== LG 2-02: Typical practices and methods for as-is analysis
 
 Software architects Know typical practices for as-is analysis and are able to choose and apply the appropriate method in each situation according to budget, time or the involved stakeholders. 
 
 This includes approaches such as:
 
 * Understanding the current state of business processes and (sub-)domains
-* Stakeholder analysis and interview (see <<LG-2-4>>)
-* Context analysis (see <<LG-2-5>>)
+* Stakeholder analysis and interview (see <<LG-2-04>>)
+* Context analysis (see <<LG-2-05>>)
 * Qualitative analysis (e.g. ATAM (<<atam>>) or LASR (<<lasr>>)), particularly the analysis of quality goals
 * Structural analysis of sytems: dependency analysis of verious abstraction levels
-** Analysis of structural deviations between planned and current structures (see <<LG-2-6>>)
+** Analysis of structural deviations between planned and current structures (see <<LG-2-06>>)
 
-* Quantitative analysis methods and practices, such as:
+* Quantitative analysis methods and practices (see <<LG-2-08>>), such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
 ** Organizational metrics, such as costs, time, and countable items. Example: error counts and failure rates, development speed, cost per feature, cost per fixed bug, etc.
-** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics (see <<LG-2-7>>)
-* Application data analysis: examination of data structures and contents
+** Runtime metrics, e.g., time and resource demands as well as tools to measure these metrics (see <<LG-2-07>>)
+
+* Application data analysis: examination of data structures and contents (see <<LG-2-09>>)
 * Documentation analysis
 * Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved, and infrastructure software)
-* Analysis of development processes (requirements engineering, design/implementation, test/QA, and handover to operations)
-* Analysis of operation processes
-* Analysis of further processes and tasks that may influence development problems and system changes, e.g., management, budgeting, support, governance, outsourcing/offshoring, procurement.
+* Analysis of technical and organizational processes in context of system development and operation, e.g. requirements engineering, design/implementation, test/QA, build/deployment (see <<LG-2-10>>).
 
-[[LG-2-3]]
-==== LG 2-3: Methodically document identified problems and risks
+[[LG-2-03]]
+==== LG 2-03: Methodically document identified problems and risks
 
-* Participants shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
-* Tools and examples for documenting problems.
+* Software architects shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
+* They know tools and examples for documenting problems.
 
-[[LG-2-4]]
-==== LG 2-4: Stakeholder analysis and interviews
-
-* Plan, perform, and document a stakeholder analysis to identify essential people involved, their roles, and intents.
-* Know methods to structure and execute stakeholder interviews.
-* Being able to create preparatory questionnaires.
-* React flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
-
-[[LG-2-5]]
-==== LG 2-5: Context analysis
-
-* Define and document contextual boundaries: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
-* Identify connections between external interfaces and stakeholders and use this information for problem analysis.
-* Elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
-
-[[LG-2-6]]
-==== LG 2-6: Code and structural analysis
-
-* Perform and document (static) analysis of existing source code and its structure.
-(For this purpose, tools may be used in the training. However, these are not a prerequisite).
-
-[[LG-2-7]]
-==== LG 2-7: Fundamental runtime analysis
-
-Plan and perform (dynamic) analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response. (For this purpose, tools may be used in the training. However, these are not a prerequisite).
-// end::EN[]
-
-
-[[LG-2-8]]
-==== LG 2-8: Quantitative analysis
+[[LG-2-04]]
+==== LG 2-04: Stakeholder analysis and interviews
 
 Software architects are able to:
 
-* perform systematic quantitative analysis to obtain objective measurements and metrics about the current state of systems,
+* plan, perform, and document a stakeholder analysis to identify essential people involved, their roles, and intents,
+* prepare and conduct stakeholder interviews,
+* create preparatory questionnaires,
+* react flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
+
+[[LG-2-05]]
+==== LG 2-05: Context analysis
+
+Software architects are able to:
+* define and document context of systems: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
+* edentify connections between external interfaces and stakeholders and use this information for problem analysis.
+* elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
+
+[[LG-2-06]]
+==== LG 2-06: Code and structural analysis
+
+Software architects are able to perform and document (static) analysis of existing source code and its structure.
+(For this purpose, tools may be used in the training. However, these are not a prerequisite).
+
+[[LG-2-07]]
+==== LG 2-07: Fundamental runtime analysis
+
+
+Software architects are able to plan and perform dynamic/runtime analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response. 
+(For this purpose, tools may be used in the training. However, these are not a prerequisite).
+
+
+
+[[LG-2-08]]
+==== LG 2-08: Quantitative analysis with metrics
+
+Software architects are able to:
+
+* perform systematic quantitative analysis to obtain metrics about systems,
 * select and apply appropriate metrics based on analysis goals and available data sources.
 * combine multiple metrics to gain comprehensive insights
 * understand limitations and potential misinterpretations of metrics
@@ -155,3 +206,34 @@ Such metrics include:
 * Organizational metrics: costs, time expenditures, team velocity, lead time, cycle time
 * Quality metrics: defect density, error counts and failure rates, mean time to recovery (MTTR), mean time between failures (MTBF)
 * Development metrics: development speed, cost per feature, cost per fixed bug
+
+(Note: Not all metrics need to be covered in-depth during trainings.)
+
+
+
+[[LG-2-09]]
+==== LG 2-09: Analysis of application data
+
+Software architects are able to analyze application data to identify data-related problems, data quality issues, and improvement opportunities.
+
+They know potential sources of data-related problems, for example:
+
+* data models and schema structures: database schemas, entity relationships, data types
+* data qualities like completeness, consistency, accuracy, timeliness and validity
+* data access patterns and query performance
+* data migration and transformation challenges
+* data anomalies: duplicates, orphaned records, referential integrity violations, constraint violations
+* data dependencies between systems and components
+* technical issues with respect to database systems or other persistence mechanisms
+
+[[LG-2-10]]
+==== LG 2-10: Process analysis
+
+Software architects are able to analyze organizational and technical processes to identify inefficiencies, bottlenecks, and improvement potentials.
+
+This includes:
+
+* development processes: requirements engineering, design and implementation practices, testing and quality assurance, deployment and handover to operations
+* operation processes: incident management, change management, release management, monitoring and alerting
+
+// end::EN[]
