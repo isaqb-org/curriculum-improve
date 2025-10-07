@@ -8,7 +8,7 @@
 * Sie können verschiedene betriebswirtschaftlicher Größen nutzen, um mögliche Verbesserungen gegenüber anderen Stakeholdern zu motivieren und zu argumentieren.
     Dabei können sie:
 ** Zwischen direkten (z.B. für Entwicklung oder Betrieb) und indirekten Kosten (z.B. für Kontextwechsel oder Verzögerungen) von Investitionen für realistischere Schätzungen unterscheiden.
-** Langfristige Investitionen in Vermögenswerte (CAPEX) von laufenden Betriebsausgaben für den täglichen Betrieb (OPEX) unterscheiden, um einen passenden Grad an Flexibilität zu erreichen.
+** Langfristige Investitionen in Vermögenswerte (CAPEX) von laufenden Betriebsausgaben für den täglichen Betrieb (OPEX) unterscheiden, um einen passenden Grad an Flexibilität zu erreichen  (siehe <<capexopex>>).
 ** Bereits genehmigte strategische Initiativen nutzen, um Verbesserungsmaßnahmen an diesen Prioritäten auszurichten und zu verknüpfen.
 ** Vorgegebene IT-Budgetstrukturen wie 'Plan – Build – Run' für Verbesserungen ausnutzen.
 ** Grundlegende Argumentationslinien unter Anwendung wirtschaftlicher Konzepte wie ROI, Break-Even-Analyse, Abschreibungen und Amortisation verstehen.
@@ -41,7 +41,7 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 * Architects understand the connections between costs and value.
 * They know and utilize various business metrics to find the ideal approach for motivating improvements. In doing so, they can:
 ** Differentiate between direct costs (e.g., for development or operations) and indirect costs (e.g., for context switching or delays) of investments for more realistic estimates.
-** Distinguish between long-term investments in assets (CAPEX) and ongoing operating expenses for daily operations (OPEX) to achieve an appropriate level of flexibility.
+** Distinguish between long-term investments in assets (CAPEX) and ongoing operating expenses for daily operations (OPEX) to achieve an appropriate level of flexibility (see <<capexopex>>).
 ** Leverage already approved strategic initiatives to align and connect improvement efforts with these priorities.
 ** Utilize predefined IT budget structures such as 'Plan – Build – Run' to drive improvements.
 ** Understand basic lines of argument using economic concepts like ROI, break-even analysis, depreciation, and amortization.

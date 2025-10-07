@@ -70,6 +70,8 @@ This section contains the references where many ideas of the curriculum are base
 
 - [[[mcconnell,McConnell 2006]]] Steve McConnell: Software Estimation: Demystifying the Black Art. Microsoft Press, 2006.
 
+- [[[capexopex,Munich-Business-School]]] Munich-Business-School: CapEx and OpEx explanation. Online: https://www.munich-business-school.de/en/l/business-studies-dictionary/capex.
+
 
 **N**
 
