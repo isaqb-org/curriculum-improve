@@ -15,7 +15,7 @@
 ** Kosten der Fehlerbehebung und Kosten von Folgeschäden
 ** Kosten beteiligter Prozesse
 ** Opportunitätskosten
-* Intrinsische Motivation beteiligter Personen, insbesondere Software-Entwickler und -Architekten
+* Intrinsische Motivation beteiligter Personen, insbesondere Softwareentwickler:innen und -architekt:innen
 * Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
 [[LZ-1-2]]
