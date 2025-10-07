@@ -50,6 +50,8 @@ This section contains the references where many ideas of the curriculum are base
 
 **K**
 
+- [[[atam,Kazman+2000]]] Rick Kazman; Mark Klein; Paul Clements. "ATAM: Method for Architecture Evaluation" (PDF). Carnegie Mellon Software Engineering Institute. Online: https://www.sei.cmu.edu/documents/629/2000_005_001_13706.pdf.
+
 - [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
 
 - [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
@@ -81,6 +83,7 @@ This section contains the references where many ideas of the curriculum are base
 
 **T**
 
+- [[[lasr,Toth+Zörner]]] Stefan Toth, Stefan Zörner: Reviewing Software Systems with the Lightweight Approach for Software Reviews - LASR. E-book, available on Leanpub: https://leanpub.com/reviewing-software-systems.
 - [[[tune,Tune+ 2024]]] Nick Tune with Jean-Georges Perrin: Architecture Modernization: Socio-technical alignment of software, strategy, and structure. Manning, 2024.
 
 
