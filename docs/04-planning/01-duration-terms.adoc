@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Lehre: 90 Min. | Übung: 30 Min.
+| Lehre: 90 Min. | Übung: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -12,7 +12,7 @@ Explizite Darstellung (Dokumentation) von bewerteten Problemen und Lösungsoptio
 // tag::EN[]
 [width=50%]
 |===
-| Duration: 90 min | Practice: 30 min
+| Teaching: 90 min | Practice: 60 min
 |===
 
 === Terms and concepts

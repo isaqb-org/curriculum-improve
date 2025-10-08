@@ -1,7 +1,7 @@
 // tag::DE[]
 [width=50%]
 |===
-| Lehre: 60 Min. | Übung: 20 Min.
+| Lehre: 60 Min. | Übung: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -13,7 +13,7 @@ Kernbegriffe rund um Verbesserung und Änderung von Software, technische Pflege
 // tag::EN[]
 [width=50%]
 |===
-| Teaching: 60 min | Practice: 20 min
+| Teaching: 60 min | Practice: 30 min
 |===
 
 === Terms and concepts
