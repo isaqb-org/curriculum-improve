@@ -11,7 +11,8 @@
 [[LZ-2-2]]
 ==== LZ 2-2: Typische Praktiken und Methoden zur Ist-Analyse
 
-Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen können. Dazu gehören insbesondere folgende Ansätze:
+Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen können. 
+Dazu gehören insbesondere folgende Ansätze:
 
 * Stakeholder-Analyse und -interview
 * Kontextanalyse
@@ -28,6 +29,9 @@ Typische Praktiken der Ist-Analyse kennen und für die jeweilige Situation, das 
 * Analyse von Entwicklungsprozessen (Anforderungsmanagement, Entwurf/Implementierung, Test/Qualitätssicherung sowie Übergabe an Betrieb/Produktion)
 * Analyse von Betriebsprozessen
 * Analyse weiterer Prozesse und Aufgaben, die Probleme für Entwicklung und Änderung von Systemen beeinflussen können, beispielsweise Management, Budgetierung, Support, Governance, Outsourcing/Offshoring, Lieferantenmanagement u. a.
+
+Dieses Lernziel korrespondiert zu <<LZ-1-2>>.
+
 
 [[LZ-2-3]]
 ==== LZ 2-3: Gefundene Probleme und Risiken methodisch dokumentieren
@@ -90,6 +94,8 @@ Know typical practices for current state analysis and being able to choose the a
 * Analysis of development processes (requirements engineering, design/implementation, test/QA, and handover to operations)
 * Analysis of operation processes
 * Analysis of further processes and tasks that may influence development problems and system changes, e.g., management, budgeting, support, governance, outsourcing/offshoring, procurement.
+
+This learning goal corresponds to <<LG-1-2>>.
 
 [[LG-2-3]]
 ==== LG 2-3: Methodically document identified problems and risks
