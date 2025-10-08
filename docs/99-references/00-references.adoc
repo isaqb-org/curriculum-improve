@@ -25,6 +25,7 @@ This section contains the references where many ideas of the curriculum are base
 **A**
 
 - [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
+- [[[amblersadalage,Ambler+2006]]] Scott Ambler, Pramod Sadalage: Refactoring Databases - Evolutionary Database Design, Addison-Wesley, 2006. Companion website: https://databaserefactoring.com/ (despite its age, the content is still valid in modern DB environments))
 
 
 **B**
@@ -52,6 +53,7 @@ This section contains the references where many ideas of the curriculum are base
 
 - [[[atam,Kazman+2000]]] Rick Kazman; Mark Klein; Paul Clements. "ATAM: Method for Architecture Evaluation" (PDF). Carnegie Mellon Software Engineering Institute. Online: https://www.sei.cmu.edu/documents/629/2000_005_001_13706.pdf.
 
+- [[[klappmann,Kleppmann]]] Martin Kleppmann: Designing Data Intensive Applications - The Big Ideas Behind Reliable, Scalable and Maintainable Systems. OReilly, 2017.
 - [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
 
 - [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
