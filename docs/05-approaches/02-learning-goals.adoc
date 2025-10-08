@@ -1,7 +1,7 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-5-1]]
+[[LZ-5-01]]
 ==== LZ 5-1: Möglichkeiten zur Optimierung von Entwicklungsprozessen
 
 * Dezentralisierung bzw. Zentralisierung von Entwicklungsprozessen.
@@ -9,7 +9,7 @@
 * Verringerung von Wartezeiten und Puffern zur Beschleunigung von Entwicklungsprozessen.
 * Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
 
-[[LZ-5-2]]
+[[LZ-5-02]]
 ==== LZ 5-2: Verbesserungsmaßnahmen im Quellcode
 
 * Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen.
@@ -18,13 +18,13 @@
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
 * Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise Clean-Code-Prinzipien.
 
-[[LZ-5-3]]
+[[LZ-5-03]]
 ==== LZ 5-3: Möglichkeiten des automatisierten Tests zur Reduktion von Änderungsrisiken
 
 * Anwendungsmöglichkeiten von automatisierten Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern in Änderungs- oder Verbesserungsprojekten kennen.
 * Identifizieren können, an welchen Stellen/Schnittstellen/Komponenten die Einführung automatisierter Tests für bestimmte Änderungsszenarien angemessen ist.
 
-[[LZ-5-4]]
+[[LZ-5-04]]
 ==== LZ 5-4: Automatisierung als Mittel zur Reduktion von Änderungsrisiken
 
 Weitere methodische und technische Mittel zur Automatisierung kennen, mit deren Hilfe systematisch Änderungsrisiken und -aufwände gesenkt werden können, beispielsweise:
@@ -33,23 +33,24 @@ Weitere methodische und technische Mittel zur Automatisierung kennen, mit deren 
 * Continuous Delivery
 * Model-driven Development/Generative Development
 
-[[LZ-5-5]]
+[[LZ-5-05]]
 ==== LZ 5-5: Relevante Architektur-/Entwurfs- oder Implementierungsmuster zur Reduktion von Kopplung innerhalb von Systemen
 
 * Typische Muster zur Reduktion von Kopplung kennen und anwenden können (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität).
 * Effekte typischer Muster (ggfs. unter Zuhilfenahme entsprechender Werkzeuge) nachvollziehen können.
 
-[[LZ-5-6]]
+
+[[LZ-5-06]]
 ==== LZ 5-6: Technologiespezifische Möglichkeiten zur Verbesserung des Laufzeitverhaltens von Systemen
 
 Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-7]]
+[[LZ-5-07]]
 ==== LZ 5-7: Möglichkeiten zur Verbesserung betrieblicher Prozesse
 
 (Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-8]]
+[[LZ-5-08]]
 ==== LZ 5-8: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse
 
 Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können, beispielsweise:
@@ -63,7 +64,7 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
+[[LG-5-01]]
 ==== LG 5-1: Potential approaches to optimize development processes
 
 * Decentralization vs. centralization of development processes.
@@ -71,7 +72,7 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 * Reduce idle times and buffers to accelerate development processes.
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
-[[LG-5-2]]
+[[LG-5-02]]
 ==== LG 5-2: Improvement measures for source code
 
 * Know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
@@ -80,13 +81,13 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 * Know and be able to assess measures and patterns to reduce coupling at source code level.
 * Know measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
 
-[[LG-5-3]]
+[[LG-5-03]]
 ==== LG 5-3: Possible approaches for automated testing to reduce risks of change
 
 * Know how to apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects.
 * Being able to identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
 
-[[LG-5-4]]
+[[LG-5-04]]
 ==== LG 5-4: Automation as a means of reducing risks of changes
 
 Know further methodical and technical means of automation that may help to reduce risk and required efforts of changes, such as:
@@ -95,23 +96,23 @@ Know further methodical and technical means of automation that may help to reduc
 * Continuous delivery
 * Model-driven development/generative development
 
-[[LG-5-5]]
+[[LG-5-05]]
 ==== LG 5-5: Relevant architectural-/design- or implementation patterns to reduce system-internal coupling
 
 * Know and be able to apply typical patterns to reduce coupling (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
 * Understand the impact of typical patterns (possibly by using appropriate tools).
 
-[[LG-5-6]]
+[[LG-5-06]]
 ==== LG 5-6: Technology-specific options to improve the runtime behavior of systems
 
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
-[[LG-5-7]]
+[[LG-5-07]]
 ==== LG 5-7: Options to improve operation processes
 
 (Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
 
-[[LG-5-8]]
+[[LG-5-08]]
 ==== LG 5-8: Options to improve the documentation or the documentation processes
 
 Know and be able to apply basic options for systematic improvement of technical documentation, such as:
