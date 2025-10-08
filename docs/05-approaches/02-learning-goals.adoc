@@ -2,21 +2,29 @@
 
 // tag::DE[]
 [[LZ-5-01]]
-==== LZ 5-01: Möglichkeiten zur Optimierung von Entwicklungsprozessen
+==== LZ 5-01: Identifizieren, auswählen und anwenden von Möglichkeiten zur Optimierung von Entwicklungsprozessen
+
+Siehe auch <<LZ-2-10>>.
+
+Hierzu zählen beispielsweise:
 
 * Dezentralisierung bzw. Zentralisierung von Entwicklungsprozessen.
 * Einsatz iterativer Prozesse zur Reduktion von Risiken.
 * Verringerung von Wartezeiten und Puffern zur Beschleunigung von Entwicklungsprozessen.
 * Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
 
-[[LZ-5-02]]
-==== LZ 5-02: Verbesserungsmaßnahmen im Quellcode
 
-* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen.
-* Technologien besser nutzen und bessere Technologie einführen (Technologiewechsel).
-* Zusammenhang zwischen technischen Schulden und Refactoring erklären können.
+[[LZ-5-02]]
+==== LZ 5-02: Verbessern von  Quellcode
+
+Siehe auch <<LZ-2-06>>.
+
+Softwarearchitekt:innen sollten:
+
+* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
+* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise Clean-Code-Prinzipien.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
 
 [[LZ-5-03]]
 ==== LZ 5-03: Identifizieren, auswählen und anwenden von Möglichkeiten der Automatisierung zur Reduktion von Änderungsrisiken
@@ -88,19 +96,26 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 [[LG-5-01]]
 ==== LG 5-01: Identify, select and apply approaches to improve development processes
 
+See also <<LG-2-10>>.
+
+These include, for example:
+
 * Decentralization vs. centralization of development processes.
 * Employment of iterative processes to reduce risks.
 * Reduce idle times and buffers to accelerate development processes.
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
 [[LG-5-02]]
-==== LG 5-02: Identify, select and apply approaches to improve source code
+==== LG 5-02: Improve source code
 
-* Know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
-* Better use of technology or use better technology (change of technology).
-* Explain the connection between technical debts and refactoring.
-* Know and be able to assess measures and patterns to reduce coupling at source code level.
-* Know measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
+See also <<LG-2-06>>.
+
+Software architects should:
+
+* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
+* know how to improve use of technology or how to introduce better technology (change of technology).
+* know and be able to assess measures and patterns to reduce coupling at source code level.
+* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
 
 
 [[LG-5-03]]
