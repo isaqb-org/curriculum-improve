@@ -19,7 +19,7 @@
 * Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise Clean-Code-Prinzipien.
 
 [[LZ-5-03]]
-==== LZ 5-03: Möglichkeiten der Automatisierung zur Reduktion von Änderungsrisiken identifizieren, auswählen und anwenden
+==== LZ 5-03: Identifizieren, auswählen und anwenden von Möglichkeiten der Automatisierung zur Reduktion von Änderungsrisiken
 
 Softwarearchitekt:innen sollten beispielsweise:
 
