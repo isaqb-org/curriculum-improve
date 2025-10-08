@@ -11,33 +11,29 @@
 
 | 1. Grundlegendes
 | 60
-| 20
+| 30
 
 | 2. Ist-Situation analysieren
 | 240
-| 75
+| 120
 
 | 3. Probleme und Lösungsansätze schätzen und bewerten
-| 120
+| 90
 | 30
 
 | 4. Verbesserungen langfristig planen
 | 90
-| 30
+| 60
 
 | 5. Typische Verbesserungsansätze
-| 280
-| 100
+| 180
+| 120
 
 | 6. Beispiele für Verbesserung
-| 30
-| 75
+| 60
+| 0
 
-|
-|
-|
-
-| Total:
+| [.right]#**Total:**#
 | 720 min (12h)
 | 360 min (6h)
 |===
@@ -60,33 +56,29 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 
 | 1. Foundations
 | 60
-| 20
+| 30
 
 | 2. Analysis of current situation
 | 240
-| 75
+| 120
 
 | 3. Estimation of problems and solution approaches
-| 120
-| 60
-
-| 4. Long term improvement planning
 | 90
 | 30
 
+| 4. Long term improvement planning
+| 90
+| 60
+
 | 5. Typical improvement approaches
 | 180
-| 100
+| 120
 
 | 6. Improvement examples
-| 30
-| 75
+| 60
+| 0
 
-|
-|
-|
-
-| Sum:
+| [.right]#**Sum:**#
 | 720 min (12h)
 | 360 min (6h)
 |===
