@@ -41,8 +41,8 @@ Softwarearchitekt:innen:
 * kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität)
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
-[[LG-5-06]]
-==== LG 5-06: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
+[[LZ-5-06]]
+==== LZ 5-06: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
 
 Siehe <<LZ-2-09>>.
 

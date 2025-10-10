@@ -21,7 +21,7 @@
 [[LZ-1-2]]
 ==== LZ 1-2: Erkennen typischer Problemkategorien von IT-Systemen
 
-Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
+Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-02>>) und benennen können, beispielsweise:
 
 * Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, übermässige Redundanz
 * Strukturelle Probleme in Daten oder Datenstrukturen
@@ -65,16 +65,18 @@ Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -ä
 * Risiko
 
 [[LZ-1-4]]
-==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen
-
-Beispielsweise:
+==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen kennen und erklären
 
 * Ad-hoc Verbesserung, einmalige Verbesserung
 * Schrittweise Verbesserung (mittel- bis langfristig angelegt)
 * Verbesserung durch Neuentwicklung (Rewrite) eines Systems oder Teilen davon
-* Rein strukturelle Verbesserungen (Refactoring)
-* Konzeptionelle/strukturelle Verbesserung (Re-Architecting, Reengineering)
+* Rein strukturelle Verbesserungen-im-Kleinen (Refactoring)
+* Konzeptionelle/strukturelle Verbesserung-im-Großen (Re-Architecting, Reengineering, Restrukturierung)
+
+Für weitere Details siehe Kapitel <<section-improvements>>.
+
 // end::DE[]
+
 
 // tag::EN[]
 [[LG-1-1]]
@@ -97,7 +99,7 @@ Beispielsweise:
 [[LG-1-2]]
 ==== LG 1-2: Typical problem categories of IT systems
 
-Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-2>>), for example:
+Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-02>>), for example:
 
 * Conceptual weaknesses, such as violation of conceptual integrity, excessive redundancy
 * Structural problems in data or data structures
@@ -150,6 +152,9 @@ For example:
 * Improvement by newly developed system or system parts (rewrite)
 * Purely structural improvements (refactoring)
 * Conceptual/structural improvements (re-architecting, reengineering)
+
+For further details, see section <<section-improvements>>.
+
 // end::EN[]
 
 
