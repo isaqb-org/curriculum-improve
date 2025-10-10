@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-4-1]]
 ==== LZ 4-1: Bewertete Probleme und Lösungsansätze explizit darstellen
 
@@ -35,6 +34,8 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-4-1]]
 ==== LG 4-1: Explicitly represent evaluated problems and solution approaches
 

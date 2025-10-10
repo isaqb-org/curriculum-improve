@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-5-01]]
 ==== LZ 5-1: Möglichkeiten zur Optimierung von Entwicklungsprozessen
 
@@ -84,6 +83,8 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-5-01]]
 ==== LG 5-01: Identify, select and apply approaches to improve development processes
 

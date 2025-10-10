@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-1-1]]
 ==== LZ 1-1: Gründe für Veränderungen an Software
 
@@ -67,6 +66,8 @@ Beispielsweise:
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-1-1]]
 ==== LG 1-1: Reasons for software changes
 
