@@ -42,6 +42,7 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 ** Probleme aufgrund von fehlendem Wissen, fehlender oder mangelhafter Dokumentation,
 ** Probleme in Kommunikation mit/zwischen Stakeholdern
 
+See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Klären der Kernbegriffe für Softwareevolution und -änderung
@@ -120,6 +121,7 @@ Software architects should be able to recognize and identify various types of te
 ** Problems due to lack of knowledge, missing or inadequate documentation
 ** Problems in communication with/between stakeholders
 
+See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-3]]
 ==== LG 1-3: Clarify core terms of software evolution and -change
