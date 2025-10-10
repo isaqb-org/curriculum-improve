@@ -39,6 +39,10 @@ This section contains the references where many ideas of the curriculum are base
 
 - [[[demeyer,Demeyer+ 2003]]] Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns, 2003.
 
+**E**
+
+- [[[ernst-techDebt,Ernst+2021]]] Neil Ernst, Rick Kazman, Julien Delange: Technical Debt in Practice: How to Find It and Fix It. MIT-Press, 2021. 
+
 
 **F**
 
@@ -57,6 +61,8 @@ This section contains the references where many ideas of the curriculum are base
 - [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
 
 - [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
+
+- [[[kruchtenTechDebt,Kruchten+2019]]] Kruchten, Phippe, Robert Nord, Ipak Ozkaya: Managing Technical Debt. Addison-Wesley 2019.
 
 
 **L**
@@ -84,6 +90,10 @@ This section contains the references where many ideas of the curriculum are base
 
 - [[[pacheco,Pacheco+ 2023]]] Diego Pacheco, Sam Sgro: Principles of Software Architecture Modernization: Delivering engineering excellence with the art of fixing microservices, monoliths, and distributed monoliths. BPB Publications, 2023.
 
+**S**
+
+ 
+- [[[starke-debt,Starke 2025]]] Gernot Starke: Technical and other Debt in IT Systems - A Broad Perspective. Blogpost, online https://www.innoq.com/en/articles/2025/07/technical-and-other-debt-in-it/
 
 **T**
 
