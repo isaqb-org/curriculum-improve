@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Gründe für Veränderungen an Software
+==== LZ 1-1: Gründe für Veränderungen an Software kennen
 
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
@@ -19,7 +19,7 @@
 * Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
 [[LZ-1-2]]
-==== LZ 1-2: Typische Problemkategorien von IT-Systemen
+==== LZ 1-2: Erkennen typischer Problemkategorien von IT-Systemen
 
 Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
 
@@ -44,12 +44,22 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 
 
 [[LZ-1-3]]
-==== LZ 1-3: Kernbegriffe für Softwareevolution und -änderung
+==== LZ 1-3: Klären der Kernbegriffe für Softwareevolution und -änderung
 
-Kernbegriffe von Evolution und Änderung von Software:
+Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-2>>)erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
+Hierzu gehören insbesondere:
+
+* Verstehen, dass "Schulden” im Zusammenhang mit IT-Systemen eine Metapher und kein wirkliches Finanzkonstrukt sind. 
+* Schulden in Wirtschaft und Finanzen besitzen klar definierte (z.T. gesetzlich geregelte) Mechanismen:
+** einen vorab definierten quantifizierten Betrag (d.h. quanitifizierte _Höhe der Schulden_),
+** formalisierte Rollen und Verantwortlichkeiten (Gläubiger, Schuldner),
+** vereinbarte Zins- und Tilgungspläne (d.h. Rückführung der Schulden vorab definiert)
+** formale rechtliche und buchhalterische Behandlung
+
+Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -änderung und -verbesserung differenzieren und erklären, beispielsweise:
 
 * Problem (Issue)
-* Lösungsansatz (Opportunity for Improvement)
+* Lösungsansatz (Möglichkeit zur Verbesserung)
 * Kosten (von Problemen, Lösungsansätzen, Maßnahmen)
 * Ursachen (Root cause) versus Symptom
 * Risiko
@@ -110,9 +120,19 @@ Software architects should be able to recognize and identify various types of te
 
 
 [[LG-1-3]]
-==== LG 1-3: Core terms of software evolution and -change
+==== LG 1-3: Clarify core terms of software evolution and -change
 
-Core terms of software evolution and change:
+Software architects can explain the concept of “technical and organizational debt” (see <<LG-1-2>>) and, in particular, differentiate it from the concept of debt in economics and finance.
+This includes, in particular:
+
+* Understanding that “debt” in the context of IT systems is a metaphor and not a real financial construct. 
+* Debt in economics and finance has clearly defined (in some cases legally regulated) mechanisms:
+** a predefined quantified amount,
+** formalized roles and responsibilities (creditor, debtor),
+** agreed interest and repayment plans (i.e., repayment of debt defined in advance)
+** formal legal and accounting treatment
+
+Software architects can differentiate and explain additional core terms of software evolution and change, for example:
 
 * Problem (issue)
 * Solution approach (opportunity for improvement)
