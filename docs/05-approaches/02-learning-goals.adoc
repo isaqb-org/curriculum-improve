@@ -42,16 +42,16 @@ Softwarearchitekt:innen sollten beispielsweise:
 ** Diagrams-As-Code
 
 
-[[LZ-5-05]]
-==== LZ 5-05: Muster oder Lösungsansätze zur Reduktion von Kopplung innerhalb von Systemen auswählen und anwenden
+[[LZ-5-04]]
+==== LZ 5-04: Muster oder Lösungsansätze zur Reduktion von Kopplung innerhalb von Systemen auswählen und anwenden
 
 Softwarearchitekt:innen:
 
 * kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität)
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
-[[LZ-5-06]]
-==== LZ 5-06: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
+[[LZ-5-05]]
+==== LZ 5-05: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
 
 Siehe <<LZ-2-09>>.
 
@@ -69,18 +69,18 @@ Softwarearchitekt:innen kennen die Herausforderungen von:
 * Versionierung von Datenstrukturen und Daten.
 
 
-[[LZ-5-07]]
-==== LZ 5-07: Technologiespezifische Möglichkeiten zur Verbesserung des Laufzeitverhaltens von Systemen
+[[LZ-5-06]]
+==== LZ 5-06: Technologiespezifische Möglichkeiten zur Verbesserung des Laufzeitverhaltens von Systemen
 
 Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-08]]
-==== LZ 5-08: Möglichkeiten zur Verbesserung betrieblicher Prozesse
+[[LZ-5-07]]
+==== LZ 5-07: Möglichkeiten zur Verbesserung betrieblicher Prozesse
 
 (Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-09]]
-==== LZ 5-09: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse
+[[LZ-5-08]]
+==== LZ 5-08: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse
 
 Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können, beispielsweise:
 
@@ -134,16 +134,16 @@ Software architects should, for example:
 ** Diagrams-as-code
 
 
-[[LG-5-05]]
-==== LG 5-05: Identify, select and apply patterns or approaches to improve issues related to coupling
+[[LG-5-04]]
+==== LG 5-04: Identify, select and apply patterns or approaches to improve issues related to coupling
 
 Software architects:
 * know typical patterns or approaches to reduce internal coupling and can apply these (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
 * understand their impact (effects and side-effects), possibly by using appropriate tools.
 
 
-[[LG-5-06]]
-==== LG 5-06: Identify, select and apply approaches to address issues with application data and databases
+[[LG-5-05]]
+==== LG 5-05: Identify, select and apply approaches to address issues with application data and databases
 
 See <<LG-2-09>>.
 
@@ -161,18 +161,18 @@ Software architects know the challenges of:
 * versioning of data structures and data.
 
 
-[[LG-5-07]]
-==== LG 5-07: Identify, select and apply technology-specific approaches to improve issues related to runtime behavior 
+[[LG-5-06]]
+==== LG 5-06: Identify, select and apply technology-specific approaches to improve issues related to runtime behavior 
 
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
-[[LG-5-08]]
-==== LG 5-08: Identify, select and apply approaches to improve issues related to operation processes
+[[LG-5-07]]
+==== LG 5-07: Identify, select and apply approaches to improve issues related to operation processes
 
 (Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
 
-[[LG-5-09]]
-==== LG 5-09: Identify, select and apply approaches to improve issues related to documentation or documentation processes
+[[LG-5-08]]
+==== LG 5-08: Identify, select and apply approaches to improve issues related to documentation or documentation processes
 
 Know and be able to apply basic options for systematic improvement of technical documentation, such as:
 
