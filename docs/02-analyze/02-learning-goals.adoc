@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-2-01]]
 ==== LZ 2-01: Grundlagen der Analyse zur Trennung von „Problem“ und „Lösung“
 
@@ -122,6 +121,8 @@ Dazu gehören:
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-2-01]]
 ==== LG 2-01: Basics of the analysis to distinguish “problem” from “solution”
 

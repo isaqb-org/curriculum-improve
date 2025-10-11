@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-6-1]]
 ==== LZ 6-1: Beispiele für Probleme/Risiken in IT-Systemen
 
@@ -25,6 +24,8 @@ Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaß
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-6-1]]
 ==== LG 6-1: Examples of problems/risks in IT systems
 

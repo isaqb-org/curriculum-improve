@@ -1,6 +1,5 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-3-1]]
 ==== LZ 3-1: Mittels betriebswirtschaftlicher Größen situativ argumentieren
 
@@ -35,6 +34,8 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-3-1]]
 ==== LG 3-1: Argue contextually using business metrics
 
