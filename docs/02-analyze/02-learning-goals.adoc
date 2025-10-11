@@ -31,7 +31,7 @@ Dazu gehören beispielsweise folgende Ansätze:
 * Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
 * Analyse technischer und organisatorischer Prozesse im Zusammenhang mit der Systementwicklung und dem Systembetrieb, z. B. Anforderungsmanagement, Design/Implementierung, Test/Qualitätssicherung, Build/Deployment (siehe <<LZ-2-10>>).
 
-Dieses Lernziel korrespondiert zu <<LZ-1-2>>.
+Dieses Lernziel korrespondiert zu <<LZ-1-02>>.
 
 
 [[LZ-2-03]]
@@ -154,7 +154,7 @@ This includes approaches such as:
 * Analysis of technical environment (runtime and operations: hardware, operations environment, networks, operating systems involved, and infrastructure software)
 * Analysis of technical and organizational processes in context of system development and operation, e.g. requirements engineering, design/implementation, test/QA, build/deployment (see <<LG-2-10>>).
 
-This learning goal corresponds to <<LG-1-2>>.
+This learning goal corresponds to <<LG-1-02>>.
 
 [[LG-2-03]]
 ==== LG 2-03: Methodically document identified problems and risks

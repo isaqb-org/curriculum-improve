@@ -1,7 +1,7 @@
 // tag::DE[]
 === {learning-goals}
-[[LZ-1-1]]
-==== LZ 1-1: Gründe für Veränderungen an Software
+[[LZ-1-01]]
+==== LZ 1-01: Gründe für Veränderungen an Software
 
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
@@ -17,8 +17,8 @@
 * Intrinsische Motivation beteiligter Personen, insbesondere Softwareentwickler:innen und -architekt:innen
 * Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
-[[LZ-1-2]]
-==== LZ 1-2: Typische Problemkategorien von IT-Systemen
+[[LZ-1-02]]
+==== LZ 1-02: Typische Problemkategorien von IT-Systemen
 
 Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
 
@@ -42,8 +42,8 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 ** Probleme in Kommunikation mit/zwischen Stakeholdern
 
 
-[[LZ-1-3]]
-==== LZ 1-3: Kernbegriffe für Softwareevolution und -änderung
+[[LZ-1-03]]
+==== LZ 1-03: Kernbegriffe für Softwareevolution und -änderung
 
 Kernbegriffe von Evolution und Änderung von Software:
 
@@ -53,8 +53,8 @@ Kernbegriffe von Evolution und Änderung von Software:
 * Ursachen (Root cause) versus Symptom
 * Risiko
 
-[[LZ-1-4]]
-==== LZ 1-4: Mögliche Vorgehensweisen bei Änderungen
+[[LZ-1-04]]
+==== LZ 1-04: Mögliche Vorgehensweisen bei Änderungen
 
 Beispielsweise:
 
@@ -68,8 +68,8 @@ Beispielsweise:
 // tag::EN[]
 === {learning-goals}
 
-[[LG-1-1]]
-==== LG 1-1: Reasons for software changes
+[[LG-1-01]]
+==== LG 1-01: Reasons for software changes
 
 * Extending and changing features
 * Change in quality requirements and goals
@@ -85,8 +85,8 @@ Beispielsweise:
 * Intrinsic motivation of stakeholders, especially software developers and architects.
 * Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
 
-[[LG-1-2]]
-==== LG 1-2: Typical problem categories of IT systems
+[[LG-1-02]]
+==== LG 1-02: Typical problem categories of IT systems
 
 Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-2>>), for example:
 
@@ -110,8 +110,8 @@ Software architects should be able to recognize and identify various types of te
 ** Problems in communication with/between stakeholders
 
 
-[[LG-1-3]]
-==== LG 1-3: Core terms of software evolution and -change
+[[LG-1-03]]
+==== LG 1-03: Core terms of software evolution and -change
 
 Core terms of software evolution and change:
 
@@ -121,8 +121,8 @@ Core terms of software evolution and change:
 * Root cause versus symptom
 * Risk
 
-[[LG-1-4]]
-==== LG 1-4: Possible approaches for changes
+[[LG-1-04]]
+==== LG 1-04: Possible approaches for changes
 
 For example:
 
