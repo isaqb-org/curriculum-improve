@@ -20,7 +20,7 @@
 [[LZ-1-02]]
 ==== LZ 1-02: Erkennen und klassifizieren technischer und organisatorischer Defizite
 
-Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
+Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-02>>) und benennen können, beispielsweise:
 
 * Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, übermässige Redundanz
 * Strukturelle Probleme in Daten oder Datenstrukturen
