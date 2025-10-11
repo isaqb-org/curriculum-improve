@@ -1,8 +1,7 @@
-=== {learning-goals}
-
 // tag::DE[]
-[[LZ-3-1]]
-==== LZ 3-1: Mittels betriebswirtschaftlicher Größen situativ argumentieren
+=== {learning-goals}
+[[LZ-3-01]]
+==== LZ 3-01: Mittels betriebswirtschaftlicher Größen situativ argumentieren
 
 * Architekt:innen wissen, welche Verbindungen zwischen _Kosten_ und _Wert_ existieren (andere Begriffe hierfür sind _Aufwand_ und _Nutzen_).
 * Sie können verschiedene betriebswirtschaftlicher Größen nutzen, um mögliche Verbesserungen gegenüber anderen Stakeholdern zu motivieren und zu argumentieren.
@@ -15,8 +14,8 @@
 ** Geeignete Wege zur Zuordnung von Problem- und Verbesserungskosten auf der Basis von Kostentreibern (intern und extern) finden.
 ** Potenzielle Kosten im Zusammenhang mit Risiken und technische Schulden identifizieren, einschließlich Auswirkungen auf Projektlaufzeiten und möglicher Schäden am Unternehmensruf.
 
-[[LZ-3-2]]
-==== LZ 3-2: Grundbegriffe für Evaluierung/Schätzung
+[[LZ-3-02]]
+==== LZ 3-02: Grundbegriffe für Evaluierung/Schätzung
 
 * Begriffe „Schätzung“, „Beobachtung“ und „Messung“ erklären und in der Evaluierung von Problemen und Lösungsansätzen anwenden
 * Schätzungen in Intervallen angeben können. Sie kennen verschiedene Ansätze für Intervallschätzungen:
@@ -28,15 +27,17 @@
 * Schätzparameter und Einflussfaktoren auf Schätzungen identifizieren
 * Explizite Annahmen treffen, um Schätzparameter in Wertebereichen festlegen zu können.
 
-[[LZ-3-3]]
-==== LZ 3-3: Probleme und Lösungsansätze schätzen
+[[LZ-3-03]]
+==== LZ 3-03: Probleme und Lösungsansätze schätzen
 
 Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und zugehörigen Prozessen anwenden können
 // end::DE[]
 
 // tag::EN[]
-[[LG-3-1]]
-==== LG 3-1: Argue contextually using business metrics
+=== {learning-goals}
+
+[[LG-3-01]]
+==== LG 3-01: Argue contextually using business metrics
 
 * Architects understand the connections between _costs_ and _value_ (other terms are _effort_ and _benefit_).
 * They know and utilize various business metrics to find the ideal approach for motivating improvements. In doing so, they can:
@@ -48,8 +49,8 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 ** Find appropriate ways to allocate problem and improvement costs based on cost drivers (internal and external).
 ** Identify potential costs associated with risks and technical debt, including impacts on project timelines and possible damage to the company's reputation.
 
-[[LG-3-2]]
-==== LG 3-2: Basic terms of evaluation and estimation
+[[LG-3-02]]
+==== LG 3-02: Basic terms of evaluation and estimation
 
 * Explain the terms “estimation”, “observation”, and “measurement” and apply them to the evaluation of problems and solution approaches.
 * Be able to estimate efforts in intervals. Know different approaches for interval estimates:
@@ -61,8 +62,8 @@ Schätzverfahren auf Probleme und Lösungsansätze innerhalb von IT-Systemen und
 * Identify parameters and influencing factors of estimations
 * explicit assumption to be able to define estimation parameters in value ranges.
 
-[[LG-3-3]]
-==== LG 3-3: Estimate for problems and solution approaches
+[[LG-3-03]]
+==== LG 3-03: Estimate for problems and solution approaches
 
 Apply estimation techniques to problems and solution approaches of IT systems and related processes.
 // end::EN[]

@@ -1,48 +1,56 @@
-=== {learning-goals}
-
 // tag::DE[]
+=== {learning-goals}
 [[LZ-5-01]]
-==== LZ 5-1: Möglichkeiten zur Optimierung von Entwicklungsprozessen
+==== LZ 5-01: Identifizieren, auswählen und anwenden von Möglichkeiten zur Optimierung von Entwicklungsprozessen
+
+Siehe auch <<LZ-2-10>>.
+
+Hierzu zählen beispielsweise:
 
 * Dezentralisierung bzw. Zentralisierung von Entwicklungsprozessen.
 * Einsatz iterativer Prozesse zur Reduktion von Risiken.
 * Verringerung von Wartezeiten und Puffern zur Beschleunigung von Entwicklungsprozessen.
 * Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
 
-[[LZ-5-02]]
-==== LZ 5-2: Verbesserungsmaßnahmen im Quellcode
 
-* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen.
-* Technologien besser nutzen und bessere Technologie einführen (Technologiewechsel).
-* Zusammenhang zwischen technischen Schulden und Refactoring erklären können.
+[[LZ-5-02]]
+==== LZ 5-02: Verbessern von  Quellcode
+
+Siehe auch <<LZ-2-06>>.
+
+Softwarearchitekt:innen sollten:
+
+* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
+* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise Clean-Code-Prinzipien.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
 
 [[LZ-5-03]]
-==== LZ 5-3: Möglichkeiten des automatisierten Tests zur Reduktion von Änderungsrisiken
+==== LZ 5-03: Identifizieren, auswählen und anwenden von Möglichkeiten der Automatisierung zur Reduktion von Änderungsrisiken
 
-* Anwendungsmöglichkeiten von automatisierten Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern in Änderungs- oder Verbesserungsprojekten kennen.
-* Identifizieren können, an welchen Stellen/Schnittstellen/Komponenten die Einführung automatisierter Tests für bestimmte Änderungsszenarien angemessen ist.
+Softwarearchitekt:innen sollten beispielsweise:
+
+* automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können,
+* erkennen können, an welchen Stellen (etwa: Schnittstellen oder Komponenten) automatisierte Tests angemessen oder notwendig sind,
+* weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise: 
+** Continuous Integration
+** Continuous Delivery
+** Model-driven Development/Generative Development
+** Infrastructure-As-Code
+** Docs-As-Code
+** Diagrams-As-Code
+
 
 [[LZ-5-04]]
-==== LZ 5-04: Automatisierung als Mittel zur Reduktion von Änderungsrisiken
-
-Weitere methodische und technische Mittel zur Automatisierung kennen, mit deren Hilfe systematisch Änderungsrisiken und -aufwände gesenkt werden können, beispielsweise:
-
-* Continuous Integration
-* Continuous Delivery
-* Model-driven Development/Generative Development
-
-[[LZ-5-05]]
-==== LZ 5-05: Muster oder Lösungsansätze zur Reduktion von Kopplung innerhalb von Systemen auswählen und anwenden
+==== LZ 5-04: Muster oder Lösungsansätze zur Reduktion von Kopplung innerhalb von Systemen auswählen und anwenden
 
 Softwarearchitekt:innen:
 
 * kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität)
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
-[[LZ-5-06]]
-==== LZ 5-06: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
+[[LZ-5-05]]
+==== LZ 5-05: Identifizieren, auswählen und anwenden von Ansätzen zur Lösung von Problemen mit Anwendungsdaten und Datenbanken.
 
 Siehe <<LZ-2-09>>.
 
@@ -60,18 +68,18 @@ Softwarearchitekt:innen kennen die Herausforderungen von:
 * Versionierung von Datenstrukturen und Daten.
 
 
-[[LZ-5-07]]
-==== LZ 5-07: Technologiespezifische Möglichkeiten zur Verbesserung des Laufzeitverhaltens von Systemen
+[[LZ-5-06]]
+==== LZ 5-06: Technologiespezifische Möglichkeiten zur Verbesserung des Laufzeitverhaltens von Systemen
 
 Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-08]]
-==== LZ 5-08: Möglichkeiten zur Verbesserung betrieblicher Prozesse
+[[LZ-5-07]]
+==== LZ 5-07: Möglichkeiten zur Verbesserung betrieblicher Prozesse
 
 (Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-09]]
-==== LZ 5-09: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse
+[[LZ-5-08]]
+==== LZ 5-08: Möglichkeiten zur Verbesserung der Dokumentation oder Dokumentationsprozesse
 
 Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können, beispielsweise:
 
@@ -84,8 +92,14 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 // end::DE[]
 
 // tag::EN[]
+=== {learning-goals}
+
 [[LG-5-01]]
 ==== LG 5-01: Identify, select and apply approaches to improve development processes
+
+See also <<LG-2-10>>.
+
+These include, for example:
 
 * Decentralization vs. centralization of development processes.
 * Employment of iterative processes to reduce risks.
@@ -93,39 +107,44 @@ Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Doku
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
 [[LG-5-02]]
-==== LG 5-02: Identify, select and apply approaches to improve source code
+==== LG 5-02: Improve source code
 
-* Know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
-* Better use of technology or use better technology (change of technology).
-* Explain the connection between technical debts and refactoring.
-* Know and be able to assess measures and patterns to reduce coupling at source code level.
-* Know measures and patterns to make source code more comprehensible, e.g., Clean Code principles.
+See also <<LG-2-06>>.
+
+Software architects should:
+
+* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
+* know how to improve use of technology or how to introduce better technology (change of technology).
+* know and be able to assess measures and patterns to reduce coupling at source code level.
+* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
+
 
 [[LG-5-03]]
-==== LG 5-03: Identify, select and apply approaches for automated testing to reduce risks of change
+==== LG 5-03: Identify, select, and apply automation options to reduce change risks
 
-* Know how to apply automated tests (unit-, integration-, acceptance-, regression-tests) as a means of early detection of defects in change or improvement projects.
-* Being able to identify adequate locations/interfaces/components where the introduction of automated tests will be suitable for specific change scenarios.
+Software architects should, for example:
+
+* be able to design and implement automated tests (unit, integration, acceptance, regression tests) as a means of early detection of errors after changes,
+* be able to recognize where (e.g., interfaces or components) automated tests are appropriate or necessary,
+* be familiar with other automation methods that can systematically reduce change risks and effort, for example: 
+** Continuous integration
+** Continuous delivery
+** Model-driven development/generative development
+** Infrastructure-as-code
+** Docs-as-code
+** Diagrams-as-code
+
 
 [[LG-5-04]]
-==== LG 5-04: Identify, select and apply automation to reduce risks of changes
-
-Know further methodical and technical means of automation that may help to reduce risk and required efforts of changes, such as:
-
-* Continuous integration
-* Continuous delivery
-* Model-driven development/generative development
-
-[[LG-5-05]]
-==== LG 5-05: Identify, select and apply patterns or approaches to improve issues related to coupling
+==== LG 5-04: Identify, select and apply patterns or approaches to improve issues related to coupling
 
 Software architects:
 * know typical patterns or approaches to reduce internal coupling and can apply these (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
 * understand their impact (effects and side-effects), possibly by using appropriate tools.
 
 
-[[LG-5-06]]
-==== LG 5-06: Identify, select and apply approaches to address issues with application data and databases
+[[LG-5-05]]
+==== LG 5-05: Identify, select and apply approaches to address issues with application data and databases
 
 See <<LG-2-09>>.
 
@@ -143,18 +162,18 @@ Software architects know the challenges of:
 * versioning of data structures and data.
 
 
-[[LG-5-07]]
-==== LG 5-07: Identify, select and apply technology-specific approaches to improve issues related to runtime behavior 
+[[LG-5-06]]
+==== LG 5-06: Identify, select and apply technology-specific approaches to improve issues related to runtime behavior 
 
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
-[[LG-5-08]]
-==== LG 5-08: Identify, select and apply approaches to improve issues related to operation processes
+[[LG-5-07]]
+==== LG 5-07: Identify, select and apply approaches to improve issues related to operation processes
 
 (Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
 
-[[LG-5-09]]
-==== LG 5-09: Identify, select and apply approaches to improve issues related to documentation or documentation processes
+[[LG-5-08]]
+==== LG 5-08: Identify, select and apply approaches to improve issues related to documentation or documentation processes
 
 Know and be able to apply basic options for systematic improvement of technical documentation, such as:
 
