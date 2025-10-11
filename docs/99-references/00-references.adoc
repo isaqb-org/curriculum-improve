@@ -82,6 +82,10 @@
 
 - [[[Q42, Q42]]] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online https://quality.arc42.org
 
+**S**
+
+
+- [[[starke-debt,Starke 2025]]] Gernot Starke: Technical and other Debt in IT Systems - A Broad Perspective. Blogpost, online https://www.innoq.com/en/articles/2025/07/technical-and-other-debt-in-it/
 
 **T**
 
