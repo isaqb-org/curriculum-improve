@@ -46,7 +46,7 @@ See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 [[LZ-1-03]]
 ==== LZ 1-03: Kernbegriffe für Softwareevolution und -änderung
 
-Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-2>>)erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
+Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-02>>) erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
 Hierzu gehören insbesondere:
 
 * Verstehen, dass "Schulden” im Zusammenhang mit IT-Systemen eine Metapher und kein wirkliches Finanzkonstrukt sind. 
@@ -128,6 +128,17 @@ See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-03]]
 ==== LG 1-03: Core terms of software evolution and -change
+
+Software architects can explain the concept of “technical and organizational debt” (see <<LG-1-02>>) and, in particular, differentiate it from the concept of debt in economics and finance.
+This includes, in particular:
+
+* Understanding that “debt” in the context of IT systems is a metaphor and not a real financial construct. 
+* Debt in economics and finance has clearly defined (in some cases legally regulated) mechanisms:
+** a predefined quantified amount (i.e., quantified _amount of debt_),
+** formalized roles and responsibilities (creditor, debtor),
+** agreed interest and repayment plans (i.e., repayment of debt defined in advance)
+** formal legal and accounting treatment
+
 
 Software architects can differentiate and explain additional core terms of software evolution and change, for example:
 
