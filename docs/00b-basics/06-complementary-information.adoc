@@ -7,7 +7,7 @@ Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe 
 [discrete]
 === Helfen Sie uns, diesen Lehrplan zu verbessern
 
-Sie finden die neueste Version dieses Dokuments online (https://public.isaqb.org/curriculum-improve/), wo Sie gerne Feedback und Verbesserungsvorschläge geben können.
+Sie finden die neueste Version dieses Dokuments online (https://public.isaqb.org/curriculum-improve/), wo Sie gerne Feedback  geben können.
 // end::DE[]
 
 // tag::EN[]

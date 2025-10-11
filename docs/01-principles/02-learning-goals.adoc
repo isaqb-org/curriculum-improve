@@ -20,7 +20,7 @@
 [[LZ-1-02]]
 ==== LZ 1-02: Typische Problemkategorien von IT-Systemen
 
-Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-2>>) und benennen können, beispielsweise:
+Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-02>>) und benennen können, beispielsweise:
 
 * Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, übermässige Redundanz
 * Strukturelle Probleme in Daten oder Datenstrukturen
@@ -41,14 +41,25 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 ** Probleme aufgrund von fehlendem Wissen, fehlender oder mangelhafter Dokumentation,
 ** Probleme in Kommunikation mit/zwischen Stakeholdern
 
+See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LZ-1-03]]
 ==== LZ 1-03: Kernbegriffe für Softwareevolution und -änderung
 
-Kernbegriffe von Evolution und Änderung von Software:
+Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-2>>)erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
+Hierzu gehören insbesondere:
+
+* Verstehen, dass "Schulden” im Zusammenhang mit IT-Systemen eine Metapher und kein wirkliches Finanzkonstrukt sind. 
+* Schulden in Wirtschaft und Finanzen besitzen klar definierte (z.T. gesetzlich geregelte) Mechanismen:
+** einen vorab definierten quantifizierten Betrag (d.h. quantifizierte _Höhe der Schulden_),
+** formalisierte Rollen und Verantwortlichkeiten (Gläubiger, Schuldner),
+** vereinbarte Zins- und Tilgungspläne (d.h. Rückführung der Schulden vorab definiert)
+** formale rechtliche und buchhalterische Behandlung
+
+Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -änderung und -verbesserung differenzieren und erklären, beispielsweise:
 
 * Problem (Issue)
-* Lösungsansatz (Opportunity for Improvement)
+* Lösungsansatz (Möglichkeit zur Verbesserung)
 * Kosten (von Problemen, Lösungsansätzen, Maßnahmen)
 * Ursachen (Root cause) versus Symptom
 * Risiko
@@ -61,9 +72,13 @@ Beispielsweise:
 * Ad-hoc Verbesserung, einmalige Verbesserung
 * Schrittweise Verbesserung (mittel- bis langfristig angelegt)
 * Verbesserung durch Neuentwicklung (Rewrite) eines Systems oder Teilen davon
-* Rein strukturelle Verbesserungen (Refactoring)
-* Konzeptionelle/strukturelle Verbesserung (Re-Architecting, Reengineering)
+* Rein strukturelle Verbesserungen-im-Kleinen (Refactoring)
+* Konzeptionelle/strukturelle Verbesserung-im-Großen (Re-Architecting, Reengineering, Restrukturierung)
+
+Für weitere Details siehe Kapitel <<section-improvements>>.
+
 // end::DE[]
+
 
 // tag::EN[]
 === {learning-goals}
@@ -88,7 +103,7 @@ Beispielsweise:
 [[LG-1-02]]
 ==== LG 1-02: Typical problem categories of IT systems
 
-Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-2>>), for example:
+Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-02>>), for example:
 
 * Conceptual weaknesses, such as violation of conceptual integrity, excessive redundancy
 * Structural problems in data or data structures
@@ -109,11 +124,12 @@ Software architects should be able to recognize and identify various types of te
 ** Problems due to lack of knowledge, missing or inadequate documentation
 ** Problems in communication with/between stakeholders
 
+See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-03]]
 ==== LG 1-03: Core terms of software evolution and -change
 
-Core terms of software evolution and change:
+Software architects can differentiate and explain additional core terms of software evolution and change, for example:
 
 * Problem (issue)
 * Solution approach (opportunity for improvement)
@@ -131,6 +147,9 @@ For example:
 * Improvement by newly developed system or system parts (rewrite)
 * Purely structural improvements (refactoring)
 * Conceptual/structural improvements (re-architecting, reengineering)
+
+For further details, see section <<section-improvements>>.
+
 // end::EN[]
 
 
