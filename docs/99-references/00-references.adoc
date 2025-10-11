@@ -1,31 +1,13 @@
-// header file for curriculum section "References"
-// (c) iSAQB e.V. (https://isaqb.org)
-// ===============================================
-
 [bibliography]
 == {references}
 
-// tag::DE[]
-Dieser Abschnitt enthält Verweise auf deutschsprachige Referenzen, auf denen viele Ideen des Lehrplans beruhen.
-
-**L**
-
-- [[[lilienthalddt,Lilienthal+ 2023]]] Carola Lilienthal, Henning Schwentner: Domain-Driven Transformation: Monolithen und Microservices zukunftsfähig machen. dpunkt.verlag. 2023.
-
-Nachfolgend sind weitere genutzte, englischsprachige Referenzen aufgeführt.
-// end::DE[]
-
-// This sentence is just relevant for the English version of the curriculum.
-// tag::EN[]
-This section contains the references where many ideas of the curriculum are based on.
-// end::EN[]
-
-// This section should be part of the German and the English curriculum. That's why this section isn't wrapped with EN[] tags.
 
 **A**
 
 - [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
 - [[[amblersadalage,Ambler+2006]]] Scott Ambler, Pramod Sadalage: Refactoring Databases - Evolutionary Database Design, Addison-Wesley, 2006. Companion website: https://databaserefactoring.com/ (despite its age, the content is still valid in modern DB environments))
+
+- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
 
 **B**
@@ -48,6 +30,9 @@ This section contains the references where many ideas of the curriculum are base
 
 - [[[fowler,Fowler+ 2019]]] Martin Fowler with Kent Beck: Refactoring: Improving the Design of Existing Code. Addison-Wesley, 2019.
 
+**I**
+
+- [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
 
 **K**
 
@@ -64,6 +49,8 @@ This section contains the references where many ideas of the curriculum are base
 - [[[lemaire,Lemaire 2020]]] Maude Lemaire: Refactoring At Scale: Regaining Control of Your Codebase. O'Reilly, 2020.
 
 - [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt.verlag, 2019.
+
+- [[[lilienthalddt,Lilienthal+ 2023]]] Carola Lilienthal, Henning Schwentner: Domain-Driven Transformation: Monolithen und Microservices zukunftsfähig machen. dpunkt Verlag, 2023 (in German).
 
 - [[[lippert,Lippert+ 2007]]] Martin Lippert, Stefan Roock: Refactoring in Large Software Projects: Performing Complex Restructurings Successfully. Wiley, 2007.
 
@@ -83,6 +70,10 @@ This section contains the references where many ideas of the curriculum are base
 **P**
 
 - [[[pacheco,Pacheco+ 2023]]] Diego Pacheco, Sam Sgro: Principles of Software Architecture Modernization: Delivering engineering excellence with the art of fixing microservices, monoliths, and distributed monoliths. BPB Publications, 2023.
+
+**Q**
+
+- [[[Q42, Q42]]] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online https://quality.arc42.org
 
 
 **T**
