@@ -52,7 +52,7 @@ Hierzu gehören insbesondere:
 
 * Verstehen, dass "Schulden” im Zusammenhang mit IT-Systemen eine Metapher und kein wirkliches Finanzkonstrukt sind. 
 * Schulden in Wirtschaft und Finanzen besitzen klar definierte (z.T. gesetzlich geregelte) Mechanismen:
-** einen vorab definierten quantifizierten Betrag (d.h. quanitifizierte _Höhe der Schulden_),
+** einen vorab definierten quantifizierten Betrag (d.h. quantifizierte _Höhe der Schulden_),
 ** formalisierte Rollen und Verantwortlichkeiten (Gläubiger, Schuldner),
 ** vereinbarte Zins- und Tilgungspläne (d.h. Rückführung der Schulden vorab definiert)
 ** formale rechtliche und buchhalterische Behandlung
