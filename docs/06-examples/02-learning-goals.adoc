@@ -1,24 +1,24 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-6-01]]
-==== LZ 6-01: Beispiele für Probleme/Risiken in IT-Systemen
+==== LZ 6-01: Nachvollziehen von Problemen und Risiken anhand von Beispielen
 
-Anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Systems erkennen und nachvollziehen können.
+Softwarearchitekt:innen können anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Systems erkennen und nachvollziehen.
 
 Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
 
 [[LZ-6-02]]
-==== LZ 6-02: Bewertung von Problemen/Risiken
+==== LZ 6-02: Bewerten von Problemen/Risiken anhand von Beispielen
 
 Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösungsansätzen nachvollziehen können.
 
 [[LZ-6-03]]
-==== LZ 6-03: Mittel- bis langfristige Planung eines Verbesserungsprojektes
+==== LZ 6-03: Planen von  Verbesserungsvorhaben anhand von Beispielen
 
 Anhand konkreter Beispiele die (kurz-, mittel- und/oder langfristige) Planung eines Verbesserungsprojektes kennenlernen und nachvollziehen können.
 
 [[LZ-6-04]]
-==== LZ 6-04: Verbesserungsmaßnahmen eines realen Systems
+==== LZ 6-04: Vorschlagen von Verbesserungsmaßnahmen anhand von Beispielen
 
 Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaßnahmen kennenlernen und nachvollziehen können.
 // end::DE[]
@@ -27,26 +27,24 @@ Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaß
 === {learning-goals}
 
 [[LG-6-01]]
-==== LG 6-01: Examples of problems/risks in IT systems
+==== LG 6-01: Understanding problems and risks based upon examples
 
-Being able to identify and understand problems and risks of a medium/large IT system using concrete examples.
+Software architects can understand problems and risks of a medium/large IT system using concrete examples.
 
 Therefore, the training should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
 
 [[LG-6-02]]
-==== LG 6-02: Evaluation of problems/risks
+==== LG 6-02: Evaluate problems and solution approaches based upon examples
 
-Understand the assessment (evaluation) of problems or approaches to solutions by means of concrete examples.
+Understand the assessment (evaluation) of problems or approaches to solutions by means of specific examples.
 
 [[LG-6-03]]
-==== LG 6-03: Medium- to long term planning of an improvement project
+==== LG 6-03: Plan improvements based upon examples
 
-Get to know and understand the (short-, medium- and/or long-term) planning of an improvement project by means of concrete examples.
+Get to know and understand the (short-, medium- and/or long-term) planning of an improvement project by means of specific examples.
 
 [[LG-6-04]]
-==== LG 6-04: Improvement measures of a real-life system
+==== LG 6-04: Propose improvement measures based upon examples
 
-Get to know and understand the possible or implemented improvement measures based on concrete examples.
+Get to know and understand the possible or implemented improvement measures based on specific examples.
 // end::EN[]
-
-
