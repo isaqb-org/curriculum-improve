@@ -1,14 +1,14 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-2-01]]
-==== LZ 2-01: Grundlagen der Analyse zur Trennung von „Problem“ und „Lösung“
+==== LZ 2-01: Unterscheiden zwischen Problemanalyse und Lösungsfindung
 
 * Problemanalyse begrifflich von Problemlösung trennen
 * Problem und Lösungsansatz in m:n Verhältnis einander zuordnen
-* Komplexe Probleme in Teilprobleme zerlegen
+* Große oder komplizierte Probleme in Teilprobleme zerlegen
 
 [[LZ-2-02]]
-==== LZ 2-02: Typische Praktiken und Methoden zur Ist-Analyse
+==== LZ 2-02: Auswählen und Anwenden von Praktiken zur Ist-Analyse
 
 Softwarearchitekt:innen kennen typische Praktiken der Ist-Analyse und können für die jeweilige Situation, das Budget, die Zeit bzw. die Beteiligten angemessene auswählen und anwenden.
 
@@ -35,13 +35,13 @@ Dieses Lernziel korrespondiert zu <<LZ-1-02>>.
 
 
 [[LZ-2-03]]
-==== LZ 2-03: Gefundene Probleme und Risiken methodisch dokumentieren
+==== LZ 2-03: Dokumentieren von Analyseergebnissen, Problemen und Risiken
 
 * Softwarearchitekt:innen sollen in der Lage sein, im Rahmen von Verbesserungs- und Veränderungsprozessen eine angemessene Dokumentation gefundener Probleme (Issues) und Risiken aufzusetzen
 * Sie kennen Werkzeuge und Beispiele für solche Dokumentation
 
 [[LZ-2-04]]
-==== LZ 2-04: Stakeholderanalyse und -interviews
+==== LZ 2-04: Durchführen von Stakeholder-Analysen und -Interviews
 
 Softwarearchitekt:innen können:
 
@@ -51,7 +51,7 @@ Softwarearchitekt:innen können:
 * Situativ im Verlauf von Interviews spezifisch auf sich ergebende neue Sachverhalte eingehen und diese in die Analyse einbeziehen
 
 [[LZ-2-05]]
-==== LZ 2-05: Kontextanalyse
+==== LZ 2-05: Analysieren des Systemkontexts und externer Schnittstellen
 
 Softwarearchitekt:innen können:
 
@@ -60,20 +60,20 @@ Softwarearchitekt:innen können:
 * Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
 [[LZ-2-06]]
-==== LZ 2-06: Code- und Strukturanalyse
+==== LZ 2-06:Durchführen statischer Code- und Strukturanalyse
 
 Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
 (Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
 
 [[LZ-2-07]]
-==== LZ 2-07: Grundlegende Laufzeitanalysen
+==== LZ 2-07: Durchführen von Laufzeitanalysen zur Bewertung des Systemverhaltens
 
 Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. 
 (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
 
 [[LZ-2-08]]
-==== LG Z-08: Quantitative Analyse mit Metriken
+==== LZ-2-08: Erheben und anwenden von Metriken zur quantitativen Systemanalyse
 
 Softwarearchitekten können:
 
@@ -92,7 +92,7 @@ Zu diesen Metriken gehören:
 (Hinweis: Nicht alle Metriken müssen während der Schulungen ausführlich behandelt werden.)
 
 [[LZ-2-09]]
-==== LZ 2-09: Analyse von Anwendungsdaten
+==== LZ 2-09: Analysieren von Anwendungsdaten
 
 Softwarearchitekten können Anwendungsdaten analysieren, um datenbezogene Probleme, Datenqualitätsprobleme und entsprechendeVerbesserungsmöglichkeiten zu identifizieren.
 
@@ -108,7 +108,7 @@ Sie kennen potenzielle Ursachen für datenbezogene Probleme, zum Beispiel:
 
 
 [[LZ-2-10]]
-==== LZ 2-10: Prozessanalyse
+==== LZ 2-10: Analysieren technischer und organisatorischer Prozesse
 
 Softwarearchitekten können organisatorische und technische Prozesse analysieren, um Ineffizienzen, Engpässe und Verbesserungspotenziale zu identifizieren.
 
@@ -124,14 +124,14 @@ Dazu gehören:
 === {learning-goals}
 
 [[LG-2-01]]
-==== LG 2-01: Basics of the analysis to distinguish “problem” from “solution”
+==== LG 2-01: Distinguish between problem analysis and solution finding
 
 * Distinguish between “analyzing problems” and “solving problems”
 * Form m:n relation between problems and solution approaches
-* Decomposition of complex problems
+* Decompose large or complicated problems into parts
 
 [[LG-2-02]]
-==== LG 2-02: Typical practices and methods for as-is analysis
+==== LG 2-02: Select and apply practices for as-is analysis
 
 Software architects Know typical practices for as-is analysis and are able to choose and apply the appropriate method in each situation according to budget, time or the involved stakeholders. 
 
@@ -157,13 +157,13 @@ This includes approaches such as:
 This learning goal corresponds to <<LG-1-02>>.
 
 [[LG-2-03]]
-==== LG 2-03: Methodically document identified problems and risks
+==== LG 2-03: Document analysis results, problems, and risks
 
 * Software architects shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
 * They know tools and examples for documenting problems.
 
 [[LG-2-04]]
-==== LG 2-04: Stakeholder analysis and interviews
+==== LG 2-04: Conduct stakeholder analyses and interviews
 
 Software architects are able to:
 
@@ -173,7 +173,7 @@ Software architects are able to:
 * react flexibly to new relevant information obtained during interviews; incorporate these in the analysis.
 
 [[LG-2-05]]
-==== LG 2-05: Context analysis
+==== LG 2-05: Analyze the system context and external interfaces
 
 Software architects are able to:
 * define and document context of systems: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
@@ -181,13 +181,13 @@ Software architects are able to:
 * elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
 
 [[LG-2-06]]
-==== LG 2-06: Code and structural analysis
+==== LG 2-06: Perform static code and structural analysis
 
 Software architects are able to perform and document (static) analysis of existing source code and its structure.
 (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 
 [[LG-2-07]]
-==== LG 2-07: Fundamental runtime analysis
+==== LG 2-07: Perform runtime analyses to evaluate system behavior
 
 
 Software architects are able to plan and perform dynamic/runtime analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response. 
@@ -196,7 +196,7 @@ Software architects are able to plan and perform dynamic/runtime analysis of exi
 
 
 [[LG-2-08]]
-==== LG 2-08: Quantitative analysis with metrics
+==== LG 2-08: Collect and apply metrics for quantitative system analysis
 
 Software architects are able to:
 
@@ -217,7 +217,7 @@ Such metrics include:
 
 
 [[LG-2-09]]
-==== LG 2-09: Analysis of application data
+==== LG 2-09: Analyze application data
 
 Software architects are able to analyze application data to identify data-related problems, data quality issues, and improvement opportunities.
 
@@ -232,7 +232,7 @@ They know potential sources of data-related problems, for example:
 * technical issues with respect to database systems or other persistence mechanisms
 
 [[LG-2-10]]
-==== LG 2-10: Process analysis
+==== LG 2-10: Analyze technical and organizational processes
 
 Software architects are able to analyze organizational and technical processes to identify inefficiencies, bottlenecks, and improvement potentials.
 
