@@ -1,7 +1,7 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-1-01]]
-==== LZ 1-01: Gründe für Veränderungen an Software
+==== LZ 1-01: Identifizieren und bewerten von Änderungstreibern in Softwaresystemen
 
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
@@ -18,7 +18,7 @@
 * Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
 
 [[LZ-1-02]]
-==== LZ 1-02: Typische Problemkategorien von IT-Systemen
+==== LZ 1-02: Erkennen und klassifizieren technischer und organisatorischer Defizite
 
 Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-02>>) und benennen können, beispielsweise:
 
@@ -44,7 +44,7 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LZ-1-03]]
-==== LZ 1-03: Kernbegriffe für Softwareevolution und -änderung
+==== LZ 1-03: Differenzieren zwischen Problemen, Ursachen und Lösungsansätzen
 
 Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-02>>) erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
 Hierzu gehören insbesondere:
@@ -65,7 +65,7 @@ Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -ä
 * Risiko
 
 [[LZ-1-04]]
-==== LZ 1-04: Mögliche Vorgehensweisen bei Änderungen
+==== LZ 1-04: Differenzieren möglicher Verbesserungsstrategien für IT-Systeme
 
 Beispielsweise:
 
@@ -84,7 +84,7 @@ Für weitere Details siehe Kapitel <<section-improvements>>.
 === {learning-goals}
 
 [[LG-1-01]]
-==== LG 1-01: Reasons for software changes
+==== LG 1-01: Identify and evaluate drivers for software changes
 
 * Extending and changing features
 * Change in quality requirements and goals
@@ -101,7 +101,7 @@ Für weitere Details siehe Kapitel <<section-improvements>>.
 * Update of applied technology such as operating systems, middleware, libraries, frameworks, hardware or similar.
 
 [[LG-1-02]]
-==== LG 1-02: Typical problem categories of IT systems
+==== LG 1-02: Recognize and classify technical and organizational deficits
 
 Software architects should be able to recognize and identify various types of technical and organizational deficits (_debts_) (see <<LG-2-02>>), for example:
 
@@ -127,7 +127,7 @@ Software architects should be able to recognize and identify various types of te
 See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-03]]
-==== LG 1-03: Core terms of software evolution and -change
+==== LG 1-03: Differentiate between problems, root causes, and solutions
 
 Software architects can explain the concept of “technical and organizational debt” (see <<LG-1-02>>) and, in particular, differentiate it from the concept of debt in economics and finance.
 This includes, in particular:
@@ -149,7 +149,7 @@ Software architects can differentiate and explain additional core terms of softw
 * Risk
 
 [[LG-1-04]]
-==== LG 1-04: Possible approaches for changes
+==== LG 1-04: Differentiate types of improvement strategies for IT systems
 
 For example:
 
