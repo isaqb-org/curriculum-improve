@@ -67,7 +67,7 @@ Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und 
 
 
 [[LZ-2-07]]
-==== LZ 2-07: GDurchführen von Laufzeitanalysen zur Bewertung des Systemverhaltens
+==== LZ 2-07: Durchführen von Laufzeitanalysen zur Bewertung des Systemverhaltens
 
 Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. 
 (Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
