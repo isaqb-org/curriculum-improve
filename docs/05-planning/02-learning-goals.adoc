@@ -1,5 +1,30 @@
 // tag::DE[]
 === {learning-goals}
+
+[[LZ-5-00]]
+==== LZ 5-00: Entwickeln einer Verbesserungsstrategie
+
+Softwarearchitekt:innen sollten:
+
+* Geschäftsziele verstehen und Verbesserungen darauf ausrichten.
+* Zukünftige Herausforderungen (Änderungen, Wachstum, Extremsituationen, Trends, Marktentwicklung, ...) im Blick haben und in der Verbesserungsstrategie berücksichtigen.
+* Entscheidungsträger auf langfristige Verbesserungsprozesse vorbereiten, indem sie diese einbinden und über Ziele, Nutzen, Risiken, Hindernisse und Konsequenzen informieren und deren Zustimmung einholen.
+* Durch Stakeholder-Management und mit kollaborativer Architekturarbeit Verständnis und ein Netz von Unterstützer:innen für Verbesserungen aufbauen.
+* Werkzeuge kennen, mit denen eine Verbesserungsstrategie entwickelt werden kann, z. B.
+** Architekturprinzipien (z. B. nach <<openGroup>>)
+** Wardley Maps (siehe <<hiredThought>> und <<tune>>)
+** Core Domain Charts (siehe <<dddCrew>> und <<tune>>)
+** Nordstern (siehe <<geeks>> und <<tune>>)
+* Aus den strategischen Überlegungen einen Plan entwickeln, der folgende Grundsätze befolgt (nach <<aim>>):
+** Strebe nach schnellem und häufigem Feedback
+** Führe Verbesserungen iterativ durch
+** Teste Verbesserungen mit Prototypen
+** Teste nach jeder Änderung
+** Reduziere Komplexität
+** Kommuniziere Annahmen explizit
+** Gruppiere Verbesserungsmaßnahmen
+
+
 [[LZ-5-01]]
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
@@ -36,6 +61,29 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 === {learning-goals}
+
+[[LG-5-00]]
+==== LG 5-00: Develop an improvement strategy
+
+Software architects should:
+
+* Understand business objectives and align improvements with them.
+* Watch for upcoming challenges (changes, growth, extreme situations, trends, market developments, etc.) and take them into account in the improvement strategy.
+* Prepare decision-makers for long-term improvement processes by involving them, informing them about goals, benefits, risks, obstacles, and consequences, and obtaining their commitment.
+* Build understanding and a network of supporters for improvements through stakeholder management and collaborative architecture work.
+* Be familiar with tools that can be used to develop an improvement strategy, e.g.
+** Architecture principles (e.g. according to <<openGroup>>)
+** Wardley Maps (see <<hiredThought>> and <<tune>>)
+** Core Domain Charts (see <<dddCrew>> and <<tune>>)
+** North Star (see <<geeks>> and <<tune>>)
+* Develop a plan based on strategic considerations that follows these principles (according to <<aim>>):
+** Strive for rapid and frequent feedback
+** Implement improvements iteratively
+** Test improvements with prototype
+** Test after every change
+** Reduce complexity
+** Communicate assumptions explicitly
+** Group improvement.
 
 [[LG-5-01]]
 ==== LG 5-01: Represent evaluated problems and solution approaches using appropriate tools
