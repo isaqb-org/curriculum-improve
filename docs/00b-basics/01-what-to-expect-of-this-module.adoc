@@ -5,6 +5,8 @@ Teilnehmende lernen hier, Softwaresysteme und -architekturen anhand ökonomische
 Dazu vermitteln entsprechende Schulungen die systematische Trennung von Problemen und Lösungsansätzen, das Erarbeiten von kurz-/mittel- und langfristigen Lösungsstrategien sowie deren Abgleich mit betriebswirtschaftlichen Zielen und Größen.
 Zusätzlich zeigt der IMPROVE-Lehrplan typische Ansätze für Verbesserungen auf, beispielsweise Restrukturierungen und Refactoring, Verbesserungen der Analysierbarkeit, Prozessverbesserung, Verbesserung an technischer Infrastruktur, Verbesserung von Qualitätseigenschaften, etc.
 
+image::curriculum-structure-EN.drawio.png[structure of the curriculum, width=1000,align=center]
+
 // end::DE[]
 
 // tag::EN[]
@@ -14,17 +16,18 @@ Participants learn to methodically improve software systems and architectures, g
 The training imparts the systematic separation of problem and solution, the elaboration of short-, mid- and long-term solution strategies as well as their alignment with business goals and measures.
 In addition, the IMPROVE curriculum teaches typical approaches of improvement, e.g., restructuring and refactoring, improving analyzability, process improvement, improvement of technical infrastructure, improvement of quality attributes, etc.
 
+image::curriculum-structure-EN.drawio.png[structure of the curriculum, pdfwidth=60%, width=600,align=center]
 
-Here’s a concise “navigational map” of the **iSAQB® IMPROVE Curriculum**, summarizing each section.
+Here’s a concise “navigational map” of the curriculum, summarizing each section.
 
-====  01 – Principles: Foundations and Terminology
+====  01 – Foundations and Terminology
 
 This section introduces the core concepts of software evolution, maintenance, and technical debt. 
 It helps to identify drivers for change, classify technical and organizational deficits, distinguish between causes and symptoms, and recognize improvement strategies. 
 This foundation builds a shared language for continuous improvement.
 
 
-==== 02 – Analyze Current State
+==== 02 – Analyzing the Current State
 
 Focuses on analyzing (_diagnosing_) existing systems before acting. 
 Distinguish problem analysis from solution finding. 
@@ -32,27 +35,27 @@ Apply various analysis methods to identify problems and risks and document these
 The goal is to build a comprehensive, evidence-based understanding of where and why improvements are needed.
 
 
-==== 03 – Evaluate: Estimate and Assess Problems and Solutions
+==== 03 – Evaluating Problems and Solutions
 
 This section connects findings with business reasoning. 
 It introduces a few economic metrics (ROI, CAPEX/OPEX, break-even) and estimation techniques to assess the _severeness_ of problems ans risks. 
 The goal is to support improvement decisions through quantifiable, context-aware evaluation.
 
-==== 04 – Planning of Improvements
+==== 04 – Planning Improvements
 
 Covers how to develop and communicate a sustainable improvement strategy. 
 Align long-term initiatives with business goals, visualize dependencies, and balance rewrite versus continuous improvement options. 
 Emphasis lies on iterative planning, stakeholder engagement, and strategy communication.
 
-==== 05 – Typical Approaches to Improvement
+==== 05 – Approaches and Practices for Improvement
 
 Details specific and concrete approaches (patterns, strategies, tactics) for implementing change. 
 This includes optimizing processes, improving code and databases, reducing coupling and change risk through automation, enhancing runtime behavior, and refining documentation. 
 The goal is a practical toolbox for executing improvement strategies.
 
-==== 06 – Examples of Improvement
+==== 06 – Examples
 
-Concludes the curriculum by applying all previous sections to real or representative case studies. 
+Concludes the curriculum by demonstrating real or representative case studies. 
 
 
 // end::EN[]
