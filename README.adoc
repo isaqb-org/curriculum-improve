@@ -1,31 +1,44 @@
 = https://isaqb.org[iSAQB] Curriculum for the CPSA-advanced Module IMPROVE
-
 :toc:
-:toc-placement!:
+:toclevels: 3
+:toc-title: Table of Contents
 
-== Update 2025
+== Content
+This repository contains the AsciiDoc sources of the curriculum for the iSAQB Advanced Level "IMPROVE".
 
-For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
+This is <<copyrighted,copyrighted work>>.
+
 
 == Status
-image:https://github.com/isaqb-org/curriculum-improve/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
+image:https://github.com/isaqb-org/curriculum-improve/actions/workflows/build_main.yml/badge.svg["CI/Release"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-improve/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Issues",link="https://github.com/isaqb-org/curriculum-improve/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-improve/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
-This is <<copyrighted,copyrighted work>>.
+=== Version history
 
-== Content
-This repository contains the AsciiDoc sources of the curriculum for the iSAQB Advanced Level "IMPROVE".
+(summarizing changes, although no release was published between 2019 and 2025)
 
-toc::[]
+[cols="1,1,5"]
+|===
+| Version | Date | Comments
+
+| 2025.1  | 2025 | Major refinement of Learning Goals (LGs), revising content (improvement strategy, tech debt, databases, metrics). >80 commits.
+| | 2024  | A significant German version was added. LGs were enhanced to focus on management support and funding. More time was allocated to "estimate and assess" chapters. About 60 commits.
+| | 2020-2023 | Support for internationalization (i18n) and translations. Some learning goals were merged. First German content. In total, about 150 commits. 
+| 1.6.1-EN  | 2019 | first release, English only
+|===
+
+
+For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
 
 == How to contribute or participate
-Create an issue, a merge- or pull-request
+Create an issue, a merge- or pull-request.
 
-== How to use this template
+
+== How to build
 
 . Clone the repository - including the submodule:
 +
@@ -46,9 +59,11 @@ git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
 ** the output formats called `backends` (pdf and/or html5);
 ** the document version.
 
-== How to contribute or participate
-Create an issue, a merge- or pull-request
 
+== How to contribute or participate
+Create an issue, a merge- or pull-request here!
+
+For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
