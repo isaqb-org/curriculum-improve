@@ -62,8 +62,9 @@ Kernbegriffe von Evolution und Änderung von Software:
 ** In der Regel als Reaktion auf ein unmittelbares Problem.
 
 * Refactoring (lokale strukturelle Verbesserung)
-** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des externen Verhaltens, 
-** mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
+** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens. 
+** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht. 
+** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
 ** Wird oft proaktiv durchgeführt.
 
 * Inkrementelle oder kontinuierliche Verbesserung, _evolutionäre Veränderung_
@@ -146,9 +147,10 @@ Core terms of software evolution and change:
 ** Usually done as reaction to immediate problem
 
 * Refactoring (local structural improvement)
-** Focused restructuring of code or architecture without changing external behavior, 
-** aiming to improve clarity, reduce complexity, or isolate changes.
-** often done proactively
+** Focused restructuring of code or architecture without changing behavior. 
+** Scientifically defined (by <<opdyke>>) and defined for a broad audience, primarily by <<fowler>> and <<refactoring>>, following structured, defined, reproducible and invertable sets of operations,
+** aiming to improve clarity, reduce complexity, or isolate changes,
+** often done proactively.
 
 * Incremental or Continuous Improvement, _evolutionary change_
 ** Stepwise, ongoing improvement activities embedded in regular development

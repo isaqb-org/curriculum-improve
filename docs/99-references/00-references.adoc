@@ -66,6 +66,9 @@
 
 - [[[newman,Newman 2019]]] Sam Newman: Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith. O'Reilly, 2019.
 
+**O**
+
+- [[[opdyke,Opdyke]]] William Opdyke: Refactoring Object-Oriented Framdworks. 1992. Groundwork for the notion of _refactoring_. http://www.laputan.org/pub/papers/opdyke-thesis.pdf.
 
 **P**
 
@@ -75,6 +78,10 @@
 
 - [[[Q42, Q42]]] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online https://quality.arc42.org
 
+**R**
+
+- [[[refactoring, Refactoring-Catalog]]] The Refactoring Catalog (lead by Martin Fowler):online https://refactoring.com/catalog/
+- 
 
 **T**
 
