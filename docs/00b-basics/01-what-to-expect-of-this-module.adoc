@@ -5,7 +5,7 @@ Teilnehmende lernen hier, Softwaresysteme und -architekturen anhand ökonomische
 Dazu vermitteln entsprechende Schulungen die systematische Trennung von Problemen und Lösungsansätzen, das Erarbeiten von kurz-/mittel- und langfristigen Lösungsstrategien sowie deren Abgleich mit betriebswirtschaftlichen Zielen und Größen.
 Zusätzlich zeigt der IMPROVE-Lehrplan typische Ansätze für Verbesserungen auf, beispielsweise Restrukturierungen und Refactoring, Verbesserungen der Analysierbarkeit, Prozessverbesserung, Verbesserung an technischer Infrastruktur, Verbesserung von Qualitätseigenschaften, etc.
 
-image::curriculum-structure-EN.drawio.png[structure of the curriculum, width=1000,align=center]
+image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
 // end::DE[]
 
