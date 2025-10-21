@@ -42,7 +42,7 @@ Create an issue, a merge- or pull-request.
 
 . Clone the repository - including the submodule:
 +
---
+
 [source,shell]
 ----
 Via SSH:
@@ -51,16 +51,22 @@ git clone git@github.com:isaqb-org/curriculum-improve.git --recursive
 Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
 ----
---
+
 
 . Build it with gradle via `./gradle-tools/gradlew buildDocs`.
 . Look into the file `build.gradle` to see what attributes you may configure. Watch for:
 ** the `language` attribute, either `DE` (German) or `EN` (English);
 ** the output formats called `backends` (pdf and/or html5);
 ** the document version.
+ 
+== Diagrams, Graphics
+Diagrams (e.g. the structural overview) have been created using the platform-neutral and free `drawio` tool (available at https://diagrams.net[diagrams.net]).
 
+In case you want to edit the diagram, install the appropriate extension/plugin for your IDE (VS-Code recommended).
+That will recognize the double-extension (`.drawio.png`) and open the visual editor for that file.
 
 == How to contribute or participate
+
 Create an issue, a merge- or pull-request here!
 
 For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
