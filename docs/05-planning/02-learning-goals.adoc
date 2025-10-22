@@ -1,7 +1,7 @@
 // tag::DE[]
 === {learning-goals}
-[[LZ-4-01]]
-==== LZ 4-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
+[[LZ-5-01]]
+==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
 Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Problemen und Lösungsansätzen kennen und situationsangemessen auswählen – beispielsweise:
 
@@ -9,8 +9,8 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 * Tabellen oder
 * Datenbanken
 
-[[LZ-4-02]]
-==== LZ 4-02: Auswählen und kommunizieren methodischer Verbesserungsansätze
+[[LZ-5-02]]
+==== LZ 5-02: Auswählen und kommunizieren methodischer Verbesserungsansätze
 
 * Typische Ansätze für Verbesserung kennen, beispielsweise:
 
@@ -26,8 +26,8 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 
 * Diese Ansätze für langfristige Verbesserung an unterschiedliche Stakeholder kommunizieren und argumentieren.
 
-[[LZ-4-03]]
-==== LZ 4-03: Abwägen der Effekte von „Rewrite" gegenüber „kontinuierlicher Verbesserung“
+[[LZ-5-03]]
+==== LZ 5-03: Abwägen der Effekte von „Rewrite" gegenüber „kontinuierlicher Verbesserung“
 
 Softwarearchitekt:innen:
 * Können die Effekte (Risiken, Vorteile) der Ansätze „komplette Neuentwicklung (Rewrite, _Big Bang_)“ gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren.
@@ -37,8 +37,8 @@ Softwarearchitekt:innen:
 // tag::EN[]
 === {learning-goals}
 
-[[LG-4-01]]
-==== LG 4-01: Represent evaluated problems and solution approaches using appropriate tools
+[[LG-5-01]]
+==== LG 5-01: Represent evaluated problems and solution approaches using appropriate tools
 
 Know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose the appropriate for the given situation. Examples:
 
@@ -46,8 +46,8 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 * Tables
 * Databases.
 
-[[LG-4-02]]
-==== LG 4-02: Select and communicate methodical improvement approaches
+[[LG-5-02]]
+==== LG 5-02: Select and communicate methodical improvement approaches
 
 * Know typical methods for improvement, e.g.,:
 
@@ -63,8 +63,8 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 
 * Communicate and argue approaches to long-term improvement  to different stakeholders.
 
-[[LG-4-03]]
-==== LG 4-03: Weigh the effects of “rewrite” versus “continuous improvement”
+[[LG-5-03]]
+==== LG 5-03: Weigh the effects of “rewrite” versus “continuous improvement”
 
 Software architects:
 * Can assess and argue the impact (risks, benefits) of a “complete rewrite” (_big bang_) approach in contrast to a “continuous improvement” approach in each situation.
