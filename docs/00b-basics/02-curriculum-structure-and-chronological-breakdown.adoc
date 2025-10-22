@@ -21,13 +21,13 @@
 | 90
 | 30
 
-| 4. Verbesserungen langfristig planen
-| 90
-| 60
-
-| 5. Typische Verbesserungsansätze
+| 4. Typische Verbesserungsansätze
 | 180
 | 120
+
+| 5. Verbesserungen langfristig planen
+| 90
+| 60
 
 | 6. Beispiele für Verbesserung
 | 60
@@ -66,13 +66,13 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 | 90
 | 30
 
-| 4. Long term improvement planning
-| 90
-| 60
-
-| 5. Typical improvement approaches
+| 4. Typical improvement approaches
 | 180
 | 120
+
+| 5. Long term improvement planning
+| 90
+| 60
 
 | 6. Improvement examples
 | 60

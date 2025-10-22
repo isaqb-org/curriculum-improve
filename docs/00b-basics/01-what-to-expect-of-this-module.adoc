@@ -41,17 +41,18 @@ This section connects findings with business reasoning.
 It introduces a few economic metrics (ROI, CAPEX/OPEX, break-even) and estimation techniques to assess the _severeness_ of problems ans risks. 
 The goal is to support improvement decisions through quantifiable, context-aware evaluation.
 
-==== 04 – Planning Improvements
+==== 04 – Approaches and Practices for Improvement
+
+Details specific and concrete approaches (patterns, strategies, tactics) for implementing change. 
+This includes optimizing processes, improving code and databases, reducing coupling and change risk through automation, enhancing runtime behavior, and refining documentation. 
+The goal is a practical toolbox for executing improvement strategies.
+
+==== 05 – Planning Improvements
 
 Covers how to develop and communicate a sustainable improvement strategy. 
 Align long-term initiatives with business goals, visualize dependencies, and balance rewrite versus continuous improvement options. 
 Emphasis lies on iterative planning, stakeholder engagement, and strategy communication.
 
-==== 05 – Approaches and Practices for Improvement
-
-Details specific and concrete approaches (patterns, strategies, tactics) for implementing change. 
-This includes optimizing processes, improving code and databases, reducing coupling and change risk through automation, enhancing runtime behavior, and refining documentation. 
-The goal is a practical toolbox for executing improvement strategies.
 
 ==== 06 – Examples
 
