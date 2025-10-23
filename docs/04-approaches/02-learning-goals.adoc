@@ -1,7 +1,7 @@
 // tag::DE[]
 === {learning-goals}
-[[LZ-5-01]]
-==== LZ 5-01: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
+[[LZ-4-01]]
+==== LZ 4-01: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
 
 Siehe auch <<LZ-2-10>>.
 
@@ -13,20 +13,9 @@ Hierzu zählen beispielsweise:
 * Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
 
 
-[[LZ-5-02]]
-==== LZ 5-02: Verbessern von  Quellcode
 
-Siehe auch <<LZ-2-06>>.
-
-Softwarearchitekt:innen sollten:
-
-* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
-* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
-* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
-
-[[LZ-5-03]]
-==== LZ 5-03: Reduzieren von Änderungsrisiken durch Automatisierung
+[[LZ-4-02]]
+==== LZ 4-02: Reduzieren von Änderungsrisiken durch Automatisierung
 
 Softwarearchitekt:innen sollten beispielsweise:
 
@@ -40,17 +29,31 @@ Softwarearchitekt:innen sollten beispielsweise:
 ** Docs-As-Code
 ** Diagrams-As-Code
 
+[[LZ-4-03]]
+==== LZ 4-03: Verbessern von  Quellcode
 
-[[LZ-5-04]]
-==== LZ 5-04: Reduzieren von Kopplung innerhalb von Systemen
+Siehe auch <<LZ-2-06>>.
+
+Softwarearchitekt:innen sollten:
+
+* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
+* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
+* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
+
+[[LZ-4-04]]
+==== LZ 4-04: Reduzieren von Kopplung innerhalb von Systemen
 
 Softwarearchitekt:innen:
 
-* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität)
+* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise 
+** Modularisierung/Komponentenbildung, 
+** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), 
+** zeitliche Entkopplung über Asynchronität
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
-[[LZ-5-05]]
-==== LZ 5-05: Lösen von daten- und datenbank-bezogenen Problemen
+[[LZ-4-05]]
+==== LZ 4-05: Lösen von daten- und datenbank-bezogenen Problemen
 
 Siehe <<LZ-2-09>>.
 
@@ -68,18 +71,18 @@ Softwarearchitekt:innen kennen die Herausforderungen von:
 * Versionierung von Datenstrukturen und Daten.
 
 
-[[LZ-5-06]]
-==== LZ 5-06: Verbessern des Laufzeitverhaltens von Systemen
+[[LZ-4-06]]
+==== LZ 4-06: Verbessern des Laufzeitverhaltens von Systemen
 
 Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-07]]
-==== LZ 5-07: Verbessern der Betreibbarkeit von Systemen
+[[LZ-4-07]]
+==== LZ 4-07: Verbessern der Betreibbarkeit von Systemen
 
 (Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-5-08]]
-==== LZ 5-08: Verbessern der technischen Dokumentation
+[[LZ-4-08]]
+==== LZ 4-08: Verbessern der technischen Dokumentation
 
 Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation und können diese anwenden, beispielsweise:
 
@@ -94,8 +97,8 @@ Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Ve
 // tag::EN[]
 === {learning-goals}
 
-[[LG-5-01]]
-==== LG 5-01: Optimize development processes using suitable measures
+[[LG-4-01]]
+==== LG 4-01: Optimize development processes using suitable measures
 
 See also <<LG-2-10>>.
 
@@ -106,21 +109,9 @@ These include, for example:
 * Reduce idle times and buffers to accelerate development processes.
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
-[[LG-5-02]]
-==== LG 5-02: Improve source code
 
-See also <<LG-2-06>>.
-
-Software architects should:
-
-* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
-* know how to improve use of technology or how to introduce better technology (change of technology).
-* know and be able to assess measures and patterns to reduce coupling at source code level.
-* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
-
-
-[[LG-5-03]]
-==== LG 5-03: Reduce change risks through automation
+[[LG-4-02]]
+==== LG 4-02: Reduce change risks through automation
 
 Software architects should, for example:
 
@@ -134,17 +125,33 @@ Software architects should, for example:
 ** Docs-as-code
 ** Diagrams-as-code
 
+[[LG-4-03]]
+==== LG 4-03: Improve source code
 
-[[LG-5-04]]
-==== LG 5-04: Reduce coupling within systems
+See also <<LG-2-06>>.
+
+Software architects should:
+
+* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
+* know how to improve use of technology or how to introduce better technology (change of technology).
+* know and be able to assess measures and patterns to reduce coupling at source code level.
+* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
+
+
+[[LG-4-04]]
+==== LG 4-04: Reduce coupling within systems
 
 Software architects:
-* know typical patterns or approaches to reduce internal coupling and can apply these (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
+
+* know typical patterns or approaches to reduce internal coupling and can apply these (e.g.:
+** modularization/component building, 
+** decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, 
+** decoupling by asynchronous communication
 * understand their impact (effects and side-effects), possibly by using appropriate tools.
 
 
-[[LG-5-05]]
-==== LG 5-05: Solve data- and database-related problems
+[[LG-4-05]]
+==== LG 4-05: Solve data- and database-related problems
 
 See <<LG-2-09>>.
 
@@ -162,18 +169,18 @@ Software architects know the challenges of:
 * versioning of data structures and data.
 
 
-[[LG-5-06]]
-==== LG 5-06: Improve runtime behavior of systems
+[[LG-4-06]]
+==== LG 4-06: Improve runtime behavior of systems
 
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
-[[LG-5-07]]
-==== LG 5-07: Improve system operability using suitable practices
+[[LG-4-07]]
+==== LG 4-07: Improve system operability using suitable practices
 
 (Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
 
-[[LG-5-08]]
-==== LG 5-08:  Improve technical documentation 
+[[LG-4-08]]
+==== LG 4-08:  Improve technical documentation 
 
 Software architects know fundamental options for systematic improvement of technical documentation and can apply these, such as:
 
