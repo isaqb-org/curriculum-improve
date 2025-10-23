@@ -43,10 +43,10 @@ include::02-analyze/00-structure.adoc[{include_configuration}]
 include::03-evaluate/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-planning/00-structure.adoc[{include_configuration}]
+include::04-approaches/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-approaches/00-structure.adoc[{include_configuration}]
+include::05-planning/00-structure.adoc[{include_configuration}]
 
 <<<
 include::06-examples/00-structure.adoc[{include_configuration}]
