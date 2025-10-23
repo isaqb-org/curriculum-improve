@@ -7,6 +7,48 @@ Zusätzlich zeigt der IMPROVE-Lehrplan typische Ansätze für Verbesserungen auf
 
 image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
+
+Hier finden Sie eine übersichtliche „Navigationskarte” des Lehrplans, in der jeder Abschnitt zusammengefasst ist.
+
+====  01 – Grundlagen und Terminologie
+
+Dieser Abschnitt stellt die Kernkonzepte der Softwareevolution und -wartung sowie den Begriff der technischen (und anderer) Schulden vor. 
+Er hilft dabei, Triebkräfte für Veränderungen zu identifizieren, technische und organisatorische Defizite zu klassifizieren, zwischen Ursachen und Symptomen zu unterscheiden und Verbesserungsstrategien zu erkennen. 
+Diese Grundlagen schaffen eine gemeinsame Sprache für kontinuierliche Verbesserungen.
+
+
+==== 02 – Analyse des aktuellen Zustands
+
+Der Schwerpunkt liegt auf der Analyse (Diagnose) bestehender Systeme, bevor Maßnahmen ergriffen werden. 
+Sie unterscheiden zwischen Problemanalyse und Lösungsfindung. 
+Sie erlernen verschiedene Analysemethoden anzuwenden, um Probleme und Risiken verschiedener Kategorien zu identifizieren, und dokumentieren Sie diese Ergebnisse angemessen. 
+Das Ziel ist es, ein umfassendes, evidenzbasiertes Verständnis dafür zu entwickeln, wo und warum Verbesserungen erforderlich sind.
+
+
+==== 03 – Bewertung von Problemen und Lösungen
+
+Dieser Abschnitt verbindet die Ergebnisse der Analyse mit wirtschaftlichen/geschäftlichen Überlegungen. 
+Er stellt einige wirtschaftliche Kennzahlen (ROI, CAPEX/OPEX, Break-even) und Schätzverfahren vor, um die _Schwere_ von Problemen und Risiken zu bewerten. 
+Das Ziel besteht darin, Verbesserungsentscheidungen durch quantifizierbare, kontextbezogene Bewertungen zu unterstützen.
+
+==== 04 – Ansätze und Praktiken zur Verbesserung
+
+Beschreibt spezifische und konkrete Ansätze (Muster, Strategien, Taktiken) zur Verbesserungen. 
+Dazu gehören die Optimierung von Prozessen, die Verbesserung von Code und Datenbanken, die Reduzierung von Kopplungs- und Änderungsrisiken durch Automatisierung, die Verbesserung des Laufzeitverhaltens und die Verfeinerung der Dokumentation. 
+Das Ziel ist ein methodischer Werkzeugkasten von Verbesserungsmaßnahmen.
+
+==== 05 – Planung von Verbesserungen
+
+Behandelt die Entwicklung und Kommunikation einer nachhaltigen Verbesserungsstrategie. 
+Langfristige Initiativen werden auf die Geschäftsziele abgestimmt, Abhängigkeiten visualisiert und unterschiedliche Ansätze gegeneinander abgewogen. 
+Der Schwerpunkt liegt auf iterativer Planung, Einbindung von Stakeholdern und strategischer Kommunikation.
+
+
+==== 06 – Beispiele
+
+Rundet das Thema durch Vorstellung realer oder repräsentativer Fallstudien ab. 
+
+
 // end::DE[]
 
 // tag::EN[]
@@ -22,7 +64,7 @@ Here’s a concise “navigational map” of the curriculum, summarizing each se
 
 ====  01 – Foundations and Terminology
 
-This section introduces the core concepts of software evolution, maintenance, and technical debt. 
+This section introduces the core concepts of software evolution, maintenance, and technical (and other) debt. 
 It helps to identify drivers for change, classify technical and organizational deficits, distinguish between causes and symptoms, and recognize improvement strategies. 
 This foundation builds a shared language for continuous improvement.
 
@@ -31,7 +73,7 @@ This foundation builds a shared language for continuous improvement.
 
 Focuses on analyzing (_diagnosing_) existing systems before acting. 
 Distinguish problem analysis from solution finding. 
-Apply various analysis methods to identify problems and risks and document these findings appropriately. 
+You learn to apply various analysis methods to identify problems and risks or various categories, and document these findings appropriately. 
 The goal is to build a comprehensive, evidence-based understanding of where and why improvements are needed.
 
 
@@ -43,20 +85,20 @@ The goal is to support improvement decisions through quantifiable, context-aware
 
 ==== 04 – Approaches and Practices for Improvement
 
-Details specific and concrete approaches (patterns, strategies, tactics) for implementing change. 
+Details specific and concrete approaches (patterns, strategies, tactics) for improvements. 
 This includes optimizing processes, improving code and databases, reducing coupling and change risk through automation, enhancing runtime behavior, and refining documentation. 
-The goal is a practical toolbox for executing improvement strategies.
+The goal is a methodical toolbox for improvement approaches and practices.
 
 ==== 05 – Planning Improvements
 
 Covers how to develop and communicate a sustainable improvement strategy. 
-Align long-term initiatives with business goals, visualize dependencies, and balance rewrite versus continuous improvement options. 
+Align long-term initiatives with business goals, visualize dependencies, and balance various options. 
 Emphasis lies on iterative planning, stakeholder engagement, and strategy communication.
 
 
 ==== 06 – Examples
 
-Concludes the curriculum by demonstrating real or representative case studies. 
+Concludes the topic by demonstrating real or representative case studies. 
 
 
 // end::EN[]
