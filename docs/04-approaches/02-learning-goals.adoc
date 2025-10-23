@@ -13,20 +13,9 @@ Hierzu zählen beispielsweise:
 * Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
 
 
+
 [[LZ-4-02]]
-==== LZ 4-02: Verbessern von  Quellcode
-
-Siehe auch <<LZ-2-06>>.
-
-Softwarearchitekt:innen sollten:
-
-* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
-* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
-* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
-
-[[LZ-4-03]]
-==== LZ 4-03: Reduzieren von Änderungsrisiken durch Automatisierung
+==== LZ 4-02: Reduzieren von Änderungsrisiken durch Automatisierung
 
 Softwarearchitekt:innen sollten beispielsweise:
 
@@ -40,6 +29,17 @@ Softwarearchitekt:innen sollten beispielsweise:
 ** Docs-As-Code
 ** Diagrams-As-Code
 
+[[LZ-4-03]]
+==== LZ 4-03: Verbessern von  Quellcode
+
+Siehe auch <<LZ-2-06>>.
+
+Softwarearchitekt:innen sollten:
+
+* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und anwenden können.
+* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
+* Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
 
 [[LZ-4-04]]
 ==== LZ 4-04: Reduzieren von Kopplung innerhalb von Systemen
@@ -109,21 +109,9 @@ These include, for example:
 * Reduce idle times and buffers to accelerate development processes.
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
+
 [[LG-4-02]]
-==== LG 4-02: Improve source code
-
-See also <<LG-2-06>>.
-
-Software architects should:
-
-* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
-* know how to improve use of technology or how to introduce better technology (change of technology).
-* know and be able to assess measures and patterns to reduce coupling at source code level.
-* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
-
-
-[[LG-4-03]]
-==== LG 4-03: Reduce change risks through automation
+==== LG 4-02: Reduce change risks through automation
 
 Software architects should, for example:
 
@@ -136,6 +124,18 @@ Software architects should, for example:
 ** Infrastructure-as-code
 ** Docs-as-code
 ** Diagrams-as-code
+
+[[LG-4-03]]
+==== LG 4-03: Improve source code
+
+See also <<LG-2-06>>.
+
+Software architects should:
+
+* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
+* know how to improve use of technology or how to introduce better technology (change of technology).
+* know and be able to assess measures and patterns to reduce coupling at source code level.
+* know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
 
 
 [[LG-4-04]]
