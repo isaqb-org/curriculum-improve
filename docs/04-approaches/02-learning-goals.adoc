@@ -29,6 +29,7 @@ Softwarearchitekt:innen sollten beispielsweise:
 ** Docs-As-Code
 ** Diagrams-As-Code
 
+
 [[LZ-4-03]]
 ==== LZ 4-03: Verbessern von  Quellcode
 
@@ -51,6 +52,7 @@ Softwarearchitekt:innen:
 ** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), 
 ** zeitliche Entkopplung über Asynchronität
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
+
 
 [[LZ-4-05]]
 ==== LZ 4-05: Lösen von daten- und datenbank-bezogenen Problemen
@@ -124,6 +126,7 @@ Software architects should, for example:
 ** Infrastructure-as-code
 ** Docs-as-code
 ** Diagrams-as-code
+
 
 [[LG-4-03]]
 ==== LG 4-03: Improve source code
