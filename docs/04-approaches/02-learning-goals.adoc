@@ -46,7 +46,10 @@ Softwarearchitekt:innen sollten beispielsweise:
 
 Softwarearchitekt:innen:
 
-* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden (beispielsweise Modularisierung/Komponentenbildung, Entkopplung über Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), zeitliche Entkopplung über Asynchronität)
+* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise 
+** Modularisierung/Komponentenbildung, 
+** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), 
+** zeitliche Entkopplung über Asynchronität
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
 [[LZ-4-05]]
@@ -139,7 +142,11 @@ Software architects should, for example:
 ==== LG 4-04: Reduce coupling within systems
 
 Software architects:
-* know typical patterns or approaches to reduce internal coupling and can apply these (e.g., modularization/component building, decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, decoupling of control flow with asynchronous invocation).
+
+* know typical patterns or approaches to reduce internal coupling and can apply these (e.g.:
+** modularization/component building, 
+** decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, 
+** decoupling by asynchronous communication
 * understand their impact (effects and side-effects), possibly by using appropriate tools.
 
 
