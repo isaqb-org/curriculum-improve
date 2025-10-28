@@ -67,15 +67,30 @@ Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -ä
 [[LZ-1-04]]
 ==== LZ 1-04: Differenzieren möglicher Verbesserungsstrategien für IT-Systeme
 
-Beispielsweise:
 
-* Ad-hoc Verbesserung, einmalige Verbesserung
-* Schrittweise Verbesserung (mittel- bis langfristig angelegt)
-* Verbesserung durch Neuentwicklung (Rewrite) eines Systems oder Teilen davon
-* Rein strukturelle Verbesserungen-im-Kleinen (Refactoring)
-* Konzeptionelle/strukturelle Verbesserung-im-Großen (Re-Architecting, Reengineering, Restrukturierung)
+* Ad-hoc- oder einmalige Verbesserungen:
+** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
+** In der Regel als Reaktion auf ein unmittelbares Problem.
 
-Für weitere Details siehe Kapitel <<section-improvements>>.
+* Refactoring (lokale strukturelle Verbesserung)
+** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens. 
+** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht. 
+** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
+** Wird oft proaktiv durchgeführt.
+
+* Inkrementelle oder kontinuierliche Verbesserung, _evolutionäre Veränderung_
+** Schrittweise, fortlaufende Verbesserungsmaßnahmen, eingebettet in reguläre Entwicklung.
+** Zielt oft auf interne Qualität und Wartbarkeit ab.
+** Umfang oft auf lokaler oder Subsystemebene.
+** Kleine, kumulative Schritte.
+
+* Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
+** Größere Neugestaltung grundlegender Strukturen, Konzepten oder Mustern, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen
+** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft
+** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie
+
+* Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
+** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme oder geänderte Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
 
 // end::DE[]
 
@@ -151,15 +166,29 @@ Software architects can differentiate and explain additional core terms of softw
 [[LG-1-04]]
 ==== LG 1-04: Differentiate types of improvement strategies for IT systems
 
-For example:
+* Ad-hoc or One-time Improvements:
+** Small, situational fixes applied without a systematic plan, typically to remove an acute pain point or urgent defect
+** Usually done as reaction to immediate problem
 
-* Ad-hoc improvement, one-off improvement
-* Stepwise improvement (mid- to long-term)
-* Improvement by newly developed system or system parts (rewrite)
-* Purely structural improvements (refactoring)
-* Conceptual/structural improvements (re-architecting, reengineering)
+* Refactoring (local structural improvement)
+** Focused restructuring of code or architecture without changing behavior. 
+** Scientifically defined (by <<opdyke>>) and defined for a broad audience, primarily by <<fowler>> and <<refactoring>>, following structured, defined, reproducible and invertable sets of operations,
+** aiming to improve clarity, reduce complexity, or isolate changes,
+** often done proactively.
 
-For further details, see section <<section-improvements>>.
+* Incremental or Continuous Improvement, _evolutionary change_
+** Stepwise, ongoing improvement activities embedded in regular development
+** often targeting internal quality and maintainability
+** Scope often on local or subsystem level
+** small, cumulative steps
+
+* Conceptual or Architectural Rework (Re-Architecting / Reengineering), _transformational change_
+** Larger-scale redesign of architectural structures, concepts, or patterns to restore conceptual integrity or align with new requirements
+** Scope often on system-level or cross-cutting redesign affecting core concepts, or technology stack
+** substantial change to architectural principles, component structures, or runtime topology
+
+* Replacement or Redevelopment (Rewrite, sometimes called _big bang_)
+** Creating a new system or subsystem when accumulated debt, conceptual decay, or changed requirements make incremental improvement uneconomical.
 
 // end::EN[]
 
