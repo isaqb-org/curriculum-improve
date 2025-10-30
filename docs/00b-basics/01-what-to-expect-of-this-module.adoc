@@ -39,7 +39,7 @@ Das Ziel ist ein methodischer Werkzeugkasten von Verbesserungsmaßnahmen.
 
 ==== 05 – Planung von Verbesserungen
 
-Behandelt die Entwicklung und Kommunikation einer nachhaltigen Verbesserungsstrategie. 
+Behandelt die Planung und Kommunikation nachhaltiger Verbesserungsstrategien. 
 Langfristige Initiativen werden auf die Geschäftsziele abgestimmt, Abhängigkeiten visualisiert und unterschiedliche Ansätze gegeneinander abgewogen. 
 Der Schwerpunkt liegt auf iterativer Planung, Einbindung von Stakeholdern und strategischer Kommunikation.
 
@@ -72,14 +72,14 @@ This foundation builds a shared language for continuous improvement.
 ==== 02 – Analyzing the Current State
 
 Focuses on analyzing (_diagnosing_) existing systems before acting. 
-Distinguish problem analysis from solution finding. 
+You distinguish problem analysis from solution finding. 
 You learn to apply various analysis methods to identify problems and risks or various categories, and document these findings appropriately. 
 The goal is to build a comprehensive, evidence-based understanding of where and why improvements are needed.
 
 
 ==== 03 – Evaluating Problems and Solutions
 
-This section connects findings with business reasoning. 
+This section connects the results of the analysis with business reasoning. 
 It introduces a few economic metrics (ROI, CAPEX/OPEX, break-even) and estimation techniques to assess the _severeness_ of problems ans risks. 
 The goal is to support improvement decisions through quantifiable, context-aware evaluation.
 
@@ -91,7 +91,7 @@ The goal is a methodical toolbox for improvement approaches and practices.
 
 ==== 05 – Planning Improvements
 
-Covers how to develop and communicate a sustainable improvement strategy. 
+Covers how to planp and communicate sustainable improvement strategies. 
 Align long-term initiatives with business goals, visualize dependencies, and balance various options. 
 Emphasis lies on iterative planning, stakeholder engagement, and strategy communication.
 
