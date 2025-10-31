@@ -3,9 +3,13 @@
 [[LZ-2-01]]
 ==== LZ 2-01: Unterscheiden zwischen Problemanalyse und Lösungsfindung
 
+Softwarearchitekt:innen können: 
+
 * Problemanalyse begrifflich von Problemlösung trennen
 * Problem und Lösungsansatz in m:n Verhältnis einander zuordnen
-* Große oder komplizierte Probleme in Teilprobleme zerlegen
+* große oder komplizierte Probleme in Teilprobleme zerlegen
+
+Die begrifflichen Voraussetzungen hierfür schafft <<LZ-1-03>>.
 
 [[LZ-2-02]]
 ==== LZ 2-02: Auswählen und Anwenden von Praktiken zur Ist-Analyse
@@ -126,9 +130,13 @@ Dazu gehören:
 [[LG-2-01]]
 ==== LG 2-01: Distinguish between problem analysis and solution finding
 
-* Distinguish between “analyzing problems” and “solving problems”
-* Form m:n relation between problems and solution approaches
-* Decompose large or complicated problems into parts
+Software architects are able to:
+
+* distinguish between “analyzing problems” and “solving problems”
+* map problems and solution approaches with m:n relations to each other
+* decompose large or complicated problems into parts
+
+Terminological prerequisites are given by <<LG-1-03>>.
 
 [[LG-2-02]]
 ==== LG 2-02: Select and apply practices for as-is analysis
