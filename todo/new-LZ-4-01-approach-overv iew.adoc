@@ -1,0 +1,23 @@
+
+[[LZ-4-00]]
+==== LZ 4-00: Auswählen und erklären langfristiger Verbesserungsansätze 
+
+Softwarearchitekt:innen kennen typische Ansätze (Muster, Methoden) für langfristige (strategische) Verbesserung von Systemen und Systementwicklung.
+Sie können diese Ansätze methodisch und anhand von Beispielen erklären sowie spezifische Vor-/Nachteile sowie Risiken erläutern. 
+
+Hierzu zählen beispielsweise:
+
+* Rewrite (komplette Neuschreibung / _Big Bang_)
+* Langfristige schrittweise oder kontinuierliche Verbesserung, etwa durch:
+** Strangler-Fig-Pattern (schrittweise Verbesserung, _Application Strangulation_)
+** _Branch-by-Abstraction_
+** Anti-Corruption-Layer
+
+* Verkleinerung (_brainsizing_) bestehender Systeme, etwa durch:
+** Extraktion (Abtrennung) fachlicher und/oder technischer Teile
+** Entfernen nicht mehr benötigter Systemteile
+* Kapselung (lokalisierbarer) Probleme oder Risiken, etwa durch Muster wie Wrapper, Adapter, Gateway oder Proxy
+* _Parallel-Run_, um die Resultate bestehender und neuer System(-teile) vergleichen zu können.
+* Feature-Toggles
+* Blue-Green Deployment
+* Canary Releases

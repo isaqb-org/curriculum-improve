@@ -10,28 +10,10 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 * Datenbanken
 
 [[LZ-5-02]]
-==== LZ 5-02: Auswählen und kommunizieren methodischer Verbesserungsansätze
+==== LZ 5-02: Verbesserungspläne an Stakeholder kommunizieren und begründen
 
-* Typische Ansätze für Verbesserung kennen, beispielsweise:
+Softwarearchitekt:innen können diese Ansätze für langfristige Verbesserung an unterschiedliche Stakeholder kommunizieren und argumentieren.
 
-** Langfristige kontinuierliche Verbesserung
-** Verbesserungs-Releases
-** Application-Strangulation
-** Kapselung (lokalisierbarer) Probleme oder Risiken in Blackboxes
-** Extraktion fachlicher Teile, Abtrennung technischer Teile
-** Schrittweise Ablösung problembehafteter Systemteile
-** Rewrite
-** Outsourcing
-** Business Process Reengineering.
-
-* Diese Ansätze für langfristige Verbesserung an unterschiedliche Stakeholder kommunizieren und argumentieren.
-
-[[LZ-5-03]]
-==== LZ 5-03: Abwägen der Effekte von „Rewrite" gegenüber „kontinuierlicher Verbesserung“
-
-Softwarearchitekt:innen:
-* Können die Effekte (Risiken, Vorteile) der Ansätze „komplette Neuentwicklung (Rewrite, _Big Bang_)“ gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren.
-* Verstehen, dass mangelnde Kenntnis von Details (wie etwa Anforderungen, Details von Algorithmen und Prozessen, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten, betriebliche Prozesse) häufig die Option „Rewrite“ einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details wäre.
 // end::DE[]
 
 // tag::EN[]
@@ -47,26 +29,8 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 * Databases.
 
 [[LG-5-02]]
-==== LG 5-02: Select and communicate methodical improvement approaches
+==== LG 5-02: Communicate and justify improvement plans to stakeholders
 
-* Know typical methods for improvement, e.g.,:
+Software architects are able to communicate and justify these approaches to long-term improvement to different stakeholders.
 
-** Long-term continuous improvement,
-** Improving releases,
-** Application strangling,
-** Encapsulation of (localized) problems or risks in black-boxes,
-** Extraction of business aspects, separation of technical aspects,
-** Incremental replacement of problematic parts of system,
-** Rewrite,
-** Outsourcing,
-** Business process reengineering.
-
-* Communicate and argue approaches to long-term improvement  to different stakeholders.
-
-[[LG-5-03]]
-==== LG 5-03: Weigh the effects of “rewrite” versus “continuous improvement”
-
-Software architects:
-* Can assess and argue the impact (risks, benefits) of a “complete rewrite” (_big bang_) approach in contrast to a “continuous improvement” approach in each situation.
-* Understand that lack of details knowledge (e.g., requirements, details of algorithms and processes, quality scenarios, implementation details, technical dependencies, operational processes) often leads to the “rewrite” approach looking simpler as it would be when considering all the details.
 // end::EN[]

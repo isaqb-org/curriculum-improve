@@ -1,7 +1,43 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-4-01]]
-==== LZ 4-01: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
+==== LZ 4-01: Verbesserungsansätze auf Problem und Kontext abstimmen
+
+Softwarearchitekt:innen kennen und unterscheiden verschiedene Verbesserungsansätze und können für einen gegebenen Kontext geeignete  auswählen. 
+Zu diesen Ansätzen gehören:
+
+* Ad-hoc- oder einmalige Verbesserungen:
+** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
+** In der Regel als Reaktion auf ein unmittelbares Problem.
+
+* Refactoring (lokale strukturelle Verbesserung)
+** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens.
+** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht.
+** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
+** Wird oft proaktiv durchgeführt.
+
+* Inkrementelle oder kontinuierliche Verbesserung, _evolutionäre Veränderung_
+** Schrittweise, fortlaufende Verbesserungsmaßnahmen, eingebettet in reguläre Entwicklung.
+** Zielt oft auf interne Qualität und Wartbarkeit ab.
+** Umfang oft auf lokaler oder Subsystemebene.
+** Kleine, kumulative Schritte.
+** Beispiele: Application Strangler, schrittweise Ablösung.
+
+* Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
+** Größere Neugestaltung grundlegender Strukturen, Konzepten oder Mustern, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen
+** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft
+** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie
+** Beispiele: Kapselung von Problemen, Extraktion fachlicher Teile.
+
+* Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
+** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme oder geänderte Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
+
+* Organisatorische Ansätze
+** Business Process Reengineering
+** Outsourcing
+
+[[LZ-4-02]]
+==== LZ 4-02: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
 
 Siehe auch <<LZ-2-10>>.
 
@@ -14,14 +50,14 @@ Hierzu zählen beispielsweise:
 
 
 
-[[LZ-4-02]]
-==== LZ 4-02: Reduzieren von Änderungsrisiken durch Automatisierung
+[[LZ-4-03]]
+==== LZ 4-03: Reduzieren von Änderungsrisiken durch Automatisierung
 
 Softwarearchitekt:innen sollten beispielsweise:
 
 * automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können,
 * erkennen können, an welchen Stellen (etwa: Schnittstellen oder Komponenten) automatisierte Tests angemessen oder notwendig sind,
-* weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise: 
+* weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
 ** Continuous Integration
 ** Continuous Delivery
 ** Model-driven Development/Generative Development
@@ -30,8 +66,8 @@ Softwarearchitekt:innen sollten beispielsweise:
 ** Diagrams-As-Code
 
 
-[[LZ-4-03]]
-==== LZ 4-03: Verbessern von  Quellcode
+[[LZ-4-04]]
+==== LZ 4-04: Verbessern von  Quellcode
 
 Siehe auch <<LZ-2-06>>.
 
@@ -42,22 +78,22 @@ Softwarearchitekt:innen sollten:
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
 * Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
 
-[[LZ-4-04]]
-==== LZ 4-04: Reduzieren von Kopplung innerhalb von Systemen
+[[LZ-4-05]]
+==== LZ 4-05: Reduzieren von Kopplung innerhalb von Systemen
 
 Softwarearchitekt:innen:
 
-* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise 
-** Modularisierung/Komponentenbildung, 
-** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway), 
+* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise
+** Modularisierung/Komponentenbildung,
+** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway),
 ** zeitliche Entkopplung über Asynchronität
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
 
-[[LZ-4-05]]
-==== LZ 4-05: Lösen von daten- und datenbank-bezogenen Problemen
+[[LZ-4-06]]
+==== LZ 4-06: Lösen von daten- und datenbank-bezogenen Problemen
 
-Siehe <<LZ-2-09>>.
+Siehe auch <<LZ-2-09>>.
 
 Beispiele für solche Ansätze sind:
 
@@ -73,18 +109,18 @@ Softwarearchitekt:innen kennen die Herausforderungen von:
 * Versionierung von Datenstrukturen und Daten.
 
 
-[[LZ-4-06]]
-==== LZ 4-06: Verbessern des Laufzeitverhaltens von Systemen
+[[LZ-4-07]]
+==== LZ 4-07: Verbessern des Laufzeitverhaltens von Systemen
 
 Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-4-07]]
-==== LZ 4-07: Verbessern der Betreibbarkeit von Systemen
+[[LZ-4-08]]
+==== LZ 4-08: Verbessern der Betreibbarkeit von Systemen
 
 (Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
 
-[[LZ-4-08]]
-==== LZ 4-08: Verbessern der technischen Dokumentation
+[[LZ-4-09]]
+==== LZ 4-09: Verbessern der technischen Dokumentation
 
 Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation und können diese anwenden, beispielsweise:
 
@@ -100,7 +136,43 @@ Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Ve
 === {learning-goals}
 
 [[LG-4-01]]
-==== LG 4-01: Optimize development processes using suitable measures
+==== LG 4-01: Match Improvement Approaches to Problem and Context
+
+Software architects know and can differentiate various improvement approaches, and can select appropriately for a given context. 
+These approaches include:
+
+* Ad-hoc or One-time Improvements:
+** Small, situational fixes applied without a systematic plan, typically to remove an acute pain point or urgent defect
+** Usually done as reaction to immediate problem
+
+* Refactoring (local structural improvement)
+** Focused restructuring of code or architecture without changing behavior.
+** Scientifically defined (by <<opdyke>>) and defined for a broad audience, primarily by <<fowler>> and <<refactoring>>, following structured, defined, reproducible and invertable sets of operations,
+** aiming to improve clarity, reduce complexity, or isolate changes,
+** often done proactively.
+
+* Incremental or Continuous Improvement, _evolutionary change_
+** Stepwise, ongoing improvement activities embedded in regular development
+** often targeting internal quality and maintainability
+** Scope often on local or subsystem level
+** small, cumulative steps
+** Examples: Application Strangler, incremental replacement.
+
+* Conceptual or Architectural Rework (Re-Architecting / Reengineering), _transformational change_
+** Larger-scale redesign of architectural structures, concepts, or patterns to restore conceptual integrity or align with new requirements
+** Scope often on system-level or cross-cutting redesign affecting core concepts, or technology stack
+** substantial change to architectural principles, component structures, or runtime topology
+** Examples: Encapsulation of problems, extraction of business aspects.
+
+* Replacement or Redevelopment (Rewrite, sometimes called _big bang_)
+** Creating a new system or subsystem when accumulated debt, conceptual decay, or changed requirements make incremental improvement uneconomical.
+
+* Organizational Approaches
+** Business Process Reengineering
+** Outsourcing
+
+[[LG-4-02]]
+==== LG 4-02: Optimize development processes using suitable measures
 
 See also <<LG-2-10>>.
 
@@ -112,14 +184,14 @@ These include, for example:
 * Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
 
-[[LG-4-02]]
-==== LG 4-02: Reduce change risks through automation
+[[LG-4-03]]
+==== LG 4-03: Reduce change risks through automation
 
 Software architects should, for example:
 
 * be able to design and implement automated tests (unit, integration, acceptance, regression tests) as a means of early detection of errors after changes,
 * be able to recognize where (e.g., interfaces or components) automated tests are appropriate or necessary,
-* be familiar with other automation methods that can systematically reduce change risks and effort, for example: 
+* be familiar with other automation methods that can systematically reduce change risks and effort, for example:
 ** Continuous integration
 ** Continuous delivery
 ** Model-driven development/generative development
@@ -128,8 +200,8 @@ Software architects should, for example:
 ** Diagrams-as-code
 
 
-[[LG-4-03]]
-==== LG 4-03: Improve source code
+[[LG-4-04]]
+==== LG 4-04: Improve source code
 
 See also <<LG-2-06>>.
 
@@ -141,29 +213,29 @@ Software architects should:
 * know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
 
 
-[[LG-4-04]]
-==== LG 4-04: Reduce coupling within systems
+[[LG-4-05]]
+==== LG 4-05: Reduce coupling within systems
 
 Software architects:
 
 * know typical patterns or approaches to reduce internal coupling and can apply these (e.g.:
-** modularization/component building, 
-** decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway, 
+** modularization/component building,
+** decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway,
 ** decoupling by asynchronous communication
 * understand their impact (effects and side-effects), possibly by using appropriate tools.
 
 
-[[LG-4-05]]
-==== LG 4-05: Solve data- and database-related problems
+[[LG-4-06]]
+==== LG 4-06: Solve data- and database-related problems
 
-See <<LG-2-09>>.
+See also <<LG-2-09>>.
 
 Examples of such approaches include:
 
 * _Deprecation period_ pattern for database refactoring (see <<amblersadalage>>).
 * Splitting or merging databases to improve required qualities.
 * Adjusting data structures/types to current requirements, including designing and implementing data migrations.
-* Technical options like indexing, caching, query optimization, partitioning, sharding 
+* Technical options like indexing, caching, query optimization, partitioning, sharding
 * Techniques to achieve or maintain consistency across replicated or distributed data.
 
 Software architects know the challenges of:
@@ -172,18 +244,18 @@ Software architects know the challenges of:
 * versioning of data structures and data.
 
 
-[[LG-4-06]]
-==== LG 4-06: Improve runtime behavior of systems
+[[LG-4-07]]
+==== LG 4-07: Improve runtime behavior of systems
 
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
-[[LG-4-07]]
-==== LG 4-07: Improve system operability using suitable practices
+[[LG-4-08]]
+==== LG 4-08: Improve system operability using suitable practices
 
 (Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
 
-[[LG-4-08]]
-==== LG 4-08:  Improve technical documentation 
+[[LG-4-09]]
+==== LG 4-09:  Improve technical documentation
 
 Software architects know fundamental options for systematic improvement of technical documentation and can apply these, such as:
 
@@ -194,5 +266,3 @@ Software architects know fundamental options for systematic improvement of techn
 * Modularization of documentation
 
 // end::EN[]
-
-
