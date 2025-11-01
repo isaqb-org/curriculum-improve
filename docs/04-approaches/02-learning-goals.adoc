@@ -1,8 +1,10 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-4-01]]
-==== LZ 4-01: Verbesserungsansätze kategorisieren und auswählen
+==== LZ 4-01: Verbesserungsansätze auf Problem und Kontext abstimmen
 
+Softwarearchitekt:innen kennen und unterscheiden verschiedene Verbesserungsansätze und können für einen gegebenen Kontext geeignete  auswählen. 
+Zu diesen Ansätzen gehören:
 
 * Ad-hoc- oder einmalige Verbesserungen:
 ** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
@@ -19,14 +21,20 @@
 ** Zielt oft auf interne Qualität und Wartbarkeit ab.
 ** Umfang oft auf lokaler oder Subsystemebene.
 ** Kleine, kumulative Schritte.
+** Beispiele: Application Strangler, schrittweise Ablösung.
 
 * Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
 ** Größere Neugestaltung grundlegender Strukturen, Konzepten oder Mustern, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen
 ** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft
 ** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie
+** Beispiele: Kapselung von Problemen, Extraktion fachlicher Teile.
 
 * Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
 ** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme oder geänderte Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
+
+* Organisatorische Ansätze
+** Business Process Reengineering
+** Outsourcing
 
 [[LZ-4-02]]
 ==== LZ 4-02: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
@@ -85,7 +93,7 @@ Softwarearchitekt:innen:
 [[LZ-4-06]]
 ==== LZ 4-06: Lösen von daten- und datenbank-bezogenen Problemen
 
-Siehe <<LZ-2-09>>.
+Siehe auch <<LZ-2-09>>.
 
 Beispiele für solche Ansätze sind:
 
@@ -128,7 +136,10 @@ Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Ve
 === {learning-goals}
 
 [[LG-4-01]]
-==== LG 4-01: Categorize and select appropriate improvement approaches
+==== LG 4-01: Match Improvement Approaches to Problem and Context
+
+Software architects know and can differentiate various improvement approaches, and can select appropriately for a given context. 
+These approaches include:
 
 * Ad-hoc or One-time Improvements:
 ** Small, situational fixes applied without a systematic plan, typically to remove an acute pain point or urgent defect
@@ -145,14 +156,20 @@ Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Ve
 ** often targeting internal quality and maintainability
 ** Scope often on local or subsystem level
 ** small, cumulative steps
+** Examples: Application Strangler, incremental replacement.
 
 * Conceptual or Architectural Rework (Re-Architecting / Reengineering), _transformational change_
 ** Larger-scale redesign of architectural structures, concepts, or patterns to restore conceptual integrity or align with new requirements
 ** Scope often on system-level or cross-cutting redesign affecting core concepts, or technology stack
 ** substantial change to architectural principles, component structures, or runtime topology
+** Examples: Encapsulation of problems, extraction of business aspects.
 
 * Replacement or Redevelopment (Rewrite, sometimes called _big bang_)
 ** Creating a new system or subsystem when accumulated debt, conceptual decay, or changed requirements make incremental improvement uneconomical.
+
+* Organizational Approaches
+** Business Process Reengineering
+** Outsourcing
 
 [[LG-4-02]]
 ==== LG 4-02: Optimize development processes using suitable measures
@@ -211,7 +228,7 @@ Software architects:
 [[LG-4-06]]
 ==== LG 4-06: Solve data- and database-related problems
 
-See <<LG-2-09>>.
+See also <<LG-2-09>>.
 
 Examples of such approaches include:
 
