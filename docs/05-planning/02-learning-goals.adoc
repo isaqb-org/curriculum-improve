@@ -23,7 +23,7 @@ Dies beinhaltet:
 [[LZ-5-03]]
 ==== LZ 5-03: Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen  (Optional)
 
-Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planung und Priorisierung kennen. 
+Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planung und Priorisierung kennen.
 Die folgende Liste dient als Referenz; vertiefte Kenntnisse werden in diesem Curriculum nicht verlangt.
 
 Methoden zur Priorisierung:
