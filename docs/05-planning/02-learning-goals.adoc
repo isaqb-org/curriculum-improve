@@ -69,7 +69,7 @@ This includes:
 [[LG-5-03]]
 ==== LG 5-03: Apply Methods for Prioritizing and Planning Improvements (Optional)
 
-Software architects should be aware of established methods to support planning and prioritization. 
+Software architects should be aware of established methods to support planning and prioritization.
 The following list is for reference; in-depth knowledge is not required by this curriculum.
 
 Prioritization Methods:
