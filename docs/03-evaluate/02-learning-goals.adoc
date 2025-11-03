@@ -33,6 +33,15 @@
 Softwarearchitekt:innen können Schätzverfahren auf Probleme und Lösungsansätze anwenden.
 
 Insbesondere können sie die durch Probleme oder Risiken verursachten (potentiellen) Schäden (_Schmerzen_) quantitativ einschätzen.
+
+[[LZ-3-04]]
+==== LZ 3-04: Makro-Strategien bewerten: Neuentwicklung vs. inkrementelle Verbesserung
+
+Als eine zentrale Anwendung von Schätz- und Bewertungsverfahren können Softwarearchitekt:innen die Auswirkungen von grundlegend entgegengesetzten Verbesserungsstrategien (detailliert in <<LZ-4-01>>) abwägen.
+
+Insbesondere können sie:
+* Die Effekte (Risiken, Vorteile) des Ansatzes „komplette Neuentwicklung (Rewrite, _Big Bang_)“ gegenüber einer „kontinuierlichen Verbesserung“ einschätzen und argumentieren.
+* Verstehen, dass mangelnde Kenntnis von Details (wie etwa Anforderungen, Details von Algorithmen und Prozessen, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten, betriebliche Prozesse) häufig die Option „Rewrite“ einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details wäre.
 // end::DE[]
 
 // tag::EN[]
@@ -72,4 +81,12 @@ Software architects can apply estimation techniques to problems and solution app
 
 In particular, they can quantitatively assess the (potential) damage (_pain_) caused by problems or risks.
 
+[[LG-3-04]]
+==== LG 3-04: Evaluate macro-strategies: Rewrite vs. Incremental Improvement
+
+As a key application of estimation and assessment, software architects can weigh the effects of major, opposing improvement strategies (which are detailed in <<LG-4-01>>).
+
+They can, in particular:
+* Assess and argue the impact (risks, benefits) of a “complete rewrite” (_big bang_) approach in contrast to a “continuous improvement” approach in each situation.
+* Understand that a lack of detailed knowledge (e.g., of requirements, algorithms, quality scenarios, or operational processes) often makes the “rewrite” option appear deceptively simple.
 // end::EN[]

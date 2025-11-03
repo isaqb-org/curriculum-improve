@@ -44,7 +44,7 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LZ-1-03]]
-==== LZ 1-03: Differenzieren zwischen Problemen, Ursachen und Lösungsansätzen
+==== LZ 1-03: Definieren und unterscheiden von Problem, Symptom, Ursache, Risiko und Lösung
 
 Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-02>>) erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
 Hierzu gehören insbesondere:
@@ -64,33 +64,7 @@ Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -ä
 * Ursachen (Root cause) versus Symptom
 * Risiko
 
-[[LZ-1-04]]
-==== LZ 1-04: Differenzieren möglicher Verbesserungsstrategien für IT-Systeme
-
-
-* Ad-hoc- oder einmalige Verbesserungen:
-** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
-** In der Regel als Reaktion auf ein unmittelbares Problem.
-
-* Refactoring (lokale strukturelle Verbesserung)
-** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens. 
-** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht. 
-** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
-** Wird oft proaktiv durchgeführt.
-
-* Inkrementelle oder kontinuierliche Verbesserung, _evolutionäre Veränderung_
-** Schrittweise, fortlaufende Verbesserungsmaßnahmen, eingebettet in reguläre Entwicklung.
-** Zielt oft auf interne Qualität und Wartbarkeit ab.
-** Umfang oft auf lokaler oder Subsystemebene.
-** Kleine, kumulative Schritte.
-
-* Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
-** Größere Neugestaltung grundlegender Strukturen, Konzepten oder Mustern, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen
-** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft
-** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie
-
-* Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
-** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme oder geänderte Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
+Diese Begriffe bilden die Voraussetzung für <<LZ-2-01>>.
 
 // end::DE[]
 
@@ -142,7 +116,7 @@ Software architects should be able to recognize and identify various types of te
 See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-03]]
-==== LG 1-03: Differentiate between problems, root causes, and solutions
+==== LG 1-03: Define and distinguish problem, symptom, root cause, risk and solution
 
 Software architects can explain the concept of “technical and organizational debt” (see <<LG-1-02>>) and, in particular, differentiate it from the concept of debt in economics and finance.
 This includes, in particular:
@@ -163,33 +137,6 @@ Software architects can differentiate and explain additional core terms of softw
 * Root cause versus symptom
 * Risk
 
-[[LG-1-04]]
-==== LG 1-04: Differentiate types of improvement strategies for IT systems
-
-* Ad-hoc or One-time Improvements:
-** Small, situational fixes applied without a systematic plan, typically to remove an acute pain point or urgent defect
-** Usually done as reaction to immediate problem
-
-* Refactoring (local structural improvement)
-** Focused restructuring of code or architecture without changing behavior. 
-** Scientifically defined (by <<opdyke>>) and defined for a broad audience, primarily by <<fowler>> and <<refactoring>>, following structured, defined, reproducible and invertable sets of operations,
-** aiming to improve clarity, reduce complexity, or isolate changes,
-** often done proactively.
-
-* Incremental or Continuous Improvement, _evolutionary change_
-** Stepwise, ongoing improvement activities embedded in regular development
-** often targeting internal quality and maintainability
-** Scope often on local or subsystem level
-** small, cumulative steps
-
-* Conceptual or Architectural Rework (Re-Architecting / Reengineering), _transformational change_
-** Larger-scale redesign of architectural structures, concepts, or patterns to restore conceptual integrity or align with new requirements
-** Scope often on system-level or cross-cutting redesign affecting core concepts, or technology stack
-** substantial change to architectural principles, component structures, or runtime topology
-
-* Replacement or Redevelopment (Rewrite, sometimes called _big bang_)
-** Creating a new system or subsystem when accumulated debt, conceptual decay, or changed requirements make incremental improvement uneconomical.
+These terms are prerequisite for <<LG-2-01>>.
 
 // end::EN[]
-
-
