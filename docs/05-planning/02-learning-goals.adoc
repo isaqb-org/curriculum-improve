@@ -15,6 +15,7 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 Basierend auf den bewerteten Problemen und ausgewählten Lösungsansätzen können Softwarearchitekt:innen mittel- bis langfristige Verbesserungs-Roadmaps erstellen.
 
 Dies beinhaltet:
+
 * Priorisierung von Verbesserungsmaßnahmen (z.B. basierend auf Risiko, Kosten-Nutzen und Abhängigkeiten).
 * Gruppierung von Maßnahmen in logische, inkrementelle Schritte oder Releases.
 * Definition von kurz- und langfristigen Zielen.
@@ -27,19 +28,41 @@ Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planu
 Die folgende Liste dient als Referenz; vertiefte Kenntnisse werden in diesem Curriculum nicht verlangt.
 
 Methoden zur Priorisierung:
+
 * Value-vs-Effort-Matrix (Nutzen-Aufwand-Matrix)
 * Cost of Delay
 * Weighted Shortest Job First (WSJF)
 
 Methoden zur Planung und Visualisierung:
+
 * User Story Mapping
 * Kanban-Boards
+* Wardley Maps (see <<hiredThought>> and <<tune>>)
+* Core Domain Charts (see <<dddCrew>> and <<tune>>)
+* North Star (see <<geeks>> and <<tune>>)
 
-[[LZ-5-04]]
-==== LZ 5-04: Verbesserungspläne an Stakeholder kommunizieren und begründen
+[[LG-5-04]]
+==== LG 5-04: Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden (optional)
 
-Softwarearchitekt:innen können Ansätze und Planungen für langfristige Verbesserung an unterschiedliche Stakeholder kommunizieren und argumentieren.
+Softwarearchitekten können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
 
+ 
+Dazu gehören:
+ 
+* Verständnis der Geschäftsziele und Ausrichtung der Verbesserungsinitiativen auf diese Ziele.
+* Beobachten bevorstehender Herausforderungen (z. B. Veränderungen, Wachstum, Extremsituationen, Trends, Marktentwicklungen) und Einbeziehen dieser in die Verbesserungsstrategie.
+* Vorbereiten von Entscheidungsträgern auf langfristige Verbesserungsprozesse, indem sie einbezogen, über Ziele, Vorteile, Risiken, Hindernisse und Konsequenzen informiert und ihr Engagement gewonnen wird.
+* Aufbauen von Verständnis und einem Netzwerk von Unterstützern für Verbesserungen durch proaktives Stakeholder-Management und kollaborative Architekturarbeit.
+* Kommunikation und Argumentation von Ansätzen zur langfristigen Verbesserung gegenüber verschiedenen Stakeholdern.
+
+[INFO]
+====
+**Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterpriserchitekt:innen.
+Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
+====
+
+
+Übersetzt mit DeepL.com (kostenlose Version)
 // end::DE[]
 
 // tag::EN[]
@@ -60,7 +83,10 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 
 Based on the evaluated problems and selected approaches, software architects can create mid- to long-term improvement roadmaps.
 
+They ensure alignment with business objectives and constraints by anticipating upcoming changes and challenges (growth, risks, technology/market trends).
+
 This includes:
+
 * Prioritizing improvement measures (e.g., based on risk, cost-benefit, and dependencies).
 * Grouping measures into logical, incremental steps or releases.
 * Defining short-term and long-term goals.
@@ -73,17 +99,38 @@ Software architects should be aware of established methods to support planning a
 The following list is for reference; in-depth knowledge is not required by this curriculum.
 
 Prioritization Methods:
+
 * Value vs. Effort Matrix
 * Cost of Delay
 * Weighted Shortest Job First (WSJF)
 
 Planning and Visualization Methods:
+
 * User Story Mapping
 * Kanban boards
+* Wardley Maps (see <<hiredThought>> and <<tune>>)
+* Core Domain Charts (see <<dddCrew>> and <<tune>>)
+* North Star (see <<geeks>> and <<tune>>)
+
 
 [[LG-5-04]]
-==== LG 5-04: Communicate and justify improvement plans to stakeholders
+==== LG 5-04: Align Improvement Plans with Strategy and Engage Stakeholders (Optional)
 
-Software architects are able to communicate and justify approaches to and planning of long-term improvement to different stakeholders.
+Software architects can effectively align improvement plans with strategic objectives and manage stakeholder engagement.
+
+ 
+This includes:
+ 
+* Understanding business objectives and aligning improvement initiatives with them.
+* Watching for upcoming challenges (e.g., changes, growth, extreme situations, trends, market developments) and incorporating them into the improvement strategy.
+* Preparing decision-makers for long-term improvement processes by involving them, informing them about goals, benefits, risks, obstacles, and consequences, and obtaining their commitment.
+* Building understanding and a network of supporters for improvements through proactive stakeholder management and collaborative architecture work.
+* Communicating and arguing approaches to long-term improvement to different stakeholders.
+
+[INFO]
+====
+**Remark:** In several organizations, strategic alignment and stakeholder management are primarily the responsibilities of management or enterprise architects.
+Marking this learning goal as optional shall encourage architects to develop these skills where context and authority permit, without making them a required competency in all roles or organizations.
+====
 
 // end::EN[]
