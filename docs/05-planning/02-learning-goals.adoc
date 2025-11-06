@@ -10,7 +10,25 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 * Datenbanken
 
 [[LZ-5-02]]
-==== LZ 5-02: Verbesserungs-Roadmaps entwickeln
+==== LZ 5-02: Leitprinzipien für Verbesserungen anwenden
+
+Softwarearchitekt:innen sollten ihre Planung auf einer Reihe von Leitprinzipien aufbauen. Diese Prinzipien beschreiben eine Denkweise (_mindset_), die die gesamte Verbesserungsinitiative leiten sollte.
+Diese Denkweise wird während der Planungsphase etabliert und stellt sicher, dass die resultierende Roadmap (siehe <<LZ-5-03>>) von Anfang an iterativ, feedback-gesteuert und risikobewusst angelegt wird.
+
+Wichtige Prinzipien sind:
+
+* **Strebe Schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
+* **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
+* **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen.
+* **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt.
+* **Teste nach jeder Änderung:** Ein hohes Qualitätsniveau aufrechterhalten und Regressionen verhindern, indem automatisiertes Testen in den täglichen Arbeitsablauf integriert wird.
+* **Kommuniziere Annahmen explizit:** Alle zugrunde liegenden Annahmen für Stakeholder sichtbar machen, um die Abstimmung zu gewährleisten und Missverständnisse später im Prozess zu vermeiden.
+* **Gruppiere Verbesserungsansätze oder -taktiken:** Verwandte Verbesserungsaufgaben in logische Arbeitspakete oder Themen bündeln. 
+Dies reduziert Rüstkosten (z.B. Kontextwechsel, Tool-Setup, Teamkoordination), indem ähnliche Aktivitäten zusammen durchgeführt werden können, was zu einer effizienteren Ausführung und einem kohärenteren Plan führt.
+
+
+[[LZ-5-03]]
+==== LZ 5-03: Verbesserungs-Roadmaps entwickeln
 
 Basierend auf den bewerteten Problemen und ausgewählten Lösungsansätzen können Softwarearchitekt:innen mittel- bis langfristige Verbesserungs-Roadmaps erstellen.
 
@@ -21,8 +39,8 @@ Dies beinhaltet:
 * Definition von kurz- und langfristigen Zielen.
 * Visualisierung des Plans (z.B. als Zeitachse oder als Abfolge von Arbeitspaketen).
 
-[[LZ-5-03]]
-==== LZ 5-03: Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen  (Optional)
+[[LZ-5-04]]
+==== LZ 5-04: [OPTIONAL] Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen
 
 Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planung und Priorisierung kennen.
 Die folgende Liste dient als Referenz; vertiefte Kenntnisse werden in diesem Curriculum nicht verlangt.
@@ -41,10 +59,10 @@ Methoden zur Planung und Visualisierung:
 * Core Domain Charts (see <<dddCrew>> and <<tune>>)
 * North Star (see <<geeks>> and <<tune>>)
 
-[[LG-5-04]]
-==== LG 5-04: Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden (optional)
+[[LG-5-05]]
+==== LG 5-05: [OPTIONAL] Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden
 
-Softwarearchitekten können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
+Softwarearchitekt:innen können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
 
  
 Dazu gehören:
@@ -57,12 +75,11 @@ Dazu gehören:
 
 [INFO]
 ====
-**Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterpriserchitekt:innen.
+**Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterprise-Architekt:innen.
 Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
 ====
 
 
-Übersetzt mit DeepL.com (kostenlose Version)
 // end::DE[]
 
 // tag::EN[]
@@ -77,9 +94,27 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 * Tables
 * Databases.
 
-
 [[LG-5-02]]
-==== LG 5-02: Develop Improvement Roadmaps
+==== LG 5-02: Apply Guiding Principles for Improvement
+
+Software architects should base their planning on a set of guiding principles. 
+These principles are about defining a mindset that should govern the entire improvement initiative
+This mindset is established during the planning phase and ensures the resulting roadmap (see <<LG-5-03>>) is iterative, feedback-driven, and risk-aware from the outset.
+
+Key principles include:
+
+* **Strive for rapid and frequent feedback:** Create tight feedback loops with stakeholders, users, and the system itself (e.g., via monitoring) to continuously validate the direction of the improvement.
+* **Implement improvements iteratively:** Avoid "big bang" changes where possible. Deliver value in small, manageable increments to reduce risk and demonstrate progress.
+* **Reduce complexity:** Actively seek opportunities to simplify the system, its architecture, and its codebase as part of the improvement work.
+* **Test improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation.
+* **Test after every change:** Maintain a high level of quality and prevent regressions by integrating automated testing into the daily workflow.
+* **Communicate assumptions explicitly:** Make all underlying assumptions visible to stakeholders to ensure alignment and avoid misunderstandings later in the process.
+* **Group improvement approaches or tactics:** Bundle related improvement tasks into logical work packages or themes.
+This reduces overhead and setup costs (e.g., context switching, tool setup, team coordination) by allowing similar activities to be performed together, leading to more efficient execution and a more coherent plan.
+
+
+[[LG-5-03]]
+==== LG 5-03: Develop Improvement Roadmaps
 
 Based on the evaluated problems and selected approaches, software architects can create mid- to long-term improvement roadmaps.
 
@@ -92,8 +127,8 @@ This includes:
 * Defining short-term and long-term goals.
 * Visualizing the plan (e.g., as a timeline or a sequence of work packages).
 
-[[LG-5-03]]
-==== LG 5-03: Apply Methods for Prioritizing and Planning Improvements (Optional)
+[[LG-5-04]]
+==== LG 5-04: [OPTIONAL] Apply Methods for Prioritizing and Planning Improvements
 
 Software architects should be aware of established methods to support planning and prioritization.
 The following list is for reference; in-depth knowledge is not required by this curriculum.
@@ -113,8 +148,8 @@ Planning and Visualization Methods:
 * North Star (see <<geeks>> and <<tune>>)
 
 
-[[LG-5-04]]
-==== LG 5-04: Align Improvement Plans with Strategy and Engage Stakeholders (Optional)
+[[LG-5-05]]
+==== LG 5-05: [OPTIONAL] Align Improvement Plans with Strategy and Engage Stakeholders
 
 Software architects can effectively align improvement plans with strategic objectives and manage stakeholder engagement.
 
