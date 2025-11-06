@@ -15,23 +15,26 @@ Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Prob
 Basierend auf den bewerteten Problemen und ausgewählten Lösungsansätzen können Softwarearchitekt:innen mittel- bis langfristige Verbesserungs-Roadmaps erstellen.
 
 Dies beinhaltet:
+
 * Priorisierung von Verbesserungsmaßnahmen (z.B. basierend auf Risiko, Kosten-Nutzen und Abhängigkeiten).
 * Gruppierung von Maßnahmen in logische, inkrementelle Schritte oder Releases.
 * Definition von kurz- und langfristigen Zielen.
 * Visualisierung des Plans (z.B. als Zeitachse oder als Abfolge von Arbeitspaketen).
 
 [[LZ-5-03]]
-==== LZ 5-03: Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen  (Optional)
+==== LZ 5-03: [OPTIONAL] Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen
 
 Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planung und Priorisierung kennen.
 Die folgende Liste dient als Referenz; vertiefte Kenntnisse werden in diesem Curriculum nicht verlangt.
 
 Methoden zur Priorisierung:
+
 * Value-vs-Effort-Matrix (Nutzen-Aufwand-Matrix)
 * Cost of Delay
 * Weighted Shortest Job First (WSJF)
 
 Methoden zur Planung und Visualisierung:
+
 * User Story Mapping
 * Kanban-Boards
 
@@ -61,23 +64,26 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 Based on the evaluated problems and selected approaches, software architects can create mid- to long-term improvement roadmaps.
 
 This includes:
+
 * Prioritizing improvement measures (e.g., based on risk, cost-benefit, and dependencies).
 * Grouping measures into logical, incremental steps or releases.
 * Defining short-term and long-term goals.
 * Visualizing the plan (e.g., as a timeline or a sequence of work packages).
 
 [[LG-5-03]]
-==== LG 5-03: Apply Methods for Prioritizing and Planning Improvements (Optional)
+==== LG 5-03: [OPTIONAL] Apply Methods for Prioritizing and Planning Improvements
 
 Software architects should be aware of established methods to support planning and prioritization.
 The following list is for reference; in-depth knowledge is not required by this curriculum.
 
 Prioritization Methods:
+
 * Value vs. Effort Matrix
 * Cost of Delay
 * Weighted Shortest Job First (WSJF)
 
 Planning and Visualization Methods:
+
 * User Story Mapping
 * Kanban boards
 
