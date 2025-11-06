@@ -19,7 +19,7 @@
 
 **D**
 
-- [[[dddCrew, DddCrew]]] Ddd-Crew. GitHub - ddd-crew/core-domain-charts: A tool for collaboratively finding your core domains - strategic business differentiators. GitHub. Retrieved October 18, 2025, from https://github.com/ddd-crew/core-domain-charts/
+- [[[dddCrew, Domain-Driven Design Crew]]] Domain-Driven Design Crew. GitHub - ddd-crew/core-domain-charts: A tool for collaboratively finding your core domains - strategic business differentiators. GitHub. Retrieved October 18, 2025, from https://github.com/ddd-crew/core-domain-charts/
 
 - [[[demeyer,Demeyer+ 2003]]] Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns, 2003.
 
@@ -43,7 +43,7 @@
 
 **H**
 
-- [[[hiredThought, HiredThought]]] Hired Thought. (n.d.). Learn Wardley Mapping. Retrieved October 18, 2025, from https://learnwardleymapping.com/
+- [[[hiredThought, Hired Thought]]] Hired Thought. (n.d.). Learn Wardley Mapping. Retrieved October 18, 2025, from https://learnwardleymapping.com/
 
 **I**
 
