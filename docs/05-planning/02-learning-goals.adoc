@@ -19,12 +19,12 @@ Wichtige Prinzipien sind:
 
 * **Strebe Schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
 * **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
-* **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen.
-* **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt.
+* **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen. (siehe auch <<LZ-4-04>> und <<LZ-4-05>>)
+* **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt. (siehe auch <<LZ-4-03>>)
 * **Teste nach jeder Änderung:** Ein hohes Qualitätsniveau aufrechterhalten und Regressionen verhindern, indem automatisiertes Testen in den täglichen Arbeitsablauf integriert wird.
 * **Kommuniziere Annahmen explizit:** Alle zugrunde liegenden Annahmen für Stakeholder sichtbar machen, um die Abstimmung zu gewährleisten und Missverständnisse später im Prozess zu vermeiden.
 * **Gruppiere Verbesserungsansätze oder -taktiken:** Verwandte Verbesserungsaufgaben in logische Arbeitspakete oder Themen bündeln. 
-Dies reduziert Rüstkosten (z.B. Kontextwechsel, Tool-Setup, Teamkoordination), indem ähnliche Aktivitäten zusammen durchgeführt werden können, was zu einer effizienteren Ausführung und einem kohärenteren Plan führt.
+Dies reduziert Rüstkosten (z.B. Kontextwechsel, Tool-Setup, Teamkoordination), indem ähnliche Aktivitäten zusammen durchgeführt werden können, was zu einer effizienteren Ausführung und einem kohärenteren Plan führt. (siehe auch <<LZ-5-03>>)
 
 
 [[LZ-5-03]]
@@ -105,12 +105,12 @@ Key principles include:
 
 * **Strive for rapid and frequent feedback:** Create tight feedback loops with stakeholders, users, and the system itself (e.g., via monitoring) to continuously validate the direction of the improvement.
 * **Implement improvements iteratively:** Avoid "big bang" changes where possible. Deliver value in small, manageable increments to reduce risk and demonstrate progress.
-* **Reduce complexity:** Actively seek opportunities to simplify the system, its architecture, and its codebase as part of the improvement work.
-* **Test improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation.
-* **Test after every change:** Maintain a high level of quality and prevent regressions by integrating automated testing into the daily workflow.
+* **Reduce complexity:** Actively seek opportunities to simplify the system, its architecture, and its codebase as part of the improvement work. (see also <<LG-4-04>> and <<LG-4-05>>)
+* **Test improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation. (see also <<LG-4-03>>)
+* **Test after every change:** Maintain a high level of quality and prevent regressions by integrating automated testing into the daily workflow. (see also <<LG-4-03>>)
 * **Communicate assumptions explicitly:** Make all underlying assumptions visible to stakeholders to ensure alignment and avoid misunderstandings later in the process.
 * **Group improvement approaches or tactics:** Bundle related improvement tasks into logical work packages or themes.
-This reduces overhead and setup costs (e.g., context switching, tool setup, team coordination) by allowing similar activities to be performed together, leading to more efficient execution and a more coherent plan.
+This reduces overhead and setup costs (e.g., context switching, tool setup, team coordination) by allowing similar activities to be performed together, leading to more efficient execution and a more coherent plan. (see also <<LG-5-03>>)
 
 
 [[LG-5-03]]
