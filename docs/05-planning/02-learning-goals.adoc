@@ -17,7 +17,7 @@ Diese Denkweise wird während der Planungsphase etabliert und stellt sicher, das
 
 Wichtige Prinzipien sind:
 
-* **Strebe Schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
+* **Strebe Schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Testen und Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
 * **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
 * **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen. (siehe auch <<LZ-4-04>> und <<LZ-4-05>>)
 * **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt. (siehe auch <<LZ-4-03>>)
@@ -55,12 +55,12 @@ Methoden zur Planung und Visualisierung:
 
 * User Story Mapping
 * Kanban-Boards
-* Wardley Maps (see <<hiredThought>> and <<tune>>)
-* Core Domain Charts (see <<dddCrew>> and <<tune>>)
-* North Star (see <<geeks>> and <<tune>>)
+* Wardley Maps (siehe auch <<hiredThought>> and <<tune>>)
+* Core Domain Charts (siehe auch <<dddCrew>> and <<tune>>)
+* North Star (siehe auch <<geeks>> und <<tune>>)
 
-[[LG-5-05]]
-==== LG 5-05: [OPTIONAL] Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden
+[[LZ-5-05]]
+==== LZ 5-05: [OPTIONAL] Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden
 
 Softwarearchitekt:innen können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
 
@@ -98,12 +98,12 @@ Know technical or manual approaches to explicitly represent evaluated problems a
 ==== LG 5-02: Apply Guiding Principles for Improvement
 
 Software architects should base their planning on a set of guiding principles. 
-These principles are about defining a mindset that should govern the entire improvement initiative
+These principles are about defining a mindset that should govern the entire improvement initiative.
 This mindset is established during the planning phase and ensures the resulting roadmap (see <<LG-5-03>>) is iterative, feedback-driven, and risk-aware from the outset.
 
 Key principles include:
 
-* **Strive for rapid and frequent feedback:** Create tight feedback loops with stakeholders, users, and the system itself (e.g., via monitoring) to continuously validate the direction of the improvement.
+* **Strive for rapid and frequent feedback:** Create tight feedback loops with stakeholders, users, and the system itself (e.g., via testing and monitoring) to continuously validate the direction of the improvement.
 * **Implement improvements iteratively:** Avoid "big bang" changes where possible. Deliver value in small, manageable increments to reduce risk and demonstrate progress.
 * **Reduce complexity:** Actively seek opportunities to simplify the system, its architecture, and its codebase as part of the improvement work. (see also <<LG-4-04>> and <<LG-4-05>>)
 * **Test improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation. (see also <<LG-4-03>>)
