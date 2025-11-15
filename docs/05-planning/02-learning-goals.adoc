@@ -3,11 +3,18 @@
 [[LZ-5-01]]
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
-Technische oder manuelle Ansätze zur expliziten Darstellung von bewerteten Problemen und Lösungsansätzen kennen und situationsangemessen auswählen – beispielsweise:
+Softwarearchitekt:inen kennen technische oder manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
+Sie bevorzugen die kleinsten oder einfachsten Ansätze, die Annahmen explizit machen, Abhängigkeiten und Risiken hervorheben und mit minimalem Aufwand aktuell gehalten werden können. 
 
-* Issue-Tracker
-* Tabellen oder
-* Datenbanken
+Beispiele:
+
+* Issue Tracker
+* Tabellen oder leichtgewichtige Datenbanken
+* Präsentationen 
+* Architecture-Decision-Records (ADRs)
+* Diagramme
+* Dashboards (Live-KPIs und Fortschritte in Verbindung mit geplanten Maßnahmen)
+
 
 [[LZ-5-02]]
 ==== LZ 5-02: Leitprinzipien für Verbesserungen anwenden
@@ -88,11 +95,17 @@ Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen
 [[LG-5-01]]
 ==== LG 5-01: Represent evaluated problems and solution approaches using appropriate tools
 
-Know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose the appropriate for the given situation. Examples:
+Software architects know technical or manual approaches to explicitly represent evaluated problems and solution approaches and choose fit-for-purpose artifacts for the given situation. 
+They prefer the smallest or simplest artifacts that make assumptions explicit, highlights dependencies and risks, and can be kept current with minimal effort. 
 
-* Issue tracker
-* Tables
-* Databases.
+Examples:
+
+* Issue trackers
+* Tables or lightweight databases
+* Presentations 
+* Architecture Decision Records (ADRs)
+* Diagrams 
+* Dashboards (live KPIs and progress tied to planned measures)
 
 [[LG-5-02]]
 ==== LG 5-02: Apply Guiding Principles for Improvement
