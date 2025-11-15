@@ -4,7 +4,8 @@
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
 Softwarearchitekt:inen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
-Sie bevorzugen die kleinsten oder einfachsten Ansätze, die Annahmen explizit machen, Abhängigkeiten und Risiken hervorheben und mit minimalem Aufwand aktuell gehalten werden können. 
+Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit machen, Abhängigkeiten und Risiken hervorheben und all diese aktuell zu halten. 
+
 
 Beispiele:
 
@@ -96,7 +97,7 @@ Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen
 ==== LG 5-01: Represent evaluated problems and solution approaches using appropriate tools
 
 Software architects know technical and manual approaches to explicitly represent evaluated problems and solution approaches and choose fit-for-purpose artifacts for the given situation. 
-They prefer the smallest or simplest artifacts that make assumptions explicit, highlights dependencies and risks, and can be kept current with minimal effort. 
+They prefer the smallest or simplest approaches to make assumptions explicit, highlight dependencies and risks, and keep all of these up to date. 
 
 Examples:
 
