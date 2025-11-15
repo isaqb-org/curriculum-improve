@@ -4,7 +4,7 @@
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
 Softwarearchitekt:inen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
-Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit machen, Abhängigkeiten und Risiken hervorheben und all diese aktuell zu halten. 
+Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit zu machen, Abhängigkeiten und Risiken hervorheben und all diese aktuell zu halten. 
 
 
 Beispiele:
