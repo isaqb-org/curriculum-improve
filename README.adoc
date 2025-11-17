@@ -25,7 +25,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 |===
 | Version | Date | Comments
 
-| 2025.1  | 2025 | Major refinement of Learning Goals (LGs), revising content (improvement strategy, tech debt, databases, metrics). >80 commits.
+| 2025.1  | 2025 | Major refinement of Learning Goals (LGs), revising content (improvement strategy, tech debt, databases, metrics). Order of sections changed to reflect logical flow. >80 commits.
 | | 2024  | A significant German version was added. LGs were enhanced to focus on management support and funding. More time was allocated to "estimate and assess" chapters. About 60 commits.
 | | 2020-2023 | Support for internationalization (i18n) and translations. Some learning goals were merged. First German content. In total, about 150 commits. 
 | 1.6.1-EN  | 2019 | first release, English only

@@ -32,7 +32,11 @@
 
 Softwarearchitekt:innen können Schätzverfahren auf Probleme und Lösungsansätze anwenden.
 
-Insbesondere können sie die durch Probleme oder Risiken verursachten (potentiellen) Schäden (_Schmerzen_) quantitativ einschätzen.
+Insbesondere können sie:
+
+* die durch Probleme oder Risiken verursachten (potentiellen) Schäden (_Schmerzen_) quantitativ einschätzen,
+* bei der Schätzung Annahmen und Einflussfaktoren offenlegen und plausible Bereiche für diese Faktoren angeben, um die Schätzungen transparent und reproduzierbar zu halten. 
+
 
 [[LZ-3-04]]
 ==== LZ 3-04: Makro-Strategien bewerten: Neuentwicklung vs. inkrementelle Verbesserung
@@ -79,7 +83,11 @@ Insbesondere können sie:
 
 Software architects can apply estimation techniques to problems and solution approaches.
 
-In particular, they can quantitatively assess the (potential) damage (_pain_) caused by problems or risks.
+In particular, they can: 
+
+* quantitatively assess the (potential) damage (_pain_) caused by problems or risks,
+* state assumptions and influencing factors when estimating, and record plausible ranges for these factors to keep estimates transparent and reproducible, 
+
 
 [[LG-3-04]]
 ==== LG 3-04: Evaluate macro-strategies: Rewrite vs. Incremental Improvement
