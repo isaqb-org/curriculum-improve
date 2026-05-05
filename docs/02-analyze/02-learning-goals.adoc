@@ -67,7 +67,9 @@ Softwarearchitekt:innen können:
 ==== LZ 2-06:Durchführen statischer Code- und Strukturanalyse
 
 Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
-(Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+Hierzu können Werkzeuge, auch KI-gestützte, eingesetzt werden, etwa zur Navigation in unbekannten Codebasen oder zur Extraktion von technischen Mustern und fachlichen Konzepten.
+
+(Entsprechende Werkzeuge können in der Schulung eingesetzt werden, sind jedoch nicht Voraussetzung).
 
 
 [[LZ-2-07]]
@@ -192,7 +194,9 @@ Software architects are able to:
 ==== LG 2-06: Perform static code and structural analysis
 
 Software architects are able to perform and document (static) analysis of existing source code and its structure.
-(For this purpose, tools may be used in the training. However, these are not a prerequisite).
+For this purpose, tools, including AI-assisted ones, may be used, e.g., for navigating unfamiliar codebases or extracting technical patterns and domain concepts.
+
+(Appropriate tools may be used in the training. However, these are not a prerequisite).
 
 [[LG-2-07]]
 ==== LG 2-07: Perform runtime analyses to evaluate system behavior
