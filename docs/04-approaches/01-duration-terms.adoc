@@ -1,14 +1,15 @@
 // tag::DE[]
 [width=50%]
 |===
-| Lehre: 180  Min. | Übung: 120 Min.
+| Lehre: 180 Min. | Übung: 120 Min.
 |===
 
 === Begriffe und Konzepte
 Strukturelle versus konzeptionelle Verbesserung, Prozess- und Produktverbesserung,
 Verbesserung in Code, Daten, querschnittlichen Konzepten, Prozessen, Infrastruktur, Analysierbarkeit/Monitoring;
 Abbau technischer Schulden, Verbesserungsmaßnahmen für Quellcode: Refactoring, Reduktion von Komplexität und Kopplung,
-Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur Senkung von Änderungsrisiken, insbesondere automatisierte Tests.
+Erhöhung der Lesbarkeit und Verständlichkeit;
+Automatisierung von Prozessen zur Senkung von Änderungsrisiken, insbesondere automatisierte Tests.
 // end::DE[]
 
 // tag::EN[]
@@ -19,5 +20,6 @@ Erhöhung der Lesbarkeit und Verständlichkeit;Automatisierung von Prozessen zur
 
 === Terms and concepts
 Structural vs. conceptual improvement, process and product improvement, improvement of code, data, cross-cutting concepts, processes, infrastructure, analyzability/monitoring;
-Reduction of technical debts, ways to improve source code: refactoring, reduction of complexity and coupling, improve readability and comprehensibility; process automation to lower risk of changes, in particular, automated tests.
+Reduction of technical debts, ways to improve source code: refactoring, reduction of complexity and coupling, improve readability and comprehensibility;
+process automation to lower risk of changes, in particular, automated tests.
 // end::EN[]

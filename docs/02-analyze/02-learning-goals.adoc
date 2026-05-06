@@ -6,7 +6,7 @@
 Softwarearchitekt:innen können: 
 
 * Problemanalyse begrifflich von Problemlösung trennen
-* Problem und Lösungsansatz in m:n Verhältnis einander zuordnen
+* Problem und Lösungsansatz in m:n-Verhältnis einander zuordnen
 * große oder komplizierte Probleme in Teilprobleme zerlegen
 
 Die begrifflichen Voraussetzungen hierfür schafft <<LZ-1-03>>.
@@ -28,9 +28,9 @@ Dazu gehören beispielsweise folgende Ansätze:
 * Quantitative Analysemethoden (siehe <<LZ-2-08>>) und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
 ** Organisatorische Metriken wie Kosten, Zeit und Anzahl. Beispiele: Fehleranzahl und Fehlerraten, Entwicklungsgeschwindigkeit, Kosten pro Feature, Kosten pro behobenem Fehler etc.
-** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf  und Werkzeuge zu deren Erhebung (siehe <<LZ-2-07>>)
+** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf und Werkzeuge zu deren Erhebung (siehe <<LZ-2-07>>)
 
-* Analyse von Anwendungsdaten (siehe <<LZ-2-09>>): Untersuchung von Datenstrukturen und -inhalten
+* Analyse von Anwendungsdaten: Untersuchung von Datenstrukturen und -inhalten (siehe <<LZ-2-09>>)
 * Dokumentationsanalyse
 * Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
 * Analyse technischer und organisatorischer Prozesse im Zusammenhang mit der Systementwicklung und dem Systembetrieb, z. B. Anforderungsmanagement, Design/Implementierung, Test/Qualitätssicherung, Build/Deployment (siehe <<LZ-2-10>>).
@@ -60,11 +60,11 @@ Softwarearchitekt:innen können:
 Softwarearchitekt:innen können:
 
 * Kontextabgrenzung durchführen und dokumentieren: Systeme bezüglich ihrer fachlichen und technischen Nachbarn abgrenzen und dabei externe Schnittstellen identifizieren.
-* Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für Problemanalyse ausnutzen.
+* Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für die Problemanalyse ausnutzen.
 * Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
 [[LZ-2-06]]
-==== LZ 2-06:Durchführen statischer Code- und Strukturanalyse
+==== LZ 2-06: Durchführen statischer Code- und Strukturanalyse
 
 Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
 Hierzu können Werkzeuge, auch KI-gestützte, eingesetzt werden, etwa zur Navigation in unbekannten Codebasen oder zur Extraktion von technischen Mustern und fachlichen Konzepten.
@@ -75,16 +75,16 @@ Hierzu können Werkzeuge, auch KI-gestützte, eingesetzt werden, etwa zur Naviga
 [[LZ-2-07]]
 ==== LZ 2-07: Durchführen von Laufzeitanalysen zur Bewertung des Systemverhaltens
 
-Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcen-Bedarf, Lastverhalten. 
-(Hierzu können in der Schulung Werkzeuge eingesetzt werden, sind jedoch nicht Voraussetzung).
+Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcenauslastung, Lastverhalten. 
+(Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch keine Voraussetzung).
 
 [[LZ-2-08]]
-==== LZ-2-08: Erheben und anwenden von Metriken zur quantitativen Systemanalyse
+==== LZ 2-08: Erheben und Anwenden von Metriken zur quantitativen Systemanalyse
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * systematische quantitative Analysen durchführen, um Metriken über Systeme zu erhalten,
-* geeignete Metriken auf der Grundlage von Analysenzielen und verfügbaren Datenquellen auswählen und anwenden.
+* geeignete Metriken auf der Grundlage von Analysezielen und verfügbaren Datenquellen auswählen und anwenden.
 * mehrere Metriken kombinieren, um umfassende Erkenntnisse zu gewinnen
 * Einschränkungen und mögliche Fehlinterpretationen von Metriken verstehen
 
@@ -100,7 +100,7 @@ Zu diesen Metriken gehören:
 [[LZ-2-09]]
 ==== LZ 2-09: Analysieren von Anwendungsdaten
 
-Softwarearchitekten können Anwendungsdaten analysieren, um datenbezogene Probleme, Datenqualitätsprobleme und entsprechendeVerbesserungsmöglichkeiten zu identifizieren.
+Softwarearchitekt:innen können Anwendungsdaten analysieren, um datenbezogene Probleme, Datenqualitätsprobleme und entsprechende Verbesserungsmöglichkeiten zu identifizieren.
 
 Sie kennen potenzielle Ursachen für datenbezogene Probleme, zum Beispiel:
 
@@ -116,7 +116,7 @@ Sie kennen potenzielle Ursachen für datenbezogene Probleme, zum Beispiel:
 [[LZ-2-10]]
 ==== LZ 2-10: Analysieren technischer und organisatorischer Prozesse
 
-Softwarearchitekten können organisatorische und technische Prozesse analysieren, um Ineffizienzen, Engpässe und Verbesserungspotenziale zu identifizieren.
+Softwarearchitekt:innen können organisatorische und technische Prozesse analysieren, um Ineffizienzen, Engpässe und Verbesserungspotenziale zu identifizieren.
 
 Dazu gehören:
 
@@ -143,7 +143,7 @@ Terminological prerequisites are given by <<LG-1-03>>.
 [[LG-2-02]]
 ==== LG 2-02: Select and apply practices for as-is analysis
 
-Software architects Know typical practices for as-is analysis and are able to choose and apply the appropriate method in each situation according to budget, time or the involved stakeholders. 
+Software architects know typical practices for as-is analysis and are able to choose and apply the appropriate method in each situation according to budget, time or the involved stakeholders. 
 
 This includes approaches such as:
 
@@ -151,8 +151,8 @@ This includes approaches such as:
 * Stakeholder analysis and interview (see <<LG-2-04>>)
 * Context analysis (see <<LG-2-05>>)
 * Qualitative analysis (e.g. ATAM (<<atam>>) or LASR (<<lasr>>)), particularly the analysis of quality goals
-* Structural analysis of sytems: dependency analysis of verious abstraction levels
-** Analysis of structural deviations between planned and current structures (see <<LG-2-06>>)
+* Structural analysis of systems: dependency analysis of various abstraction levels (see <<LG-2-06>>)
+** Analysis of structural deviations between planned and current structures
 
 * Quantitative analysis methods and practices (see <<LG-2-08>>), such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
@@ -169,7 +169,7 @@ This learning goal corresponds to <<LG-1-02>>.
 [[LG-2-03]]
 ==== LG 2-03: Document analysis results, problems, and risks
 
-* Software architects shall be able to initiate adequate documentation of problems (issues) and risks that have been identified by an improvement- and change process.
+* Software architects shall be able to initiate adequate documentation of problems (issues) and risks that have been identified in the course of improvement and change processes.
 * They know tools and examples for documenting problems.
 
 [[LG-2-04]]
@@ -186,9 +186,10 @@ Software architects are able to:
 ==== LG 2-05: Analyze the system context and external interfaces
 
 Software architects are able to:
-* define and document context of systems: demarcate systems with respect to their technically and logically related neighbors, identify external interfaces.
-* edentify connections between external interfaces and stakeholders and use this information for problem analysis.
-* elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational dependencies, analysis of quality attributes and/or service levels).
+
+* define and document context of systems: demarcate systems with respect to their domain-related and technical neighbors, identify external interfaces.
+* identify connections between external interfaces and stakeholders and use this information for problem analysis.
+* elaborate problems and risks of external interfaces (e.g., with interviews, analysis of known failures, runtime analysis, protocol or log analysis, analysis of organizational relationships, analysis of quality attributes and/or service levels).
 
 [[LG-2-06]]
 ==== LG 2-06: Perform static code and structural analysis
@@ -201,8 +202,7 @@ For this purpose, tools, including AI-assisted ones, may be used, e.g., for navi
 [[LG-2-07]]
 ==== LG 2-07: Perform runtime analyses to evaluate system behavior
 
-
-Software architects are able to plan and perform dynamic/runtime analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load response. 
+Software architects are able to plan and perform dynamic/runtime analysis of existing systems, e.g., with respect to runtime behavior, resource utilization, load behavior. 
 (For this purpose, tools may be used in the training. However, these are not a prerequisite).
 
 
@@ -212,8 +212,8 @@ Software architects are able to plan and perform dynamic/runtime analysis of exi
 
 Software architects are able to:
 
-* perform systematic quantitative analysis to obtain metrics about systems,
-* select and apply appropriate metrics based on analysis goals and available data sources.
+* perform systematic quantitative analysis to obtain metrics about systems
+* select and apply appropriate metrics based on analysis goals and available data sources
 * combine multiple metrics to gain comprehensive insights
 * understand limitations and potential misinterpretations of metrics
 

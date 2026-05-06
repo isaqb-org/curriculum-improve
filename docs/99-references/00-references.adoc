@@ -5,7 +5,7 @@
 **A**
 
 - [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
-- [[[amblersadalage,Ambler+2006]]] Scott Ambler, Pramod Sadalage: Refactoring Databases - Evolutionary Database Design, Addison-Wesley, 2006. Companion website: https://databaserefactoring.com/ (despite its age, the content is still valid in modern DB environments))
+- [[[amblersadalage,Ambler+2006]]] Scott Ambler, Pramod Sadalage: Refactoring Databases - Evolutionary Database Design, Addison-Wesley, 2006. Companion website: https://databaserefactoring.com/ (despite its age, the content is still valid in modern DB environments)
 
 - [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
@@ -54,12 +54,12 @@
 
 - [[[atam,Kazman+2000]]] Rick Kazman; Mark Klein; Paul Clements. "ATAM: Method for Architecture Evaluation" (PDF). Carnegie Mellon Software Engineering Institute. Online: https://www.sei.cmu.edu/documents/629/2000_005_001_13706.pdf.
 
-- [[[klappmann,Kleppmann]]] Martin Kleppmann: Designing Data Intensive Applications - The Big Ideas Behind Reliable, Scalable and Maintainable Systems. OReilly, 2017.
+- [[[kleppmann,Kleppmann]]] Martin Kleppmann: Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable and Maintainable Systems. O'Reilly, 2017.
 - [[[knodel,Knodel+ 2016]]] Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer, 2016.
 
 - [[[koppelt,Koppelt+ 2021]]] Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, and Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub, 2021.
 
-- [[[kruchtenTechDebt,Kruchten+2019]]] Kruchten, Phippe, Robert Nord, Ipak Ozkaya: Managing Technical Debt. Addison-Wesley 2019.
+- [[[kruchtenTechDebt,Kruchten+2019]]] Kruchten, Philippe, Robert Nord, Ipak Ozkaya: Managing Technical Debt. Addison-Wesley 2019.
 
 
 **L**
@@ -86,7 +86,7 @@
 
 **O**
 
-- [[[opdyke,Opdyke]]] William Opdyke: Refactoring Object-Oriented Framdworks. 1992. Groundwork for the notion of _refactoring_. http://www.laputan.org/pub/papers/opdyke-thesis.pdf.
+- [[[opdyke,Opdyke]]] William Opdyke: Refactoring Object-Oriented Frameworks. 1992. Groundwork for the notion of _refactoring_. http://www.laputan.org/pub/papers/opdyke-thesis.pdf.
 
 **P**
 

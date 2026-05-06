@@ -3,15 +3,14 @@
 [[LZ-5-01]]
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
-Softwarearchitekt:inen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
-Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit zu machen, Abhängigkeiten und Risiken hervorheben und all diese aktuell zu halten. 
-
+Softwarearchitekt:innen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
+Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit zu machen, Abhängigkeiten und Risiken hervorzuheben und all diese aktuell zu halten.
 
 Beispiele:
 
 * Issue Tracker
 * Tabellen oder leichtgewichtige Datenbanken
-* Präsentationen 
+* Präsentationen
 * Architecture-Decision-Records (ADRs)
 * Diagramme
 * Dashboards (Live-KPIs und Fortschritte in Verbindung mit geplanten Maßnahmen)
@@ -25,13 +24,13 @@ Diese Denkweise wird während der Planungsphase etabliert und stellt sicher, das
 
 Wichtige Prinzipien sind:
 
-* **Strebe Schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Testen und Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
-* **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
+* **Strebe schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Testen und Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
+* **Setze Verbesserungen iterativ um:** „Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
 * **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen. (siehe auch <<LZ-4-04>> und <<LZ-4-05>>)
 * **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt. (siehe auch <<LZ-4-03>>)
 * **Teste nach jeder Änderung:** Ein hohes Qualitätsniveau aufrechterhalten und Regressionen verhindern, indem automatisiertes Testen in den täglichen Arbeitsablauf integriert wird.
 * **Kommuniziere Annahmen explizit:** Alle zugrunde liegenden Annahmen für Stakeholder sichtbar machen, um die Abstimmung zu gewährleisten und Missverständnisse später im Prozess zu vermeiden.
-* **Gruppiere Verbesserungsansätze oder -taktiken:** Verwandte Verbesserungsaufgaben in logische Arbeitspakete oder Themen bündeln. 
+* **Gruppiere Verbesserungsansätze oder -taktiken:** Verwandte Verbesserungsaufgaben in logische Arbeitspakete oder Themen bündeln.
 Dies reduziert Rüstkosten (z.B. Kontextwechsel, Tool-Setup, Teamkoordination), indem ähnliche Aktivitäten zusammen durchgeführt werden können, was zu einer effizienteren Ausführung und einem kohärenteren Plan führt. (siehe auch <<LZ-5-03>>)
 
 
@@ -63,8 +62,8 @@ Methoden zur Planung und Visualisierung:
 
 * User Story Mapping
 * Kanban-Boards
-* Wardley Maps (siehe auch <<hiredThought>> and <<tune>>)
-* Core Domain Charts (siehe auch <<dddCrew>> and <<tune>>)
+* Wardley Maps (siehe auch <<hiredThought>> und <<tune>>)
+* Core Domain Charts (siehe auch <<dddCrew>> und <<tune>>)
 * North Star (siehe auch <<geeks>> und <<tune>>)
 
 [[LZ-5-05]]
@@ -72,9 +71,9 @@ Methoden zur Planung und Visualisierung:
 
 Softwarearchitekt:innen können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
 
- 
+
 Dazu gehören:
- 
+
 * Verständnis der Geschäftsziele und Ausrichtung der Verbesserungsinitiativen auf diese Ziele.
 * Beobachten bevorstehender Herausforderungen (z. B. Veränderungen, Wachstum, Extremsituationen, Trends, Marktentwicklungen) und Einbeziehen dieser in die Verbesserungsstrategie.
 * Vorbereiten von Entscheidungsträgern auf langfristige Verbesserungsprozesse, indem sie einbezogen, über Ziele, Vorteile, Risiken, Hindernisse und Konsequenzen informiert und ihr Engagement gewonnen wird.
@@ -84,7 +83,7 @@ Dazu gehören:
 [INFO]
 ====
 **Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterprise-Architekt:innen.
-Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
+Die Kennzeichnung dieses Lernziels als optional soll Architekt:innen ermutigen, diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
 ====
 
 
@@ -96,16 +95,16 @@ Die Kennzeichnung dieses Lernziels als optional soll  Architekt:innen, ermutigen
 [[LG-5-01]]
 ==== LG 5-01: Represent evaluated problems and solution approaches using appropriate tools
 
-Software architects know technical and manual approaches to explicitly represent evaluated problems and solution approaches and choose fit-for-purpose artifacts for the given situation. 
-They prefer the smallest or simplest approaches to make assumptions explicit, highlight dependencies and risks, and keep all of these up to date. 
+Software architects know technical and manual approaches to explicitly represent evaluated problems and solution approaches and choose suitable approaches for the given situation.
+They prefer the smallest or simplest approaches to make assumptions explicit, highlight dependencies and risks, and keep all of these up to date.
 
 Examples:
 
 * Issue trackers
 * Tables or lightweight databases
-* Presentations 
+* Presentations
 * Architecture Decision Records (ADRs)
-* Diagrams 
+* Diagrams
 * Dashboards (live KPIs and progress tied to planned measures)
 
 [[LG-5-02]]
@@ -120,19 +119,17 @@ Key principles include:
 * **Strive for rapid and frequent feedback:** Create tight feedback loops with stakeholders, users, and the system itself (e.g., via testing and monitoring) to continuously validate the direction of the improvement.
 * **Implement improvements iteratively:** Avoid "big bang" changes where possible. Deliver value in small, manageable increments to reduce risk and demonstrate progress.
 * **Reduce complexity:** Actively seek opportunities to simplify the system, its architecture, and its codebase as part of the improvement work. (see also <<LG-4-04>> and <<LG-4-05>>)
-* **Test improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation. (see also <<LG-4-03>>)
-* **Test after every change:** Maintain a high level of quality and prevent regressions by integrating automated testing into the daily workflow. (see also <<LG-4-03>>)
+* **Validate improvements with prototypes:** Use proofs-of-concept, spikes, or prototypes to test assumptions and reduce technical or business risk before committing to a full implementation. (see also <<LG-4-03>>)
+* **Test after every change:** Maintain a high level of quality and prevent regressions by integrating automated testing into the daily workflow.
 * **Communicate assumptions explicitly:** Make all underlying assumptions visible to stakeholders to ensure alignment and avoid misunderstandings later in the process.
 * **Group improvement approaches or tactics:** Bundle related improvement tasks into logical work packages or themes.
-This reduces overhead and setup costs (e.g., context switching, tool setup, team coordination) by allowing similar activities to be performed together, leading to more efficient execution and a more coherent plan. (see also <<LG-5-03>>)
+This reduces setup costs (e.g., context switching, tool setup, team coordination) by allowing similar activities to be performed together, leading to more efficient execution and a more coherent plan. (see also <<LG-5-03>>)
 
 
 [[LG-5-03]]
 ==== LG 5-03: Develop Improvement Roadmaps
 
 Based on the evaluated problems and selected approaches, software architects can create mid- to long-term improvement roadmaps.
-
-They ensure alignment with business objectives and constraints by anticipating upcoming changes and challenges (growth, risks, technology/market trends).
 
 This includes:
 
@@ -157,9 +154,9 @@ Planning and Visualization Methods:
 
 * User Story Mapping
 * Kanban boards
-* Wardley Maps (see <<hiredThought>> and <<tune>>)
-* Core Domain Charts (see <<dddCrew>> and <<tune>>)
-* North Star (see <<geeks>> and <<tune>>)
+* Wardley Maps (see also <<hiredThought>> and <<tune>>)
+* Core Domain Charts (see also <<dddCrew>> and <<tune>>)
+* North Star (see also <<geeks>> and <<tune>>)
 
 
 [[LG-5-05]]
@@ -167,9 +164,9 @@ Planning and Visualization Methods:
 
 Software architects can effectively align improvement plans with strategic objectives and manage stakeholder engagement.
 
- 
+
 This includes:
- 
+
 * Understanding business objectives and aligning improvement initiatives with them.
 * Watching for upcoming challenges (e.g., changes, growth, extreme situations, trends, market developments) and incorporating them into the improvement strategy.
 * Preparing decision-makers for long-term improvement processes by involving them, informing them about goals, benefits, risks, obstacles, and consequences, and obtaining their commitment.
@@ -178,7 +175,7 @@ This includes:
 
 [INFO]
 ====
-**Remark:** In several organizations, strategic alignment and stakeholder management are primarily the responsibilities of management or enterprise architects.
+**Note:** In many organizations, strategic alignment and stakeholder management are primarily the responsibilities of management or enterprise architects.
 Marking this learning goal as optional shall encourage architects to develop these skills where context and authority permit, without making them a required competency in all roles or organizations.
 ====
 

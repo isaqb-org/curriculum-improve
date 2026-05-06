@@ -5,7 +5,7 @@
 
 // tag::DE[]
 [[section-improvements]]
-== Typische Ansätze für Verbesserung 
+== Typische Ansätze für Verbesserung
 
 // end::DE[]
 
