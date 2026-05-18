@@ -83,7 +83,7 @@ Softwarearchitekt:innen:
 
 * kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise
 ** Modularisierung/Komponentenbildung,
-** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway,
+** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway),
 ** zeitliche Entkopplung über Asynchronität
 * können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
