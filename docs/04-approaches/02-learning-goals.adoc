@@ -60,7 +60,7 @@ Softwarearchitekt:innen sollten beispielsweise:
 * weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
 ** Continuous Integration und Continuous Delivery
 ** Everything-as-Code-Techniken (z.B. für Dokumentation, Diagramme, Pipelines, Infrastruktur)
-** Codetransformationswerkzeuge für umfangreiche Refactorings, bei Bedarf unterstützt zur generative Ansätze
+** Codetransformationswerkzeuge für umfangreiche Refactorings, bei Bedarf unterstützt durch generative Ansätze
 
 
 [[LZ-4-04]]
