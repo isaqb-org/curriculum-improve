@@ -60,7 +60,7 @@ Softwarearchitekt:innen sollten beispielsweise:
 * weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
 ** Continuous Integration und Continuous Delivery
 ** Everything-as-Code-Techniken (z.B. für Dokumentation, Diagramme, Pipelines, Infrastruktur)
-** Codetransformationswerkzeuge für umfangreiche Refactorings
+** Codetransformationswerkzeuge für umfangreiche Refactorings, bei Bedarf unterstützt zur generative Ansätze
 
 
 [[LZ-4-04]]
@@ -192,7 +192,7 @@ Software architects should, for example:
 * be familiar with other automation methods that can systematically reduce change risks and effort, for example:
 ** Continuous Integration and Continuous Delivery
 ** Everything-as-Code techniques (e.g., for documentation, diagrams, pipelines, infrastructure)
-** code transformation tools for large-scale refactorings
+** code transformation tools for large-scale refactorings, supported by generative approaches where necessary
 
 
 [[LG-4-04]]
