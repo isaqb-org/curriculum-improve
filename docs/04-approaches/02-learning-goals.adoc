@@ -55,8 +55,9 @@ Hierzu zählen beispielsweise:
 
 Softwarearchitekt:innen sollten beispielsweise:
 
-* automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können, einschließlich KI-gestützter Testgenerierung (inkl. deren Grenzen),
+* automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können,
 * erkennen können, an welchen Stellen (etwa: Schnittstellen oder Komponenten) automatisierte Tests angemessen oder notwendig sind,
+* speziellere Testarten und ihre Anwendungsfelder wie etwa KI-gestützte Testgenerierung, Mutation Testing oder Consumer-Driven Contract Testing kennen,
 * weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
 ** Continuous Integration und Continuous Delivery
 ** Everything-as-Code-Techniken (z.B. für Dokumentation, Diagramme, Pipelines, Infrastruktur)
@@ -187,8 +188,9 @@ These include, for example:
 
 Software architects should, for example:
 
-* be able to design and implement automated tests (unit, integration, acceptance, regression tests) as a means of early detection of errors after changes, including AI-assisted test generation (incl. its limitations),
+* be able to design and implement automated tests (unit, integration, acceptance, regression tests) as a means of early detection of errors after changes,
 * be able to recognize where (e.g., interfaces or components) automated tests are appropriate or necessary,
+* know more specific testing methods and their areas of application, such as AI-assisted test generation, mutation testing or Consumer-Driven Contract Testing,
 * be familiar with other automation methods that can systematically reduce change risks and effort, for example:
 ** Continuous Integration and Continuous Delivery
 ** Everything-as-Code techniques (e.g., for documentation, diagrams, pipelines, infrastructure)
