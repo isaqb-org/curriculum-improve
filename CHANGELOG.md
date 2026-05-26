@@ -6,11 +6,11 @@
 
 **Clearer flow & re‑sequencing of chapters.** 
   
-- The update puts **“Approaches and Practices for Improvement” before “Planning Improvements”** (now Ch. 4 then Ch. 5); in v1.6.1 planning came first (Ch. 4) and approaches second (Ch. 5). This better mirrors how we teach: know the toolbox before you craft the roadmap. 
+- The update puts **"Approaches and Practices for Improvement" before "Planning Improvements"** (now Ch. 4 then Ch. 5); in v1.6.1 planning came first (Ch. 4) and approaches second (Ch. 5). This better mirrors how we teach: know the toolbox before you craft the roadmap. 
 
 **Learning Goals Overview + overview graphic/map.** 
 
-The new document opens with a **one‑page Learning Goals Overview** and a **concise “navigational map” of the curriculum**—ideal for setting expectations at the start of day 1.
+The new document opens with a **one‑page Learning Goals Overview** and a **concise "navigational map" of the curriculum**—ideal for setting expectations at the start of day 1.
 
 **Learning goals refined & expanded.** 
 
@@ -37,7 +37,7 @@ Wording updates and refreshed concepts (e.g., **Run‑the‑Shop (RTC) / Develop
 3. **New LG 2‑08 (metrics):** quantitative system analysis and choosing/combining metrics—previously embedded implicitly; now explicit. **New LG 2‑09 (application data).** Stand‑alone focus on data models, quality, anomalies, migration, and performance. 
 4. **New LG 2‑10 (technical & organizational process analysis).** Explicit process analysis beyond the system; formerly scattered across analysis content.  
 5. **LG 3‑04 (Rewrite vs. Incremental)** called out explicitly to support earlier evaluation of macro‑strategies. 
-6. **LG 4‑01 reframed:** **“Match Improvement Approaches to Problem and Context.”** Provides a clearer taxonomy to select tactics.
+6. **LG 4‑01 reframed:** **"Match Improvement Approaches to Problem and Context."** Provides a clearer taxonomy to select tactics.
 7. **LG 4‑03 expands automation** (beyond tests: infrastructure/docs/diagrams as code are referenced in the text). Emphasize change‑risk reduction and fast feedback.  
 8. **New LG 4‑06 (data/database improvements)** introduces explicit database modernization tactics.
 9.  **Planning gains optional LGs** (**LG 5‑04** planning/prioritization methods, **LG 5‑05** strategy alignment & stakeholder engagement) to respect role differences.  

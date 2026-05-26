@@ -25,7 +25,7 @@ Participants *should* have the following knowledge and/or experience:
 
 * Hands-on experience in design and development of small to medium size software systems.
 * Some hands-on experience in maintenance and evolution of a software system.
-* Some hands-on experience with the handling of source code of medium to large scale systems, in particular: analysis, assessment, quality heck, refactoring, and applying of metrics.
+* Some hands-on experience with the handling of source code of medium to large scale systems, in particular: analysis, assessment, quality check, refactoring, and applying of metrics.
 
 Furthermore, the following will be useful for understanding certain concepts:
 

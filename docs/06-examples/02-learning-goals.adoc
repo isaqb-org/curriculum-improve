@@ -5,15 +5,15 @@
 
 Softwarearchitekt:innen können anhand konkreter Beispiele Probleme und Risiken eines mittleren/großen IT-Systems erkennen und nachvollziehen.
 
-Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
+Dazu sollten in Schulungen mindestens dessen fachliche/funktionale Anforderungen, wesentliche Randbedingungen, wesentliche Qualitätsziele, Anwendungs- und Änderungsszenarien, wesentliche Implementierungsstrukturen sowie wesentliche übergreifende Konzepte beschrieben werden.
 
 [[LZ-6-02]]
-==== LZ 6-02: Bewerten von Problemen/Risiken anhand von Beispielen
+==== LZ 6-02: Bewerten von Problemen und Lösungsansätzen anhand von Beispielen
 
-Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösungsansätzen nachvollziehen können.
+Anhand konkreter Beispiele die Bewertung (Evaluierung) von Problemen oder Lösungsansätzen kennenlernen und nachvollziehen können.
 
 [[LZ-6-03]]
-==== LZ 6-03: Planen von  Verbesserungsvorhaben anhand von Beispielen
+==== LZ 6-03: Planen von Verbesserungsvorhaben anhand von Beispielen
 
 Anhand konkreter Beispiele die (kurz-, mittel- und/oder langfristige) Planung eines Verbesserungsprojektes kennenlernen und nachvollziehen können.
 
@@ -27,24 +27,24 @@ Anhand konkreter Beispiele die möglichen oder durchgeführten Verbesserungsmaß
 === {learning-goals}
 
 [[LG-6-01]]
-==== LG 6-01: Understanding problems and risks based upon examples
+==== LG 6-01: Understand problems and risks based upon examples
 
-Software architects can understand problems and risks of a medium/large IT system using concrete examples.
+Software architects can identify and understand problems and risks of a medium/large IT system using concrete examples.
 
-Therefore, the training should at least describe the system’s main functional and non-functional requirements, quality goals, usage and change scenarios, essential implementation structures as well as important cross-cutting concepts.
+Therefore, the training should at least describe the system’s essential functional requirements, essential constraints, essential quality goals, usage and change scenarios, essential implementation structures as well as essential cross-cutting concepts.
 
 [[LG-6-02]]
 ==== LG 6-02: Evaluate problems and solution approaches based upon examples
 
-Understand the assessment (evaluation) of problems or approaches to solutions by means of specific examples.
+Understand the assessment (evaluation) of problems or solution approaches based on specific examples.
 
 [[LG-6-03]]
-==== LG 6-03: Plan improvements based upon examples
+==== LG 6-03: Plan improvement projects based upon examples
 
-Get to know and understand the (short-, medium- and/or long-term) planning of an improvement project by means of specific examples.
+Understand and trace the (short-, medium- and/or long-term) planning of an improvement project based on specific examples.
 
 [[LG-6-04]]
 ==== LG 6-04: Propose improvement measures based upon examples
 
-Get to know and understand the possible or implemented improvement measures based on specific examples.
+Understand and trace the possible or implemented improvement measures based on specific examples.
 // end::EN[]

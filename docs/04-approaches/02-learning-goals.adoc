@@ -3,14 +3,14 @@
 [[LZ-4-01]]
 ==== LZ 4-01: Verbesserungsansätze auf Problem und Kontext abstimmen
 
-Softwarearchitekt:innen kennen und unterscheiden verschiedene Verbesserungsansätze und können für einen gegebenen Kontext geeignete  auswählen. 
+Softwarearchitekt:innen kennen und unterscheiden verschiedene Verbesserungsansätze und können für einen gegebenen Kontext geeignete auswählen.
 Zu diesen Ansätzen gehören:
 
 * Ad-hoc- oder einmalige Verbesserungen:
 ** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
 ** In der Regel als Reaktion auf ein unmittelbares Problem.
 
-* Refactoring (lokale strukturelle Verbesserung)
+* Refactoring (lokale strukturelle Verbesserung):
 ** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens.
 ** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht.
 ** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
@@ -24,13 +24,13 @@ Zu diesen Ansätzen gehören:
 ** Beispiele: Application Strangler, schrittweise Ablösung.
 
 * Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
-** Größere Neugestaltung grundlegender Strukturen, Konzepten oder Mustern, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen
-** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft
-** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie
+** Größere Neugestaltung grundlegender Strukturen, Konzepte oder Muster, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen.
+** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft.
+** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie.
 ** Beispiele: Kapselung von Problemen, Extraktion fachlicher Teile.
 
 * Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
-** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme oder geänderte Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
+** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme, konzeptionellen Verfalls oder signifikant geänderter Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
 
 * Organisatorische Ansätze
 ** Business Process Reengineering
@@ -59,9 +59,12 @@ Softwarearchitekt:innen sollten beispielsweise:
 * erkennen können, an welchen Stellen (etwa: Schnittstellen oder Komponenten) automatisierte Tests angemessen oder notwendig sind,
 * speziellere Testarten und ihre Anwendungsfelder wie etwa KI-gestützte Testgenerierung, Mutation Testing oder Consumer-Driven Contract Testing kennen,
 * weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
-** Continuous Integration und Continuous Delivery
-** Everything-as-Code-Techniken (z.B. für Dokumentation, Diagramme, Pipelines, Infrastruktur)
-** Codetransformationswerkzeuge für umfangreiche Refactorings, bei Bedarf unterstützt durch generative Ansätze
+** Continuous Integration
+** Continuous Delivery
+** Model-driven development/generative development
+** Infrastructure-as-code
+** Docs-as-code
+** Diagrams-as-code
 
 
 [[LZ-4-04]]
@@ -74,7 +77,7 @@ Softwarearchitekt:innen sollten:
 * Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und beurteilen können.
 * Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
-* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_ Prinzipien.
+* Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_-Prinzipien.
 * KI-gestützte Werkzeuge zur Verbesserung von Quellcode kennen und deren Einsatzmöglichkeiten sowie Grenzen beurteilen können.
 
 [[LZ-4-05]]
@@ -84,9 +87,9 @@ Softwarearchitekt:innen:
 
 * kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise
 ** Modularisierung/Komponentenbildung,
-** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway),
+** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway,
 ** zeitliche Entkopplung über Asynchronität
-* können deren Effekte (Wirkungen und Nebenwirkungen), ggfs. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
+* können deren Effekte (Wirkungen und Nebenwirkungen), ggf. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
 
 
 [[LZ-4-06]]
@@ -121,10 +124,10 @@ Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigensc
 [[LZ-4-09]]
 ==== LZ 4-09: Verbessern der technischen Dokumentation
 
-Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation und können diese anwenden, beispielsweise:
+Softwarearchitekt:innen kennen grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation und können diese anwenden, beispielsweise:
 
 * Einhaltung etablierter Dokumentationsstrukturen (z. B. Templates)
-* Gezielte Reduktion von Dokumentationsumfang durch Abstraktion oder inhaltliche Fokussierung
+* Gezielte Reduktion des Dokumentationsumfangs durch Abstraktion oder inhaltliche Fokussierung
 * Top-Down-Kommunikation
 * Trennung struktureller (spezifischer) und konzeptioneller (übergreifender) Inhalte
 * Modularisierung von Dokumentation
@@ -137,24 +140,24 @@ Softwarearchitekt:innen kennen Grundlegende Möglichkeiten zur systematischen Ve
 [[LG-4-01]]
 ==== LG 4-01: Match Improvement Approaches to Problem and Context
 
-Software architects know and can differentiate various improvement approaches, and can select appropriately for a given context. 
+Software architects know and can differentiate various improvement approaches, and can select appropriately for a given context.
 These approaches include:
 
 * Ad-hoc or One-time Improvements:
 ** Small, situational fixes applied without a systematic plan, typically to remove an acute pain point or urgent defect
-** Usually done as reaction to immediate problem
+** Usually done as a reaction to an immediate problem
 
-* Refactoring (local structural improvement)
+* Refactoring (local structural improvement):
 ** Focused restructuring of code or architecture without changing behavior.
-** Scientifically defined (by <<opdyke>>) and defined for a broad audience, primarily by <<fowler>> and <<refactoring>>, following structured, defined, reproducible and invertable sets of operations,
-** aiming to improve clarity, reduce complexity, or isolate changes,
-** often done proactively.
+** Scientifically defined (by <<opdyke>>) and made accessible to a broad audience primarily by <<fowler>> and <<refactoring>>.
+** Comprises structured, defined, reproducible and reversible operations, aiming to improve clarity, reduce complexity, or isolate changes.
+** Often done proactively.
 
 * Incremental or Continuous Improvement, _evolutionary change_
-** Stepwise, ongoing improvement activities embedded in regular development
-** often targeting internal quality and maintainability
-** Scope often on local or subsystem level
-** small, cumulative steps
+** Stepwise, ongoing improvement activities embedded in regular development.
+** Often targeting internal quality and maintainability.
+** Scope often on local or subsystem level.
+** Small, cumulative steps.
 ** Examples: Application Strangler, incremental replacement.
 
 * Conceptual or Architectural Rework (Re-Architecting / Reengineering), _transformational change_
@@ -164,7 +167,7 @@ These approaches include:
 ** Examples: Encapsulation of problems, extraction of business aspects.
 
 * Replacement or Redevelopment (Rewrite, sometimes called _big bang_)
-** Creating a new system or subsystem when accumulated debt, conceptual decay, or changed requirements make incremental improvement uneconomical.
+** Creating a new system or subsystem when massive problems, conceptual decay, or significantly changed requirements make incremental improvement uneconomical.
 
 * Organizational Approaches
 ** Business Process Reengineering
@@ -179,8 +182,8 @@ These include, for example:
 
 * Decentralization vs. centralization of development processes.
 * Employment of iterative processes to reduce risks.
-* Reduce idle times and buffers to accelerate development processes.
-* Identify critical parts (people, organizational units) in development processes and possible ways to relieve them.
+* Reduction of idle times and buffers to accelerate development processes.
+* Identification of critical parts (people, organizational units) in development processes and possible ways to relieve them.
 
 
 [[LG-4-03]]
@@ -204,7 +207,7 @@ See also <<LG-2-06>>.
 
 Software architects should:
 
-* know and assess typical technology/programming language-specific refactorings (semantics preserving simplification measures in source code).
+* know and assess typical technology/programming language-specific refactorings (behavior-preserving simplification measures in source code).
 * know how to improve use of technology or how to introduce better technology (change of technology).
 * know and be able to assess measures and patterns to reduce coupling at source code level.
 * know measures and patterns to make source code more comprehensible, e.g., _Clean Code_ principles.
@@ -216,7 +219,7 @@ Software architects should:
 
 Software architects:
 
-* know typical patterns or approaches to reduce internal coupling and can apply these (e.g.:
+* know typical patterns or approaches to reduce coupling and can apply these, e.g.:
 ** modularization/component building,
 ** decoupling via interfaces, dependency injection, encapsulation, adapter, wrapper, gateway,
 ** decoupling by asynchronous communication
@@ -233,7 +236,7 @@ Examples of such approaches include:
 * _Deprecation period_ pattern for database refactoring (see <<amblersadalage>>).
 * Splitting or merging databases to improve required qualities.
 * Adjusting data structures/types to current requirements, including designing and implementing data migrations.
-* Technical options like indexing, caching, query optimization, partitioning, sharding
+* Technical options like indexing, caching, query optimization, partitioning, sharding.
 * Techniques to achieve or maintain consistency across replicated or distributed data.
 
 Software architects know the challenges of:
@@ -248,19 +251,19 @@ Software architects know the challenges of:
 Know and be able to apply technology-specific patterns and practices to improve runtime properties (specific choices are at the training provider’s discretion).
 
 [[LG-4-08]]
-==== LG 4-08: Improve system operability using suitable practices
+==== LG 4-08: Improve the operability of systems
 
-(Possibly technology specific) patterns and practices to improve system operations (specific choices are at the training provider’s discretion).
+(Possibly technology specific) patterns and practices to improve operability (specific choices are at the training provider’s discretion).
 
 [[LG-4-09]]
-==== LG 4-09:  Improve technical documentation
+==== LG 4-09: Improve technical documentation
 
 Software architects know fundamental options for systematic improvement of technical documentation and can apply these, such as:
 
 * Compliance with established document structures (e.g., templates)
-* Targeted reduction of documentation volume through abstraction or focussing on essential topics
-* Top-down communication,
+* Targeted reduction of documentation volume through abstraction or focusing on essential topics.
+* Top-down communication.
 * Separation of structural (specific) and conceptual (overarching) contents.
-* Modularization of documentation
+* Modularization of documentation.
 
 // end::EN[]

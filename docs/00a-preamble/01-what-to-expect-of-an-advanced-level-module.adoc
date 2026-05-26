@@ -13,6 +13,6 @@ Das Modul kann unabhängig von einer CPSA-F-Zertifizierung besucht werden.
 The module can be attended independently of a CPSA-F certification.
 
 - The iSAQB Advanced Level offers modular training in three areas of competence with flexibly designable training paths. It takes individual inclinations and priorities into account.
-- The certification is done as an assignment. The assessment and oral exam is conducted by experts appointed by the iSAQB.
+- The certification is done as an assignment. The assessment and oral exam are conducted by experts appointed by the iSAQB.
 // end::EN[]
 
