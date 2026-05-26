@@ -29,7 +29,7 @@ Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisat
 ** enge Kopplung,
 ** hohe Komplexität,
 ** geringe Kohäsion,
-** handwerkliche Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder -werkzeugen,
+** Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder -werkzeugen,
 * Probleme mit Anwendungsdaten, Datenstrukturen oder Datenspeicherung
 * Laufzeitprobleme in Systemen, etwa Instabilität, mangelnde Robustheit oder Zuverlässigkeit, mangelnde Performance oder zu hoher Ressourcenbedarf, mangelnde Skalierbarkeit
 * Probleme bei Erreichung von Qualitätsanforderungen, etwa mangelnde Änderbarkeit, Verständlichkeit, Flexibilität, Sicherheit, Testbarkeit, Portabilität oder andere für das jeweilige System oder Umfeld relevante Qualitätseigenschaften (siehe etwa <<iso25010>> oder <<Q42>>),
@@ -102,7 +102,7 @@ Software architects should be able to recognize and identify various types of te
 ** tight coupling,
 ** high complexity,
 ** low cohesion,
-** craftsmanship weaknesses in programming, such as non-idiomatic use of programming languages or tools
+** weaknesses in programming, such as non-idiomatic use of programming languages or tools
 * Problems with application data, data structures, or data storage
 * Runtime problems in systems, such as instability, lack of robustness or reliability, poor performance or excessive resource requirements, lack of scalability
 * Problems in meeting quality requirements, such as lack of changeability, comprehensibility, flexibility, security, testability, portability, or other quality characteristics relevant to the respective system or environment (see, for example, <<iso25010>> or <<Q42>>)
