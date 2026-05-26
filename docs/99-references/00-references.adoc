@@ -7,8 +7,6 @@
 - [[[aim,aim42]]] Architecture Improvement Method – Open-Source collection of practices and patterns to support software evolution, modernization, maintenance, migration and improvement of software systems. https://aim42.org/[https://aim42.org] as well as https://aim42.github.io/[https://aim42.github.io]
 - [[[amblersadalage,Ambler+2006]]] Scott Ambler, Pramod Sadalage: Refactoring Databases - Evolutionary Database Design, Addison-Wesley, 2006. Companion website: https://databaserefactoring.com/ (despite its age, the content is still valid in modern DB environments)
 
-- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
-
 
 **B**
 
