@@ -25,7 +25,7 @@ Diese Denkweise wird während der Planungsphase etabliert und stellt sicher, das
 Wichtige Prinzipien sind:
 
 * **Strebe schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Testen und Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
-* **Setze Verbesserungen iterativ um:** „Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
+* **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
 * **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen. (siehe auch <<LZ-4-04>> und <<LZ-4-05>>)
 * **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt. (siehe auch <<LZ-4-03>>)
 * **Teste nach jeder Änderung:** Ein hohes Qualitätsniveau aufrechterhalten und Regressionen verhindern, indem automatisiertes Testen in den täglichen Arbeitsablauf integriert wird.

@@ -134,7 +134,7 @@ Dazu gehören:
 
 Software architects are able to:
 
-* distinguish between “analyzing problems” and “solving problems”
+* distinguish between "analyzing problems" and "solving problems"
 * map problems and solution approaches with m:n relations to each other
 * decompose large or complicated problems into parts
 

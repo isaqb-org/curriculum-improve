@@ -38,7 +38,7 @@
 | 360 min (6h)
 |===
 
-In diesem Kontext stellt „Lehre“ die Unterrichtszeit ohne Übungszeit dar.
+In diesem Kontext stellt "Lehre" die Unterrichtszeit ohne Übungszeit dar.
 Die Zeitaufteilung zwischen Lehre und Übungen ist lediglich eine Empfehlung.
 Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorgegeben.
 
@@ -83,7 +83,7 @@ Die Ausgestaltung der Beispiele und Übungen sind in diesem Lehrplan nicht vorge
 | 360 min (6h)
 |===
 
-In this context, “Teaching“ refers to teaching time without exercises.
+In this context, "Teaching" refers to teaching time without exercises.
 The time breakdown between teaching and exercises is only a recommendation.
 The design of the examples and exercises aren't specified in this curriculum.
 
