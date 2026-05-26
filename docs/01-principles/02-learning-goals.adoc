@@ -115,8 +115,6 @@ Software architects should be able to recognize and identify various types of te
 ** Problems in communication with/between stakeholders
 ** Continual scope churn under time/cost pressure (frequently changing requirements, priorities, or acceptance criteria), leading to ad-hoc work, erosion of conceptual integrity, and accumulation of legacy/technical debt.
 
-They should know that continual scope churn under pressure creates legacy code and technical debt.
-
 See <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
 
 [[LG-1-03]]
