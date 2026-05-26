@@ -23,7 +23,7 @@ Dazu gehören beispielsweise folgende Ansätze:
 * Kontextanalyse (siehe <<LZ-2-05>>)
 * Qualitative Analyse (etwa ATAM (<<atam>>) oder LASR (<<lasr>>)), insbesondere die Analyse von Qualitätszielen
 * Analyse der Ist-Struktur von Systemen: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen (siehe <<LZ-2-06>>)
-** Analyse von strukturellen Abweichungen zwischen geplanten und aktuellen Strukturen
+* Analyse von strukturellen Abweichungen zwischen geplanten und aktuellen Strukturen
 
 * Quantitative Analysemethoden (siehe <<LZ-2-08>>) und -praktiken, etwa:
 ** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
@@ -152,7 +152,7 @@ This includes approaches such as:
 * Context analysis (see <<LG-2-05>>)
 * Qualitative analysis (e.g. ATAM (<<atam>>) or LASR (<<lasr>>)), particularly the analysis of quality goals
 * Structural analysis of systems: dependency analysis of various abstraction levels (see <<LG-2-06>>)
-** Analysis of structural deviations between planned and current structures
+* Analysis of structural deviations between planned and current structures
 
 * Quantitative analysis methods and practices (see <<LG-2-08>>), such as:
 ** Code metrics (size metrics, coupling, complexity, cohesion)
