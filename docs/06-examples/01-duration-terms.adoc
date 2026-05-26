@@ -4,8 +4,6 @@
 | Lehre: 60 Min. | Übung: 0 Min.
 |===
 
-**Anmerkung**:
-
 === Begriffe und Konzepte
 Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für eine zu verbessernde Softwarearchitektur vorgestellt werden. Beispiele für Verbesserungsprojekte realer Systeme können von Trainer:innen und Schulungsanbietern individuell ausgewählt werden und werden vom iSAQB^(R)^ e. V. nicht vorgegeben.
 
@@ -21,8 +19,6 @@ Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertr
 |===
 | Teaching: 60 min | Practice: 0 min
 |===
-
-**Note:**
 
 === Terms and concepts
 At least one example of a software architecture to be improved must be presented within each licensed course. Examples for improvement projects of real systems can be individually selected by trainers and training providers and are not specified by the iSAQB^(R)^ e. V..
