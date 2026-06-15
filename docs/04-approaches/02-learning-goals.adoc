@@ -1,137 +1,38 @@
 // tag::DE[]
 === {learning-goals}
 [[LZ-4-01]]
-==== LZ 4-01: Verbesserungsansätze auf Problem und Kontext abstimmen
+==== LZ 4-01: Verbesserungsansätze auf Probleme und die eigene Situation abstimmen
 
 Softwarearchitekt:innen kennen und unterscheiden verschiedene Verbesserungsansätze und können für einen gegebenen Kontext geeignete auswählen.
 Zu diesen Ansätzen gehören:
 
-* Ad-hoc- oder einmalige Verbesserungen:
-** Kleine, situationsbezogene Korrekturen ohne systematischen Plan, in der Regel zur Beseitigung eines akuten Problems oder eines dringenden Mangels.
-** In der Regel als Reaktion auf ein unmittelbares Problem.
-
-* Refactoring (lokale strukturelle Verbesserung):
-** Gezielte Umstrukturierung von Code oder Architektur ohne Änderung des Verhaltens.
-** Wissenschaftlich definiert (von <<opdyke>>) und primär durch <<fowler>> und <<refactoring>> der Allgemeinheit zugänglich gemacht.
-** Umfasst strukturierte, definierte, reproduzierbare und umkehrbare Operationen, mit dem Ziel, die Übersichtlichkeit zu verbessern, die Komplexität zu verringern oder Änderungen zu isolieren.
-** Wird oft proaktiv durchgeführt.
-
-* Inkrementelle oder kontinuierliche Verbesserung, _evolutionäre Veränderung_
-** Schrittweise, fortlaufende Verbesserungsmaßnahmen, eingebettet in reguläre Entwicklung.
-** Zielt oft auf interne Qualität und Wartbarkeit ab.
-** Umfang oft auf lokaler oder Subsystemebene.
-** Kleine, kumulative Schritte.
-** Beispiele: Application Strangler, schrittweise Ablösung.
-
-* Konzeptionelle oder architektonische Überarbeitung (Re-Architecting / Reengineering), _transformative Veränderung_
-** Größere Neugestaltung grundlegender Strukturen, Konzepte oder Muster, um die konzeptionelle Integrität wiederherzustellen oder an neue Anforderungen anzupassen.
-** Umfang oft auf Systemebene oder übergreifende Neugestaltung, die Kernkonzepte oder den Technologie-Stack betrifft.
-** Wesentliche Änderung der Architekturprinzipien, Komponentenstrukturen oder Laufzeittopologie.
-** Beispiele: Kapselung von Problemen, Extraktion fachlicher Teile.
-
-* Ersatz oder Neuentwicklung (Neuschreiben, manchmal auch _Big Bang_ genannt)
-** Entwicklung eines neuen Systems oder Subsystems, wenn das bestehende System aufgrund massiver Probleme, konzeptionellen Verfalls oder signifikant geänderter Anforderungen inkrementelle Verbesserungen unwirtschaftlich macht.
-
+* Ad-hoc- oder einmalige Verbesserungen
+* Inkrementelle oder kontinuierliche Verbesserung
+* Konzeptionelle oder architektonische Überarbeitung
+* Verbesserungsmaßnahmen auf unterschiedlichen Ebenen
 * Organisatorische Ansätze
-** Business Process Reengineering
-** Outsourcing
+* Optimierung von Entwicklungsvorgehen
 
 [[LZ-4-02]]
-==== LZ 4-02: Optimieren von Entwicklungsprozessen durch geeignete Maßnahmen
+==== LZ 4-02: Konkrete Verbesserungsmaßnahmen für mehr Feedback bewerten
 
-Siehe auch <<LZ-2-10>>.
-
-Hierzu zählen beispielsweise:
-
-* Dezentralisierung bzw. Zentralisierung von Entwicklungsprozessen.
-* Einsatz iterativer Prozesse zur Reduktion von Risiken.
-* Verringerung von Wartezeiten und Puffern zur Beschleunigung von Entwicklungsprozessen.
-* Identifikation kritischer Bestandteile (Personen, Organisationseinheiten) in Entwicklungsprozessen und deren Entlastung.
-
+* automatisierte Tests als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können,
+* erkennen können, an welchen Stellen automatisierte Tests angemessen eingebracht werden können oder notwendig sind,
+* speziellere Testarten und ihre Anwendungsfelder wie etwa KI-gestützte Testgenerierung, Mutation Testing oder Consumer-Driven Contract Testing kennen,
+* weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können.
 
 
 [[LZ-4-03]]
-==== LZ 4-03: Reduzieren von Änderungsrisiken durch Automatisierung
+==== LZ 4-03: Verbessern von Quellcode und Architektur
 
-Softwarearchitekt:innen sollten beispielsweise:
-
-* automatisierte Tests (Unit-, Integrations-, Akzeptanz-, Regressionstests) als Mittel zur Früherkennung von Fehlern nach Änderungen konzipieren und umsetzen können,
-* erkennen können, an welchen Stellen (etwa: Schnittstellen oder Komponenten) automatisierte Tests angemessen oder notwendig sind,
-* speziellere Testarten und ihre Anwendungsfelder wie etwa KI-gestützte Testgenerierung, Mutation Testing oder Consumer-Driven Contract Testing kennen,
-* weitere Methoden der Automatisierung kennen, die systematisch Änderungsrisiken und -aufwände reduzieren können, beispielsweise:
-** Continuous Integration
-** Continuous Delivery
-** Model-driven development/generative development
-** Infrastructure-as-code
-** Docs-as-code
-** Diagrams-as-code
-
-
-[[LZ-4-04]]
-==== LZ 4-04: Verbessern von Quellcode
-
-Siehe auch <<LZ-2-06>>.
-
-Softwarearchitekt:innen sollten:
-
-* Für Technologien/Programmiersprachen typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und beurteilen können.
-* Technologien besser nutzen und bessere Technologie einführen können(Technologiewechsel).
+* Technologie-/Programmiersprachen-typische Refactorings (verhaltenserhaltende Vereinfachungsmaßnahmen im Quellcode) kennen und beurteilen können.
+* Technologien besser nutzen und bessere Technologie einführen können (Technologiewechsel).
 * Maßnahmen und Muster zur Reduktion von Kopplung in Quellcode kennen und beurteilen können.
 * Maßnahmen und Muster zur Verbesserung der Verständlichkeit von Quellcode kennen, beispielsweise _Clean-Code_-Prinzipien.
 * KI-gestützte Werkzeuge zur Verbesserung von Quellcode kennen und deren Einsatzmöglichkeiten sowie Grenzen beurteilen können.
-
-[[LZ-4-05]]
-==== LZ 4-05: Reduzieren von Kopplung innerhalb von Systemen
-
-Softwarearchitekt:innen:
-
-* kennen typische Muster oder Lösungsansätze zur Reduktion von Kopplung und können diese anwenden, beispielsweise
-** Modularisierung/Komponentenbildung,
-** Entkopplung über z.B. Interfaces, Dependency-Injection, Kapselung, Adapter, Wrapper, Gateway,
-** zeitliche Entkopplung über Asynchronität
-* können deren Effekte (Wirkungen und Nebenwirkungen), ggf. unter Zuhilfenahme entsprechender Werkzeuge, nachvollziehen.
-
-
-[[LZ-4-06]]
-==== LZ 4-06: Lösen von daten- und datenbank-bezogenen Problemen
-
-Siehe auch <<LZ-2-09>>.
-
-Beispiele für solche Ansätze sind:
-
-* _Deprecation Period_ für Datenbank-Refactoring (siehe <<amblersadalage>>).
-* Aufteilen oder Zusammenführen von Datenbanken zur Verbesserung der erforderlichen Eigenschaften.
-* Anpassen von Datenstrukturen/-typen an aktuelle Anforderungen, einschließlich Entwerfen und Implementieren von Datenmigrationen.
-* Technische Optionen wie Indizierung, Caching, Abfrageoptimierung, Partitionierung, Sharding
-* Techniken zur Erreichung oder Aufrechterhaltung der Konsistenz über replizierte oder verteilte Daten hinweg.
-
-Softwarearchitekt:innen kennen die Herausforderungen von:
-
-* gemeinsam genutzten, verteilten oder replizierten Daten, wie Schreibkonflikte, Integritätsverletzungen, Inkonsistenzen.
-* Versionierung von Datenstrukturen und Daten.
-
-
-[[LZ-4-07]]
-==== LZ 4-07: Verbessern des Laufzeitverhaltens von Systemen
-
-Technologiespezifische Muster und Praktiken zur Verbesserung von Laufzeiteigenschaften kennen und anwenden können (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
-
-[[LZ-4-08]]
-==== LZ 4-08: Verbessern der Betreibbarkeit von Systemen
-
-(Unter Umständen technologiespezifische) Muster und Praktiken zur Verbesserung der Betreibbarkeit kennen (die detaillierte Auswahl obliegt dem Schulungs-/Trainingsanbieter).
-
-[[LZ-4-09]]
-==== LZ 4-09: Verbessern der technischen Dokumentation
-
-Softwarearchitekt:innen kennen grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation und können diese anwenden, beispielsweise:
-
-* Einhaltung etablierter Dokumentationsstrukturen (z. B. Templates)
-* Gezielte Reduktion des Dokumentationsumfangs durch Abstraktion oder inhaltliche Fokussierung
-* Top-Down-Kommunikation
-* Trennung struktureller (spezifischer) und konzeptioneller (übergreifender) Inhalte
-* Modularisierung von Dokumentation
-
+* Daten- und datenbankbezogene Probleme lösen können
+* Laufzeitverhalten und Betreibbarkeit von Systemen verbessern können
+* Grundlegende Möglichkeiten zur systematischen Verbesserung von technischer Dokumentation kennen und anwenden können
 // end::DE[]
 
 // tag::EN[]

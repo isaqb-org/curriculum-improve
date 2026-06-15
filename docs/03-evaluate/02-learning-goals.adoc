@@ -11,41 +11,27 @@
 ** Bereits genehmigte strategische Initiativen nutzen, um Verbesserungsmaßnahmen an diesen Prioritäten auszurichten und zu verknüpfen.
 ** Vorgegebene IT-Budgetstrukturen wie 'Plan – Build – Run' für Verbesserungen ausnutzen.
 ** Grundlegende Argumentationslinien unter Anwendung wirtschaftlicher Konzepte wie ROI, Break-Even-Analyse, Abschreibungen und Amortisation verstehen.
-** Geeignete Wege zur Zuordnung von Problem- und Verbesserungskosten auf der Basis von Kostentreibern (intern und extern) finden.
-** Potenzielle Kosten im Zusammenhang mit Risiken und technische Schulden identifizieren, einschließlich Auswirkungen auf Projektlaufzeiten und möglicher Schäden am Unternehmensruf.
+** Potenzielle Kosten im Zusammenhang mit Risiken und technischen Schulden identifizieren, einschließlich Auswirkungen auf Projektlaufzeiten und möglicher Schäden am Unternehmensruf.
 
 [[LZ-3-02]]
-==== LZ 3-02: Unterscheiden zwischen Schätzung, Beobachtung und Messung
+==== LZ 3-02: Schätzen von Problemen und Lösungsansätzen
 
-* Begriffe "Schätzung", "Beobachtung" und "Messung" erklären und in der Evaluierung von Problemen und Lösungsansätzen anwenden.
-* Schätzungen in Intervallen angeben können. Sie kennen verschiedene Ansätze für Intervallschätzungen:
-** Konfidenzintervall
-** Minimum-Maximum-Intervall
-** Worst-/Average-/Best-Case-Schätzung
-* Wahrscheinlichkeit der Korrektheit von Schätzungen beurteilen und angeben können (etwa durch Größe von Intervallschätzungen)
-* Schätzgegenstände identifizieren und benennen, beispielsweise Arbeitsstunden
+* Schätzungen in Intervallen angeben können
+* Wahrscheinlichkeit der Korrektheit von Schätzungen beurteilen und angeben können
 * Schätzparameter und Einflussfaktoren auf Schätzungen identifizieren
-* Explizite Annahmen treffen, um Schätzparameter in Wertebereichen festlegen zu können.
+* Annahmen und Einflussfaktoren offenlegen, um die Schätzungen transparent und reproduzierbar zu halten
+
 
 [[LZ-3-03]]
-==== LZ 3-03: Schätzen von Problemen und Lösungsansätzen
+==== LZ 3-03: Ganzheitliche Bewertung von Modernisierungsstrategien
 
-Softwarearchitekt:innen können Schätzverfahren auf Probleme und Lösungsansätze anwenden.
-
-Insbesondere können sie:
-
-* die durch Probleme oder Risiken verursachten (potentiellen) Schäden (_Schmerzen_) quantitativ einschätzen,
-* bei der Schätzung Annahmen und Einflussfaktoren offenlegen und plausible Bereiche für diese Faktoren angeben, um die Schätzungen transparent und reproduzierbar zu halten.
-
-
-[[LZ-3-04]]
-==== LZ 3-04: Makro-Strategien bewerten: Neuentwicklung vs. inkrementelle Verbesserung
-
-Als eine zentrale Anwendung von Schätz- und Bewertungsverfahren können Softwarearchitekt:innen die Auswirkungen von grundlegend entgegengesetzten Verbesserungsstrategien (detailliert in <<LZ-4-01>>) abwägen.
+Als eine zentrale Anwendung von Schätz- und Bewertungsverfahren können Softwarearchitekt:innen die Auswirkungen vielfältiger Modernisierungsstrategien abwägen.
 
 Insbesondere können sie:
-* Die Effekte (Risiken, Vorteile) des Ansatzes "komplette Neuentwicklung (Rewrite, _Big Bang_)" gegenüber einer "kontinuierlichen Verbesserung" einschätzen und argumentieren.
-* Verstehen, dass mangelnde Kenntnis von Details (wie etwa Anforderungen, Details von Algorithmen und Prozessen, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten, betriebliche Prozesse) häufig die Option "Rewrite" einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details wäre.
+
+* Ein breites Spektrum an Lösungsansätzen bewerten, Effekte (Risiken, Vorteile, Aufwände) kontextbezogen einschätzen und argumentieren.
+* Die trügerische Einfachheit von Rewrites erkennen: Verstehen, dass mangelnde Kenntnis von existierenden Details (wie etwa Anforderungen, Algorithmen und Prozesse, Qualitätsszenarien, Implementierungsdetails, technische Abhängigkeiten und betriebliche Prozesse) radikale Optionen wie den "Rewrite" häufig wesentlich einfacher erscheinen lässt, als sie bei Berücksichtigung dieser Details tatsächlich wären.
+* Wissen sichern und Risiken minimieren: Erkennen, dass vor drastischen Architekturentscheidungen oft vorgeschaltete Strategien (wie *Extract* zur Wissenssicherung oder *Trim it down* zur Reduktion von Ballast) notwendig sind, um fundierte Entscheidungen treffen zu können.
 // end::DE[]
 
 // tag::EN[]

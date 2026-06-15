@@ -3,17 +3,8 @@
 [[LZ-5-01]]
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
-Softwarearchitekt:innen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
+Softwarearchitekt:innen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen.
 Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit zu machen, Abhängigkeiten und Risiken hervorzuheben und all diese aktuell zu halten.
-
-Beispiele:
-
-* Issue Tracker
-* Tabellen oder leichtgewichtige Datenbanken
-* Präsentationen
-* Architecture-Decision-Records (ADRs)
-* Diagramme
-* Dashboards (Live-KPIs und Fortschritte in Verbindung mit geplanten Maßnahmen)
 
 
 [[LZ-5-02]]
@@ -21,17 +12,6 @@ Beispiele:
 
 Softwarearchitekt:innen sollten ihre Planung auf einer Reihe von Leitprinzipien aufbauen. Diese Prinzipien beschreiben eine Denkweise (_mindset_), die die gesamte Verbesserungsinitiative leiten sollte.
 Diese Denkweise wird während der Planungsphase etabliert und stellt sicher, dass die resultierende Roadmap (siehe <<LZ-5-03>>) von Anfang an iterativ, feedback-gesteuert und risikobewusst angelegt wird.
-
-Wichtige Prinzipien sind:
-
-* **Strebe schnelles und häufiges Feedback an:** Enge Feedbackschleifen mit Stakeholdern, Benutzern und dem System selbst (z.B. durch Testen und Monitoring) schaffen, um die Richtung der Verbesserung kontinuierlich zu validieren.
-* **Setze Verbesserungen iterativ um:** "Big Bang"-Änderungen möglichst vermeiden. Wert in kleinen, überschaubaren Schritten liefern, um Risiken zu reduzieren und Fortschritte zu demonstrieren.
-* **Reduziere Komplexität:** Aktiv nach Möglichkeiten suchen, das System, seine Architektur und seinen Code im Rahmen der Verbesserungsarbeit zu vereinfachen. (siehe auch <<LZ-4-04>> und <<LZ-4-05>>)
-* **Validiere Verbesserungen mit Prototypen:** Proofs-of-Concept, Spikes oder Prototypen verwenden, um Annahmen zu testen und technische oder geschäftliche Risiken zu reduzieren, bevor eine vollständige Implementierung erfolgt. (siehe auch <<LZ-4-03>>)
-* **Teste nach jeder Änderung:** Ein hohes Qualitätsniveau aufrechterhalten und Regressionen verhindern, indem automatisiertes Testen in den täglichen Arbeitsablauf integriert wird.
-* **Kommuniziere Annahmen explizit:** Alle zugrunde liegenden Annahmen für Stakeholder sichtbar machen, um die Abstimmung zu gewährleisten und Missverständnisse später im Prozess zu vermeiden.
-* **Gruppiere Verbesserungsansätze oder -taktiken:** Verwandte Verbesserungsaufgaben in logische Arbeitspakete oder Themen bündeln.
-Dies reduziert Rüstkosten (z.B. Kontextwechsel, Tool-Setup, Teamkoordination), indem ähnliche Aktivitäten zusammen durchgeführt werden können, was zu einer effizienteren Ausführung und einem kohärenteren Plan führt. (siehe auch <<LZ-5-03>>)
 
 
 [[LZ-5-03]]
@@ -41,51 +21,11 @@ Basierend auf den bewerteten Problemen und ausgewählten Lösungsansätzen könn
 
 Dies beinhaltet:
 
-* Priorisierung von Verbesserungsmaßnahmen (z.B. basierend auf Risiko, Kosten-Nutzen und Abhängigkeiten).
+* Priorisierung von Verbesserungsmaßnahmen (z.B. basierend auf Risiko, Kosten-Nutzen oder Abhängigkeiten).
 * Gruppierung von Maßnahmen in logische, inkrementelle Schritte oder Releases.
 * Definition von kurz- und langfristigen Zielen.
 * Visualisierung des Plans (z.B. als Zeitachse oder als Abfolge von Arbeitspaketen).
-
-[[LZ-5-04]]
-==== LZ 5-04: [OPTIONAL] Anwenden von Methoden zur Priorisierung und Planung von Verbesserungen
-
-Softwarearchitekt:innen sollten etablierte Methoden zur Unterstützung von Planung und Priorisierung kennen.
-Die folgende Liste dient als Referenz; vertiefte Kenntnisse werden in diesem Curriculum nicht verlangt.
-
-Methoden zur Priorisierung:
-
-* Value-vs-Effort-Matrix (Nutzen-Aufwand-Matrix)
-* Cost of Delay
-* Weighted Shortest Job First (WSJF)
-
-Methoden zur Planung und Visualisierung:
-
-* User Story Mapping
-* Kanban-Boards
-* Wardley Maps (siehe auch <<hiredThought>> und <<tune>>)
-* Core Domain Charts (siehe auch <<dddCrew>> und <<tune>>)
-* North Star (siehe auch <<geeks>> und <<tune>>)
-
-[[LZ-5-05]]
-==== LZ 5-05: [OPTIONAL] Verbesserungspläne (_roadmaps_) an der Strategie ausrichten und Stakeholder einbinden
-
-Softwarearchitekt:innen können Verbesserungspläne effektiv an strategischen Zielen ausrichten und die Einbindung von Stakeholdern steuern.
-
-
-Dazu gehören:
-
-* Verständnis der Geschäftsziele und Ausrichtung der Verbesserungsinitiativen auf diese Ziele.
-* Beobachten bevorstehender Herausforderungen (z. B. Veränderungen, Wachstum, Extremsituationen, Trends, Marktentwicklungen) und Einbeziehen dieser in die Verbesserungsstrategie.
-* Vorbereiten von Entscheidungsträgern auf langfristige Verbesserungsprozesse, indem sie einbezogen, über Ziele, Vorteile, Risiken, Hindernisse und Konsequenzen informiert und ihr Engagement gewonnen wird.
-* Aufbauen von Verständnis und einem Netzwerk von Unterstützern für Verbesserungen durch proaktives Stakeholder-Management und kollaborative Architekturarbeit.
-* Kommunikation und Argumentation von Ansätzen zur langfristigen Verbesserung gegenüber verschiedenen Stakeholdern.
-
-[INFO]
-====
-**Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterprise-Architekt:innen.
-Die Kennzeichnung dieses Lernziels als optional soll Architekt:innen ermutigen, diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
-====
-
+* Regelmäßige Kommunikation vornehmen, ausgerichtet auf Stakeholder der Entscheidungsebene.
 
 // end::DE[]
 

@@ -5,67 +5,34 @@
 
 * Funktionale Erweiterung oder Änderung
 * Änderung von Qualitätsanforderungen oder -zielen
-* Änderungen in technischem oder fachlichen Kontext (z. B. Änderung an externen Schnittstellen)
+* Änderungen in technischem oder fachlichem Umfeld
 * Fehlerbehebung
-* Organisatorische Änderungen (z. B. Änderungen juristischer Rahmenbedingungen oder Anforderungen, an Organisationsstrukturen in Fachbereichen, Entwicklung oder Betrieb)
-* Kosten- oder Aufwandsreduktion, insbesondere bezüglich
-** Entwicklungskosten oder -aufwände
-** Betriebskosten oder -aufwände
-** Kosten der Fehlerbehebung und Kosten von Folgeschäden
-** Kosten beteiligter Prozesse
-** Opportunitätskosten
-* Intrinsische Motivation beteiligter Personen, insbesondere Softwareentwickler:innen und -architekt:innen
-* Aktualisierung verwendeter Technologien, etwa Betriebssysteme, Middleware, Bibliotheken, Frameworks, Hardware oder ähnliche.
+* Organisatorische Änderungen
+* Kosten- oder Aufwandsreduktion
+* Aktualisierung verwendeter Technologien
 
 [[LZ-1-02]]
 ==== LZ 1-02: Erkennen und Klassifizieren technischer und organisatorischer Defizite
 
 Softwarearchitekt:innen sollten verschiedene Arten von technischen und organisatorischen Defiziten (_Schulden_) erkennen (siehe <<LZ-2-02>>) und benennen können, beispielsweise:
 
-* Konzeptionelle Schwächen, beispielsweise Verletzung konzeptioneller Integrität, übermäßige Redundanz
-* Strukturelle Probleme in Daten oder Datenstrukturen
-* Strukturelle Probleme im Quellcode, etwa:
-** fehlende oder unzureichende Modularisierung,
-** enge Kopplung,
-** hohe Komplexität,
-** geringe Kohäsion,
-** Schwächen in der Programmierung, etwa nicht-idiomatische Verwendung von Programmiersprachen oder -werkzeugen,
-* Probleme mit Anwendungsdaten, Datenstrukturen oder Datenspeicherung
-* Laufzeitprobleme in Systemen, etwa Instabilität, mangelnde Robustheit oder Zuverlässigkeit, mangelnde Performance oder zu hoher Ressourcenbedarf, mangelnde Skalierbarkeit
-* Probleme bei Erreichung von Qualitätsanforderungen, etwa mangelnde Änderbarkeit, Verständlichkeit, Flexibilität, Sicherheit, Testbarkeit, Portabilität oder andere für das jeweilige System oder Umfeld relevante Qualitätseigenschaften (siehe etwa <<iso25010>> oder <<Q42>>),
-* Technische Schwächen: Verwendung nicht angemessener Technologien, falsche Verwendung von Technologien,
-* Probleme oder hohe Risiken im Bereich Sicherheit (Datensicherheit, Vertraulichkeit, Zugangsschutz oä),
-* Probleme in Arbeitsprozessen oder -abläufen rund um Systeme, beispielsweise:
-** Probleme mit Tests, Testvorgehen, Testdaten, Testausführung, Testumgebungen,
-** Probleme mit Freigabe/Release, Deployment, Betrieb, Monitoring/Alerting,
-** Probleme aufgrund von fehlendem Wissen, fehlender oder mangelhafter Dokumentation,
-** Probleme in Kommunikation mit/zwischen Stakeholdern,
-** Ständige Scope-Änderungen unter Zeit-/Kostendruck (häufig wechselnde Anforderungen, Prioritäten oder Abnahmekriterien) als Ursache von Ad-hoc-Arbeit, Erosion der konzeptuellen Integrität und Akkumulation von Altlasten/technischer Schuld
-
-Siehe <<kruchtenTechDebt>>, <<starke-debt>>, <<ernst-techDebt>>.
+* Konzeptionelle Schwächen der Architektur und des Designs
+* Strukturelle Probleme in Daten, Datenstrukturen und Quellcode
+* Probleme bei der Erreichung von Qualitätsanforderungen
+* Nicht angemessene oder falsche Verwendung von Technologien
+* Probleme in Arbeitsprozessen oder -abläufen rund um die Entwicklung eines Systems
 
 [[LZ-1-03]]
 ==== LZ 1-03: Definieren und Unterscheiden von Problem, Symptom, Ursache, Risiko und Lösung
 
-Softwarearchitekt:innen können den Begriff der "technischen und organisatorischen Schulden" (siehe <<LZ-1-02>>) erklären, und insbesondere gegenüber dem Schuldenbegriff in Wirtschaft und Finanzwesen differenzieren.
-Hierzu gehören insbesondere:
+Softwarearchitekt:innen können Grundbegriffe von Softwareevolution, -änderung und -verbesserung differenzieren und erklären, beispielsweise:
 
-* Verstehen, dass "Schulden" im Zusammenhang mit IT-Systemen eine Metapher und kein wirkliches Finanzkonstrukt sind. 
-* Schulden in Wirtschaft und Finanzen besitzen klar definierte (z.T. gesetzlich geregelte) Mechanismen:
-** einen vorab definierten quantifizierten Betrag (d.h. quantifizierte _Höhe der Schulden_),
-** formalisierte Rollen und Verantwortlichkeiten (Gläubiger, Schuldner),
-** vereinbarte Zins- und Tilgungspläne (d.h. Rückführung der Schulden vorab definiert)
-** formale rechtliche und buchhalterische Behandlung
-
-Softwarearchitekt:innen können weitere Grundbegriffe von Softwareevolution, -änderung und -verbesserung differenzieren und erklären, beispielsweise:
-
-* Problem (Issue)
-* Lösungsansatz (Möglichkeit zur Verbesserung)
-* Kosten (von Problemen, Lösungsansätzen, Maßnahmen)
+* Problem, Lösungsansätze, Maßnahmen
+* Kosten von Problemen, Konsequenzen von Lösungsansätzen, Nutzen von Maßnahmen
 * Ursachen (Root cause) versus Symptom
-* Risiko
+* Risiko und technische Schulden
 
-Diese Begriffe bilden die Voraussetzung für <<LZ-2-01>>.
+Siehe <<kruchtenTechDebt>>.
 
 // end::DE[]
 

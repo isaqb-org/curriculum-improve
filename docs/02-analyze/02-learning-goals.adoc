@@ -3,13 +3,13 @@
 [[LZ-2-01]]
 ==== LZ 2-01: Unterscheiden zwischen Problemanalyse und Lösungsfindung
 
-Softwarearchitekt:innen können: 
+Softwarearchitekt:innen können:
 
 * Problemanalyse begrifflich von Problemlösung trennen
-* Problem und Lösungsansatz in m:n-Verhältnis einander zuordnen
+* Problem und Lösungsansatz in einem m:n-Verhältnis einander zuordnen
 * große oder komplizierte Probleme in Teilprobleme zerlegen
+* Den Ursachen von Problemen systematisch auf den Grund gehen
 
-Die begrifflichen Voraussetzungen hierfür schafft <<LZ-1-03>>.
 
 [[LZ-2-02]]
 ==== LZ 2-02: Auswählen und Anwenden von Praktiken zur Ist-Analyse
@@ -19,24 +19,12 @@ Softwarearchitekt:innen kennen typische Praktiken der Ist-Analyse und können f�
 Dazu gehören beispielsweise folgende Ansätze:
 
 * Verstehen des aktuellen Stands der Geschäftsprozesse und (Sub-)Domänen
-* Stakeholder-Analyse und -interview (siehe <<LZ-2-04>>)
 * Kontextanalyse (siehe <<LZ-2-05>>)
-* Qualitative Analyse (etwa ATAM (<<atam>>) oder LASR (<<lasr>>)), insbesondere die Analyse von Qualitätszielen
-* Analyse der Ist-Struktur von Systemen: Untersuchung von Abhängigkeiten auf verschiedenen Abstraktionsebenen (siehe <<LZ-2-06>>)
-* Analyse von strukturellen Abweichungen zwischen geplanten und aktuellen Strukturen
-
-* Quantitative Analysemethoden (siehe <<LZ-2-08>>) und -praktiken, etwa:
-** Code-Metriken (Größenmaße, Kopplung, Komplexität, Kohäsion)
-** Organisatorische Metriken wie Kosten, Zeit und Anzahl. Beispiele: Fehleranzahl und Fehlerraten, Entwicklungsgeschwindigkeit, Kosten pro Feature, Kosten pro behobenem Fehler etc.
-** Laufzeitmetriken, wie Zeit- und Ressourcenbedarf und Werkzeuge zu deren Erhebung (siehe <<LZ-2-07>>)
-
-* Analyse von Anwendungsdaten: Untersuchung von Datenstrukturen und -inhalten (siehe <<LZ-2-09>>)
-* Dokumentationsanalyse
-* Analyse der technischen Umgebung (Laufzeit- und Betriebsumgebung: Hardware, Betriebsumgebung, Netzwerke, beteiligte Betriebssysteme und Infrastruktursoftware)
-* Analyse technischer und organisatorischer Prozesse im Zusammenhang mit der Systementwicklung und dem Systembetrieb, z. B. Anforderungsmanagement, Design/Implementierung, Test/Qualitätssicherung, Build/Deployment (siehe <<LZ-2-10>>).
-
-Dieses Lernziel korrespondiert zu <<LZ-1-02>>.
-
+* Stakeholder-Analyse und -interview (siehe <<LZ-2-04>>)
+* Qualitative Analyse, insbesondere Defizite bei Qualitätszielen
+* Analyse der Ist-Struktur von Systemen und strukturellen Abweichungen
+* Quantitative Analysemethoden (Code-Metriken, organisatorische Metriken, Laufzeitmetriken, etc.)
+* Analyse von weiteren Artefakten wie Anwendungsdaten, Dokumentation, technischer Infrastruktur sowie Entwicklungs- und Betriebsprozessen
 
 [[LZ-2-03]]
 ==== LZ 2-03: Dokumentieren von Analyseergebnissen, Problemen und Risiken
@@ -54,6 +42,7 @@ Softwarearchitekt:innen können:
 * Vorbereitende Fragebögen erstellen
 * Situativ im Verlauf von Interviews spezifisch auf sich ergebende neue Sachverhalte eingehen und diese in die Analyse einbeziehen
 
+
 [[LZ-2-05]]
 ==== LZ 2-05: Analysieren des Systemkontexts und externer Schnittstellen
 
@@ -63,65 +52,39 @@ Softwarearchitekt:innen können:
 * Zusammenhänge zwischen externen Schnittstellen und möglichen Stakeholdern erkennen und für die Problemanalyse ausnutzen.
 * Probleme und Risiken externer Schnittstellen erarbeiten (u. a. über Interviews, Analyse bekannter Fehler, Laufzeitanalyse, Protokoll- oder Loganalyse, Analyse der organisatorischen Beziehungen, Analyse der Qualitätsmerkmale und/oder Service-Levels).
 
+
 [[LZ-2-06]]
-==== LZ 2-06: Durchführen statischer Code- und Strukturanalyse
-
-Softwarearchitekt:innen können statische Analyse von bestehendem Quellcode und dessen Strukturen durchführen und dokumentieren.
-Hierzu können Werkzeuge, auch KI-gestützte, eingesetzt werden, etwa zur Navigation in unbekannten Codebasen oder zur Extraktion von technischen Mustern und fachlichen Konzepten.
-
-(Entsprechende Werkzeuge können in der Schulung eingesetzt werden, sind jedoch nicht Voraussetzung).
-
-
-[[LZ-2-07]]
-==== LZ 2-07: Durchführen von Laufzeitanalysen zur Bewertung des Systemverhaltens
-
-Softwarearchitekt:innen können dynamische/Laufzeitanalyse von bestehenden Systemen planen und durchführen, beispielsweise hinsichtlich Laufzeiten, Ressourcenauslastung, Lastverhalten. 
-(Hierzu können in der Schulung entsprechende Werkzeuge eingesetzt werden, sind jedoch keine Voraussetzung).
-
-[[LZ-2-08]]
-==== LZ 2-08: Erheben und Anwenden von Metriken zur quantitativen Systemanalyse
+==== LZ 2-06: Erheben und Anwenden von Metriken zur quantitativen Systemanalyse
 
 Softwarearchitekt:innen können:
 
 * systematische quantitative Analysen durchführen, um Metriken über Systeme zu erhalten,
-* geeignete Metriken auf der Grundlage von Analysezielen und verfügbaren Datenquellen auswählen und anwenden.
-* mehrere Metriken kombinieren, um umfassende Erkenntnisse zu gewinnen
-* Einschränkungen und mögliche Fehlinterpretationen von Metriken verstehen
+* geeignete Metriken auf der Grundlage von Analysezielen und verfügbaren Datenquellen auswählen und anwenden,
+* mehrere Metriken kombinieren, um umfassende Erkenntnisse zu gewinnen,
+* Einschränkungen und mögliche Fehlinterpretationen von Metriken verstehen.
 
 Zu diesen Metriken gehören:
 
 * Code-Metriken: Größenmetriken (LOC, Anzahl der Klassen/Module), Kopplungsmetriken, Komplexitätsmetriken (zyklomatische Komplexität, kognitive Komplexität), Kohäsionsmetriken
-* Organisationsmetriken: Kosten, Zeitaufwand, Teamgeschwindigkeit, Vorlaufzeit, Zykluszeit
-* Qualitätsmetriken: Fehlerdichte, Fehleranzahl und Ausfallraten, mittlere Wiederherstellungszeit (MTTR), mittlere Zeit zwischen Ausfällen (MTBF)
+* Zuverlässigkeitsmetriken: Fehlerdichte, Fehleranzahl und Ausfallraten, mittlere Wiederherstellungszeit (MTTR), mittlere Zeit zwischen Ausfällen (MTBF)
+* Laufzeitanalysen: Durchführen von dynamischen Analysen zur Bewertung des Systemverhaltens
 * Entwicklungsmetriken: Entwicklungsgeschwindigkeit, Kosten pro Funktion, Kosten pro behobenem Fehler
+* Organisationsmetriken: Kosten, Zeitaufwand, Teamgeschwindigkeit, Durchlaufzeiten, Zykluszeit
+
 
 (Hinweis: Nicht alle Metriken müssen während der Schulungen ausführlich behandelt werden.)
 
-[[LZ-2-09]]
-==== LZ 2-09: Analysieren von Anwendungsdaten
+[[LZ-2-07]]
+==== LZ 2-07: Analysieren vorhandener Daten
 
 Softwarearchitekt:innen können Anwendungsdaten analysieren, um datenbezogene Probleme, Datenqualitätsprobleme und entsprechende Verbesserungsmöglichkeiten zu identifizieren.
 
 Sie kennen potenzielle Ursachen für datenbezogene Probleme, zum Beispiel:
 
-* Datenmodelle und Schemastrukturen: Datenbankschemata, Entitätsbeziehungen, Datentypen
-* Datenqualitäten wie Vollständigkeit, Konsistenz, Genauigkeit, Aktualität und Gültigkeit
-* Datenzugriffsmuster und Abfrageleistung
-* Herausforderungen bei der Datenmigration und -transformation
-* Datenanomalien: Duplikate, verwaiste Datensätze, Verletzungen der referenziellen Integrität, Verstöße gegen Einschränkungen
+* Datenmodelle, Schemastrukturen, Datenzugriffsmuster und Abfrageleistung
 * Datenabhängigkeiten zwischen Systemen und Komponenten
-* Technische Probleme in Bezug auf Datenbanksysteme oder andere Persistenzmechanismen
-
-
-[[LZ-2-10]]
-==== LZ 2-10: Analysieren technischer und organisatorischer Prozesse
-
-Softwarearchitekt:innen können organisatorische und technische Prozesse analysieren, um Ineffizienzen, Engpässe und Verbesserungspotenziale zu identifizieren.
-
-Dazu gehören:
-
-* Entwicklungsprozesse: Anforderungsanalyse, Entwurfs- und Implementierungspraktiken, Test und Qualitätssicherung, Deployment und Übergabe an den Betrieb
-* Betriebsprozesse: Incident Management, Change Management, Release Management, Überwachung/Monitoring und Alerting
+* Datenqualitäten wie Vollständigkeit, Konsistenz, Genauigkeit, Aktualität, Gültigkeit und referentielle Integrität
+* Herausforderungen bei der Datenmigration und -transformation
 
 
 // end::DE[]
