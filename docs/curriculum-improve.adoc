@@ -2,27 +2,12 @@
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
 
-ifdef::backend-pdf[]
-:nl: pass:q[<br>]
-:nl2: pass:q[<br><br>]
-:title-break: :{sp}
-:toc: macro
-:toc-placement: macro
-endif::[]
-ifndef::backend-pdf[]
-:nl: {sp}
-:nl2: {sp}
-:short-break: {sp}–{sp}
-:title-break: pass:q[<br>]
-:toc: left
-endif::[]
-
 ifeval::["{language}" == "DE"]
-= Curriculum für{nl2}Certified Professional for{nl}Software Architecture (CPSA)^(R)^{nl}__Advanced Level__{title-break}Modul{nl}{curriculum-short}{short-break}{curriculum-name}
+= Curriculum für{newline-double}Certified Professional for{newline}Software Architecture (CPSA)^(R)^{newline}__Advanced Level__{title-break}Modul{newline}{curriculum-short}{short-break}{curriculum-name}
 :toc-title: Inhaltsverzeichnis
 endif::[]
 ifeval::["{language}" == "EN"]
-= Curriculum for{nl2}Certified Professional for{nl}Software Architecture (CPSA)^(R)^{nl}__Advanced Level__{title-break}{nl}Module{nl}{curriculum-short}{short-break}{curriculum-name}
+= Curriculum for{newline-double}Certified Professional for{newline}Software Architecture (CPSA)^(R)^{newline}__Advanced Level__{title-break}Module{newline}{curriculum-short}{short-break}{curriculum-name}
 endif::[]
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
