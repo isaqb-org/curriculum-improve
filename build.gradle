@@ -1,6 +1,0 @@
-ext {
-    curriculumFileName = "curriculum-improve"
-    languages = ["DE", "EN"]
-}
-
-defaultTasks 'buildDocs'

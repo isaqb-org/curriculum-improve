@@ -1,21 +1,28 @@
-= https://isaqb.org[iSAQB] Curriculum for the CPSA-advanced Module IMPROVE
-:toc:
-:toclevels: 3
-:toc-title: Table of Contents
-
-== Content
-This repository contains the AsciiDoc sources of the curriculum for the iSAQB Advanced Level "IMPROVE".
-
-This is <<copyrighted,copyrighted work>>.
-
+= Evolution and Improvement of Software Architectures – iSAQB^(R)^ Advanced Level Curriculum (IMPROVE)
 
 == Status
-image:https://github.com/isaqb-org/curriculum-improve/actions/workflows/build_main.yml/badge.svg["CI/Release"]
+image:https://github.com/isaqb-org/curriculum-improve/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-improve/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-improve.svg["Contributors",link="https://github.com/isaqb-org/curriculum-improve/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-improve.svg["Issues",link="https://github.com/isaqb-org/curriculum-improve/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-improve/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
+This is <<copyrighted,copyrighted work>>.
+
+== About this curriculum
+
+This repository contains the source of the iSAQB^(R)^ Advanced Level (CPSA-A) curriculum
+*Evolution and Improvement of Software Architectures* (module *IMPROVE*).
+
+The curriculum is written in AsciiDoc and built into versioned *PDF and HTML* output in
+*German (DE)* and *English (EN)*. It was created from the
+https://github.com/isaqb-org/advanced-template[iSAQB Advanced Level template].
+
+== Released documents
+The latest released HTML and PDF documents (German and English) are published via GitHub
+Pages at https://public.isaqb.org/curriculum-improve[public.isaqb.org/curriculum-improve].
+
+They are produced by CI on each release.
 
 === Version history
 
@@ -27,63 +34,82 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-improve.s
 
 | 2025.1  | 2025 | Major refinement of Learning Goals (LGs), revising content (improvement strategy, tech debt, databases, metrics). Order of sections changed to reflect logical flow. >80 commits.
 | | 2024  | A significant German version was added. LGs were enhanced to focus on management support and funding. More time was allocated to "estimate and assess" chapters. About 60 commits.
-| | 2020-2023 | Support for internationalization (i18n) and translations. Some learning goals were merged. First German content. In total, about 150 commits. 
+| | 2020-2023 | Support for internationalization (i18n) and translations. Some learning goals were merged. First German content. In total, about 150 commits.
 | 1.6.1-EN  | 2019 | first release, English only
 |===
 
 
 For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
 
-== How to contribute or participate
-Create an issue, a merge- or pull-request.
+== How to build locally
 
+Prerequisite: https://docs.docker.com/get-docker/[Docker]. Nothing else — no JDK, no Ruby.
 
-== How to build
-
-. Clone the repository - including the submodule:
-+
+Clone the repository (with submodules, for the license text):
 
 [source,shell]
 ----
-Via SSH:
-git clone git@github.com:isaqb-org/curriculum-improve.git --recursive
-
-Via HTTPS:
-git clone https://github.com/isaqb-org/curriculum-improve.git --recursive
+git clone git@github.com:isaqb-org/REPO-NAME.git --recursive
 ----
 
+If you already cloned without `--recursive`, run `git submodule update --init --recursive`.
 
-. Build it with gradle via `./gradle-tools/gradlew buildDocs`.
-. Look into the file `build.gradle` to see what attributes you may configure. Watch for:
-** the `language` attribute, either `DE` (German) or `EN` (English);
-** the output formats called `backends` (pdf and/or html5);
-** the document version.
- 
-== Diagrams, Graphics
-Diagrams (e.g. the structural overview) have been created using the platform-neutral and free `drawio` tool (available at https://diagrams.net[diagrams.net]).
+Build all languages and formats:
 
-In case you want to edit the diagram, install the appropriate extension/plugin for your IDE (VS-Code recommended).
-That will recognize the double-extension (`.drawio.png`) and open the visual editor for that file.
+[source,shell]
+----
+./curriculum-build.sh        # Linux / macOS
+curriculum-build.bat         # Windows
+----
+
+Build a single output — pass the format and language (and optionally a variant):
+
+[source,shell]
+----
+./curriculum-build.sh pdf DE          # Linux / macOS
+./curriculum-build.sh html EN
+./curriculum-build.sh pdf DE REMARKS
+----
+
+[source,bat]
+----
+curriculum-build.bat pdf DE           rem Windows
+curriculum-build.bat html EN
+curriculum-build.bat pdf DE REMARKS
+----
+
+Output is written to `build/`, named `<CURRICULUM_FILE>-<lang>.pdf` / `.html`, together
+with an `index.html` overview page. The launcher pulls the builder image on first run and
+reuses it afterwards.
+
+=== Build configuration
+
+`build.config` in the repository root holds the per-curriculum settings:
+
+[cols="1,3a",options="header"]
+|===
+|Key |Meaning
+
+|`CURRICULUM_FILE` |AsciiDoc root in `docs/` (without `.adoc`); also the output file name.
+|`LANGUAGES`       |Space-separated languages to build. Default `DE EN`; drop one for a single-language curriculum.
+|`SUFFIX_TAGS`     |Space-separated extra build variants, exposed as the `{suffix}` attribute. Empty = single build.
+|`PREPRESS`        |PDF print/book layout (recto chapter starts + binding margins). `true` / `false`.
+|===
+
+Any key can be overridden for a single run via an environment variable, e.g.
+`LANGUAGES="DE" ./curriculum-build.sh`.
 
 == How to contribute or participate
-
-Create an issue, a merge- or pull-request here!
-
-For open, closed and in-progress-issues: see our https://github.com/orgs/isaqb-org/projects/4[Kanban-Board]
-
-== Additional translations/languages
-include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
+Create an issue or a pull-request.
 
 == Maintainers
 
 This repository is currently maintained by Gernot Starke, Markus Harrer, and Benjamin Wolf.
 It was forked from https://github.com/isaqb-org/advanced-template, so the contributors of that project basically contributed to this one, too.
 
-
 == More Contributors
 
-Parts of the content origined from the https://aim42.org[aim42 open source method] for architecture improvement. Thanx to all https://github.com/aim42/aim42/graphs/contributors[contributors] of aim42!
-
+Parts of the content originated from the https://aim42.org[aim42 open source method] for architecture improvement. Thanx to all https://github.com/aim42/aim42/graphs/contributors[contributors] of aim42!
 
 
 [[copyrighted]]
