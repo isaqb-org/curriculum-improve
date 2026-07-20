@@ -18,7 +18,6 @@ endif::[]
 ifndef::backend-pdf[]
 :toc: left
 endif::[]
-
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 
