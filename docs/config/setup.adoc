@@ -20,28 +20,22 @@ endif::[]
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: Evolution und Verbesserung von Softwarearchitekturen
-:curriculum-header-title: iSAQB Curriculum für Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB® Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-name: Evolution and Improvement of Software Architectures
-:curriculum-header-title: iSAQB Curriculum for Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB® Curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
 // title definitions for proper formatting in PDF and HTML – DO NOT TOUCH
 ifdef::backend-pdf[]
-:newline: pass:q[<br>]
-:newline-double: pass:q[<br><br>]
 :title-break: :{sp}
-:short-break: {newline-double}
 :toc: macro
 :toc-placement: macro
 endif::[]
 ifndef::backend-pdf[]
-:newline: {sp}
-:newline-double: {sp}
 :title-break: pass:q[<br>]
-:short-break: {sp}–{sp}
 :toc: left
 endif::[]
 
