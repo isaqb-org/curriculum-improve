@@ -3,7 +3,7 @@
 [[LZ-5-01]]
 ==== LZ 5-01: Darstellen von bewerteten Problemen und Lösungsansätzen mit geeigneten Werkzeugen
 
-Softwarearchitekt:innen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen. 
+Softwarearchitekt:innen kennen technische und manuelle Ansätze, um bewertete Probleme und Lösungsansätze explizit darzustellen, und können für die jeweilige Situation geeignete Möglichkeiten auswählen.
 Sie bevorzugen die kleinsten oder einfachsten Ansätze, um Annahmen explizit zu machen, Abhängigkeiten und Risiken hervorzuheben und all diese aktuell zu halten.
 
 Beispiele:
@@ -80,7 +80,7 @@ Dazu gehören:
 * Aufbauen von Verständnis und einem Netzwerk von Unterstützern für Verbesserungen durch proaktives Stakeholder-Management und kollaborative Architekturarbeit.
 * Kommunikation und Argumentation von Ansätzen zur langfristigen Verbesserung gegenüber verschiedenen Stakeholdern.
 
-[INFO]
+[NOTE]
 ====
 **Anmerkung:** In vielen Organisationen liegen die strategische Ausrichtung und das Stakeholder-Management in erster Linie in der Verantwortung des Managements oder der Unternehmens-/Enterprise-Architekt:innen.
 Die Kennzeichnung dieses Lernziels als optional soll Architekt:innen ermutigen, diese Fähigkeiten zu entwickeln, wenn es der Kontext und die Befugnisse erlauben, ohne sie zu einer erforderlichen Kompetenz in allen Rollen oder Organisationen zu machen.
@@ -110,7 +110,7 @@ Examples:
 [[LG-5-02]]
 ==== LG 5-02: Apply Guiding Principles for Improvement
 
-Software architects should base their planning on a set of guiding principles. 
+Software architects should base their planning on a set of guiding principles.
 These principles are about defining a mindset that should govern the entire improvement initiative.
 This mindset is established during the planning phase and ensures the resulting roadmap (see <<LG-5-03>>) is iterative, feedback-driven, and risk-aware from the outset.
 
@@ -173,7 +173,7 @@ This includes:
 * Building understanding and a network of supporters for improvements through proactive stakeholder management and collaborative architecture work.
 * Communicating and arguing approaches to long-term improvement to different stakeholders.
 
-[INFO]
+[NOTE]
 ====
 **Note:** In many organizations, strategic alignment and stakeholder management are primarily the responsibilities of management or enterprise architects.
 Marking this learning goal as optional shall encourage architects to develop these skills where context and authority permit, without making them a required competency in all roles or organizations.
